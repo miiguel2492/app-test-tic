@@ -1,0 +1,833 @@
+{
+  "id": "tic_clm_2025",
+  "nombre": "Cuerpo Superior TIC CLM 2025 INTERNA",
+  "tiempo_minutos": 120,
+  "total_preguntas": 100,
+  "preguntas": [
+    {
+  "id": 1,
+  "enunciado": "Según el artículo 26 del Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, los derechos de explotación de la obra durarán:",
+  "opciones": {
+    "A": "Toda la vida del autor y sesenta años después de su muerte.",
+    "B": "Toda la vida del autor y setenta años después de su muerte.",
+    "C": "Toda la vida del autor y ochenta años después de su muerte.",
+    "D": "Toda la vida del autor y noventa años después de su muerte."
+  },
+  "correcta": "B"
+},
+{
+  "id": 2,
+  "enunciado": "¿Cuál es un mecanismo de priorización del tráfico de red en el nivel de capa 2 aplicable para garantizar la calidad de servicio?",
+  "opciones": {
+    "A": "DiffQoS.",
+    "B": "IntQoS.",
+    "C": "802.1p.",
+    "D": "VlanQoS."
+  },
+  "correcta": "C"
+},
+{
+  "id": 3,
+  "enunciado": "En Linux, ¿qué permiso hay que utilizar para restringir la eliminación de archivos de un directorio únicamente al propietario y root?",
+  "opciones": {
+    "A": "SGID.",
+    "B": "SUID.",
+    "C": "Sticky bit.",
+    "D": "Owner bit."
+  },
+  "correcta": "C"
+},
+{
+  "id": 4,
+  "enunciado": "En una blockchain, cuando un minero controla más del 50 % de la potencia de cálculo de la red se produce:",
+  "opciones": {
+    "A": "Ataque de phishing.",
+    "B": "Ataque de Sybil.",
+    "C": "Ataque del 51 %.",
+    "D": "Ataque de replay."
+  },
+  "correcta": "C"
+},
+{
+  "id": 5,
+  "enunciado": "Según la Ley 11/2022, de Telecomunicaciones, ¿a quién corresponde la aprobación de los planes de utilización del espectro radioeléctrico?",
+  "opciones": {
+    "A": "Comunidades Autónomas.",
+    "B": "El Gobierno.",
+    "C": "La CNMC.",
+    "D": "La Comisión de Telecomunicaciones."
+  },
+  "correcta": "B"
+},
+{
+  "id": 6,
+  "enunciado": "Un repositorio que almacena datos estructurados y no estructurados bajo un esquema \"schema on read\" se denomina:",
+  "opciones": {
+    "A": "Data Lake.",
+    "B": "Data Warehouse.",
+    "C": "Data Mart.",
+    "D": "Data Fabric."
+  },
+  "correcta": "A"
+},
+{
+  "id": 7,
+  "enunciado": "Según la ISO 25010, la capacidad de un software para ser modificado de forma eficaz se denomina:",
+  "opciones": {
+    "A": "Usabilidad.",
+    "B": "Seguridad.",
+    "C": "Compatibilidad.",
+    "D": "Mantenibilidad."
+  },
+  "correcta": "D"
+},
+{
+  "id": 8,
+  "enunciado": "¿Qué principio se introduce como novedad en el Esquema Nacional de Seguridad según el RD 311/2022?",
+  "opciones": {
+    "A": "Gestión de riesgos.",
+    "B": "Líneas de defensa.",
+    "C": "Reevaluación periódica.",
+    "D": "Vigilancia continua."
+  },
+  "correcta": "D"
+},
+{
+  "id": 10,
+  "enunciado": "¿Cuál de las siguientes definiciones corresponde a la prospectiva tecnológica según la UNE?",
+  "opciones": {
+    "A": "Proceso sistemático para explorar el futuro de la ciencia y la tecnología.",
+    "B": "Totalidad de medios materiales y humanos de una organización.",
+    "C": "Parte del sistema de gestión de I+D+i.",
+    "D": "Conjunto de medios para realizar vigilancia tecnológica."
+  },
+  "correcta": "A"
+},
+{
+  "id": 11,
+  "enunciado": "Según el ENI, ¿qué tipo de licencia se procurará aplicar para fomentar la reutilización?",
+  "opciones": {
+    "A": "CC BY-NC-SA 4.0.",
+    "B": "Licencia Pública de la Unión Europea (EUPL).",
+    "C": "GPL.",
+    "D": "LGPL."
+  },
+  "correcta": "B"
+},
+{
+  "id": 12,
+  "enunciado": "¿Qué diagramas UML 2 se consideran de tipo estructura?",
+  "opciones": {
+    "A": "Clases, casos de uso y secuencia.",
+    "B": "Clases, casos de uso y actividad.",
+    "C": "Casos de uso, secuencia y despliegue.",
+    "D": "Clases, despliegue y paquetes."
+  },
+  "correcta": "D"
+},
+{
+  "id": 13,
+  "enunciado": "Las siglas OWASP corresponden a:",
+  "opciones": {
+    "A": "Open Worldwide Application Security Project.",
+    "B": "Operational Worldwide Application Security Practices.",
+    "C": "Optimized Worldwide Application Security Processes.",
+    "D": "Online Worldwide Application Security Protocol."
+  },
+  "correcta": "A"
+},
+{
+  "id": 14,
+  "enunciado": "El estándar IEEE 802.3bz para puertos NBASE‑T se conoce como:",
+  "opciones": {
+    "A": "Multi-Speed.",
+    "B": "Multi-Gigabit.",
+    "C": "Multi-Ethernet.",
+    "D": "Multi-Link."
+  },
+  "correcta": "B"
+},
+{
+  "id": 15,
+  "enunciado": "¿Cuál de estos NO es un dominio de COBIT 5?",
+  "opciones": {
+    "A": "Alinear, Planificar y Organizar.",
+    "B": "Monitorear, Evaluar y Valorar.",
+    "C": "Entregar, Servir y Reportar.",
+    "D": "Construir, Adquirir e Implementar."
+  },
+  "correcta": "A"
+},
+{
+  "id": 16,
+  "enunciado": "Según ISO 9001, ¿cuál no es una categoría de productos y servicios?",
+  "opciones": {
+    "A": "Personas.",
+    "B": "Servicios.",
+    "C": "Materiales procesados.",
+    "D": "Hardware."
+  },
+  "correcta": "A"
+},
+{
+  "id": 17,
+  "enunciado": "En redes JDS, ¿qué nivel alcanza aproximadamente 2,5 Gbps?",
+  "opciones": {
+    "A": "STM-1.",
+    "B": "STM-4.",
+    "C": "STM-16.",
+    "D": "STM-64."
+  },
+  "correcta": "C"
+},
+{
+  "id": 18,
+  "enunciado": "La propiedad que impide que la información sea revelada a entidades no autorizadas es:",
+  "opciones": {
+    "A": "Autenticidad.",
+    "B": "Confidencialidad.",
+    "C": "Disponibilidad.",
+    "D": "Trazabilidad."
+  },
+  "correcta": "B"
+},
+{
+  "id": 19,
+  "enunciado": "¿Cuál de los siguientes NO es un elemento clave de un Cuadro de Mandos Integral?",
+  "opciones": {
+    "A": "Visión y misión.",
+    "B": "Objetivos estratégicos.",
+    "C": "Indicadores.",
+    "D": "Presupuesto."
+  },
+  "correcta": "D"
+},
+{
+  "id": 21,
+  "enunciado": "Framework de desarrollo móvil multiplataforma que usa Dart:",
+  "opciones": {
+    "A": "React Native.",
+    "B": ".NET MAUI.",
+    "C": "Ionic.",
+    "D": "Flutter."
+  },
+  "correcta": "D"
+},
+{
+  "id": 22,
+  "enunciado": "Metadato mínimo obligatorio del expediente electrónico según la NTI:",
+  "opciones": {
+    "A": "Fecha de apertura y cierre.",
+    "B": "Funcionario responsable.",
+    "C": "Versión NTI.",
+    "D": "Número de páginas."
+  },
+  "correcta": "A"
+},
+{
+  "id": 23,
+  "enunciado": "La práctica de integrar cambios frecuentes en una rama principal se denomina:",
+  "opciones": {
+    "A": "Gitflow.",
+    "B": "Github flow.",
+    "C": "Trunk-based development.",
+    "D": "Gitlab Flow."
+  },
+  "correcta": "C"
+},
+{
+  "id": 24,
+  "enunciado": "¿Cuál de las siguientes es una red de conmutación de circuitos?",
+  "opciones": {
+    "A": "GSM.",
+    "B": "IP.",
+    "C": "IPX.",
+    "D": "X25."
+  },
+  "correcta": "A"
+},
+{
+  "id": 25,
+  "enunciado": "¿Qué definición corresponde a la autoconciencia en Inteligencia Emocional?",
+  "opciones": {
+    "A": "Capacidad de mantener la calma.",
+    "B": "Habilidades desarrollables.",
+    "C": "Conocimiento reflexivo de los propios estados mentales.",
+    "D": "Responder a necesidades de terceros."
+  },
+  "correcta": "C"
+},
+{
+  "id": 26,
+  "enunciado": "¿Cómo se denomina la organización sin ánimo de lucro que promueve el uso de Wi‑Fi y garantiza la interoperabilidad de dispositivos?",
+  "opciones": {
+    "A": "Wifi-Exchange.",
+    "B": "ONG-Wifi.",
+    "C": "Wifi-Corp.",
+    "D": "Wifi-Alliance."
+  },
+  "correcta": "D"
+},
+{
+  "id": 27,
+  "enunciado": "¿Qué norma o especificación está relacionada con el gobierno, gestión y calidad del dato?",
+  "opciones": {
+    "A": "ISO/IEC 27000.",
+    "B": "ISO/IEC/IEEE 12207.",
+    "C": "ISO/IEC 27001.",
+    "D": "UNE 0080."
+  },
+  "correcta": "D"
+},
+{
+  "id": 28,
+  "enunciado": "En el ecosistema Spring Framework, ¿qué componente facilita la creación de aplicaciones?",
+  "opciones": {
+    "A": "Spring Creator.",
+    "B": "Quarkus.",
+    "C": "Spring Start.",
+    "D": "Spring Boot."
+  },
+  "correcta": "D"
+},
+{
+  "id": 29,
+  "enunciado": "¿Qué protocolo elimina los correos del servidor una vez descargados en el dispositivo?",
+  "opciones": {
+    "A": "SMTP.",
+    "B": "LMTP.",
+    "C": "POP.",
+    "D": "IMAP."
+  },
+  "correcta": "C"
+},
+{
+  "id": 30,
+  "enunciado": "¿A qué capa del modelo OSI corresponden RPC y NetBIOS?",
+  "opciones": {
+    "A": "Red.",
+    "B": "Transporte.",
+    "C": "Sesión.",
+    "D": "Presentación."
+  },
+  "correcta": "C"
+},
+{
+  "id": 31,
+  "enunciado": "¿Qué siglas corresponden al control de accesos basado en reglas?",
+  "opciones": {
+    "A": "RuBAC.",
+    "B": "ReBAC.",
+    "C": "MAC.",
+    "D": "DAC."
+  },
+  "correcta": "A"
+},
+{
+  "id": 32,
+  "enunciado": "Seleccione una herramienta para el análisis estático de código:",
+  "opciones": {
+    "A": "Apache JMeter.",
+    "B": "SonarQube.",
+    "C": "TensorFlow.",
+    "D": "Apache Hadoop."
+  },
+  "correcta": "B"
+},
+{
+  "id": 33,
+  "enunciado": "En un proceso de formación, ¿cuál NO es una fase correcta?",
+  "opciones": {
+    "A": "Detección de necesidades.",
+    "B": "Impartición.",
+    "C": "Definición del perfil del profesorado.",
+    "D": "Evaluación."
+  },
+  "correcta": "C"
+},
+{
+  "id": 34,
+  "enunciado": "¿Qué es GitOps?",
+  "opciones": {
+    "A": "Prácticas DevOps para entrega continua.",
+    "B": "Prácticas de seguridad y operaciones.",
+    "C": "Prácticas para gestionar configuraciones e infraestructuras combinando DevOps e IaC.",
+    "D": "Automatización del ciclo de vida de modelos de IA."
+  },
+  "correcta": "C"
+},
+{
+  "id": 35,
+  "enunciado": "¿Cuál es el Reglamento General de Protección de Datos de la Unión Europea?",
+  "opciones": {
+    "A": "Reglamento (UE) 2015/2120.",
+    "B": "Reglamento (UE) 2016/679.",
+    "C": "Reglamento (UE) 2024/1183.",
+    "D": "Reglamento (UE) 2023/2841."
+  },
+  "correcta": "B"
+},
+{
+  "id": 36,
+  "enunciado": "Según Métrica v3, ¿qué tipos de mantenimiento existen?",
+  "opciones": {
+    "A": "Correctivo, evolutivo, adaptativo y perfectivo.",
+    "B": "Correctivo, evolutivo, adaptativo y preventivo.",
+    "C": "Correctivo, evolutivo, adaptativo y predictivo.",
+    "D": "Correctivo, evolutivo y preventivo."
+  },
+  "correcta": "B"
+},
+{
+  "id": 37,
+  "enunciado": "Según la NTI de conexión a la red SARA, ¿cuál es un tipo de Punto de Presencia (PdP)?",
+  "opciones": {
+    "A": "Prestadores de normalización.",
+    "B": "Ventanillas Únicas Empresariales.",
+    "C": "Centros externos de seguridad.",
+    "D": "Prestadores de telefonía."
+  },
+  "correcta": "B"
+},
+{
+  "id": 38,
+  "enunciado": "¿Qué equipo permite unir dos redes a nivel IP?",
+  "opciones": {
+    "A": "Switch.",
+    "B": "Bridge.",
+    "C": "Router.",
+    "D": "Hub."
+  },
+  "correcta": "C"
+},
+{
+  "id": 40,
+  "enunciado": "¿Qué nivel RAID utiliza paridad?",
+  "opciones": {
+    "A": "RAID 0.",
+    "B": "RAID 1.",
+    "C": "RAID 5.",
+    "D": "RAID 10."
+  },
+  "correcta": "C"
+},
+{
+  "id": 41,
+  "enunciado": "Seleccione una solución .NET que permita el acceso a datos:",
+  "opciones": {
+    "A": "Active .NET.",
+    "B": "OpenData .NET.",
+    "C": "Entity Framework.",
+    "D": "Abstract Record."
+  },
+  "correcta": "C"
+},
+{
+  "id": 42,
+  "enunciado": "¿Cuáles de las siguientes son actuaciones de España Digital 2026?",
+  "opciones": {
+    "A": "Algoritmos Verdes y PLN.",
+    "B": "Administración Digital Inclusiva y Plan de Confianza.",
+    "C": "Factura Electrónica y Robotización PYME.",
+    "D": "CODA y Generación W."
+  },
+  "correcta": "B"
+},
+{
+  "id": 43,
+  "enunciado": "¿Qué institución acredita y supervisa el uso responsable de modelos de lenguaje en IA en España?",
+  "opciones": {
+    "A": "SEDIA.",
+    "B": "AESIA.",
+    "C": "Agencia Estatal de Administración Digital.",
+    "D": "RAE."
+  },
+  "correcta": "B"
+},
+{
+  "id": 44,
+  "enunciado": "¿Cuál de los siguientes NO forma parte de un sistema de información?",
+  "opciones": {
+    "A": "Telecomunicaciones.",
+    "B": "Valor económico.",
+    "C": "Procedimientos.",
+    "D": "Personas."
+  },
+  "correcta": "B"
+},
+{
+  "id": 45,
+  "enunciado": "El mantenimiento que reconstruye un sistema para darle una nueva forma se denomina:",
+  "opciones": {
+    "A": "Ingeniería inversa.",
+    "B": "Reestructuración del software.",
+    "C": "Transformación de programas.",
+    "D": "Reingeniería."
+  },
+  "correcta": "D"
+},
+{
+  "id": 46,
+  "enunciado": "¿De qué está compuesto un equipo Scrum?",
+  "opciones": {
+    "A": "Scrum Leader, Scrum Tester y desarrolladores.",
+    "B": "Product Owner, Scrum Master y desarrolladores.",
+    "C": "Product Leader, Agile Master y desarrolladores.",
+    "D": "Product Owner, Scrum Architect y desarrolladores."
+  },
+  "correcta": "B"
+},
+{
+  "id": 47,
+  "enunciado": "Según la Ley General de Telecomunicaciones, ¿cuál es un derecho de los usuarios finales?",
+  "opciones": {
+    "A": "Conocer la arquitectura de red.",
+    "B": "Acceder a factura online.",
+    "C": "Derecho de desconexión de determinados servicios.",
+    "D": "Indemnización automática."
+  },
+  "correcta": "C"
+},
+{
+  "id": 48,
+  "enunciado": "¿Qué lenguaje de la web semántica está diseñado para crear ontologías complejas?",
+  "opciones": {
+    "A": "RDF.",
+    "B": "RDF Schema.",
+    "C": "OWL.",
+    "D": "SKOS."
+  },
+  "correcta": "C"
+},
+{
+  "id": 49,
+  "enunciado": "¿Cómo se denomina la versión Bluetooth de bajo consumo para IoT?",
+  "opciones": {
+    "A": "BLE.",
+    "B": "LowBluetooth.",
+    "C": "Blue-IoT.",
+    "D": "NR-Blue."
+  },
+  "correcta": "A"
+},
+{
+  "id": 50,
+  "enunciado": "¿Cuál de los siguientes NO es un algoritmo hash?",
+  "opciones": {
+    "A": "MD5.",
+    "B": "Camellia.",
+    "C": "SHA-256.",
+    "D": "Whirlpool."
+  },
+  "correcta": "B"
+},
+{
+  "id": 51,
+  "enunciado": "La Agenda Digital España Digital 2026 actúa en tres dimensiones clave. Señale la correcta:",
+  "opciones": {
+    "A": "Infraestructuras y tecnología, Economía y Personas.",
+    "B": "Infraestructuras y tecnología, Ciberseguridad e Inteligencia Artificial.",
+    "C": "Infraestructuras y tecnología, Transformación de la Administración Pública e Inteligencia Artificial.",
+    "D": "Infraestructuras y tecnología, Recuperación y transformación económica y Derechos digitales."
+  },
+  "correcta": "A"
+},
+{
+  "id": 53,
+  "enunciado": "¿Cuál de las siguientes no es una variante de modelado para consultas en bases de datos multidimensionales?",
+  "opciones": {
+    "A": "Esquema MOLAP.",
+    "B": "Esquema en estrella.",
+    "C": "Esquema copo de nieve.",
+    "D": "Esquema constelación o copo de estrellas."
+  },
+  "correcta": "A"
+},
+{
+  "id": 54,
+  "enunciado": "En redes FTTH, ¿cómo se denominan las redes de fibra óptica activas?",
+  "opciones": {
+    "A": "GPON.",
+    "B": "PON.",
+    "C": "AON.",
+    "D": "XGS-PON."
+  },
+  "correcta": "C"
+},
+{
+  "id": 55,
+  "enunciado": "¿Cuál es el nombre actual de la edición empresarial de Java antes denominada Java EE?",
+  "opciones": {
+    "A": "EclipseLink.",
+    "B": "Eclipse EE.",
+    "C": "Sun Enterprise Java.",
+    "D": "Jakarta EE."
+  },
+  "correcta": "D"
+},
+{
+  "id": 56,
+  "enunciado": "En IPv6, ¿cuál es un tipo de dirección?",
+  "opciones": {
+    "A": "Link-local.",
+    "B": "Multicast-local.",
+    "C": "Global-Anycast.",
+    "D": "Global-Multicast."
+  },
+  "correcta": "A"
+},
+{
+  "id": 57,
+  "enunciado": "¿Qué es AutoFirma?",
+  "opciones": {
+    "A": "Herramienta de escritorio para firma de ficheros locales.",
+    "B": "Solución integral de registro en la nube.",
+    "C": "Infraestructura de intercambio de asientos registrales.",
+    "D": "Autoridad de sellado de tiempo."
+  },
+  "correcta": "A"
+},
+{
+  "id": 58,
+  "enunciado": "Señale una técnica de estimación de esfuerzo en el desarrollo de sistemas de información:",
+  "opciones": {
+    "A": "Cucumber.",
+    "B": "Planning Poker.",
+    "C": "Matomo.",
+    "D": "JRP."
+  },
+  "correcta": "B"
+},
+{
+  "id": 59,
+  "enunciado": "Indique una herramienta para el análisis estático de la calidad del código:",
+  "opciones": {
+    "A": "JUnit.",
+    "B": "Postman.",
+    "C": "ZAP.",
+    "D": "SonarQube."
+  },
+  "correcta": "D"
+},
+{
+  "id": 60,
+  "enunciado": "¿En qué topología de red todos los dispositivos comparten un único cable?",
+  "opciones": {
+    "A": "Malla.",
+    "B": "Árbol.",
+    "C": "Estrella.",
+    "D": "Bus."
+  },
+  "correcta": "D"
+},
+{
+  "id": 61,
+  "enunciado": "¿Qué tipo de servidor se monta en un chasis compartido que proporciona alimentación y cableado?",
+  "opciones": {
+    "A": "Rack.",
+    "B": "Torre.",
+    "C": "Blade.",
+    "D": "PC."
+  },
+  "correcta": "C"
+},
+{
+  "id": 62,
+  "enunciado": "¿Cuál de las siguientes direcciones IP es válida en el rango 192.168.0.0/23?",
+  "opciones": {
+    "A": "192.168.0.256.",
+    "B": "192.168.0.255.",
+    "C": "192.168.1.256.",
+    "D": "192.168.0.0."
+  },
+  "correcta": "B"
+},
+{
+  "id": 63,
+  "enunciado": "¿Cuál de los siguientes productos pertenece a la familia de cifrado y compartición segura de información?",
+  "opciones": {
+    "A": "Wazuh.",
+    "B": "Notion.",
+    "C": "GuardedBox.",
+    "D": "ANA."
+  },
+  "correcta": "C"
+},
+{
+  "id": 64,
+  "enunciado": "Según WCAG 2, ¿cuáles son los principios de accesibilidad web?",
+  "opciones": {
+    "A": "Usable, adaptativo, operable y robusto.",
+    "B": "Perceptible, usable, adaptativo y seguro.",
+    "C": "Comprensible, seguro, perceptible y disponible.",
+    "D": "Perceptible, operable, comprensible y robusto."
+  },
+  "correcta": "D"
+},
+{
+  "id": 65,
+  "enunciado": "Según UML 2, ¿qué diagrama de interacción describe el comportamiento del sistema?",
+  "opciones": {
+    "A": "Despliegue.",
+    "B": "Secuencia.",
+    "C": "Paquetes.",
+    "D": "Componentes."
+  },
+  "correcta": "B"
+},
+{
+  "id": 66,
+  "enunciado": "¿Qué modelo de computación utiliza una organización que autogestiona la virtualización?",
+  "opciones": {
+    "A": "On premise.",
+    "B": "IaaS.",
+    "C": "PaaS.",
+    "D": "SaaS."
+  },
+  "correcta": "A"
+},
+{
+  "id": 67,
+  "enunciado": "¿Qué RIR es responsable de Europa en la asignación de direcciones IP?",
+  "opciones": {
+    "A": "ARIN.",
+    "B": "RIPE NCC.",
+    "C": "APNIC.",
+    "D": "LACNIC."
+  },
+  "correcta": "B"
+},
+{
+  "id": 68,
+  "enunciado": "¿Cómo se denomina la tecnología que transporta voz sobre redes Wi‑Fi?",
+  "opciones": {
+    "A": "IPVoice.",
+    "B": "VolVoice.",
+    "C": "VoWiFi.",
+    "D": "VoIPWiFi."
+  },
+  "correcta": "C"
+},
+{
+  "id": 69,
+  "enunciado": "¿Cuál de los siguientes es un medio de transmisión no guiado?",
+  "opciones": {
+    "A": "Par trenzado.",
+    "B": "Microondas.",
+    "C": "Fibra óptica.",
+    "D": "Cable coaxial."
+  },
+  "correcta": "B"
+},
+{
+  "id": 70,
+  "enunciado": "Indique cuál de los siguientes es un DMS propietario:",
+  "opciones": {
+    "A": "OpenText.",
+    "B": "Alfresco.",
+    "C": "OpenKM.",
+    "D": "Nuxeo."
+  },
+  "correcta": "A"
+},
+{
+  "id": 71,
+  "enunciado": "¿Qué sistema operativo es de IBM?",
+  "opciones": {
+    "A": "Android.",
+    "B": "z/OS.",
+    "C": "iOS.",
+    "D": "OS X."
+  },
+  "correcta": "B"
+},
+{
+  "id": 72,
+  "enunciado": "En VLANs, ¿cómo se denomina el puerto que soporta múltiples VLAN?",
+  "opciones": {
+    "A": "MultiPort.",
+    "B": "Trunk.",
+    "C": "VLANextendedPort.",
+    "D": "Frunk."
+  },
+  "correcta": "B"
+},
+{
+  "id": 73,
+  "enunciado": "¿Qué herramienta se usa específicamente para pruebas automatizadas de aplicaciones web en navegadores?",
+  "opciones": {
+    "A": "Postman.",
+    "B": "JMeter.",
+    "C": "Selenium.",
+    "D": "Burp Suite."
+  },
+  "correcta": "C"
+},
+{
+  "id": 75,
+  "enunciado": "¿Qué herramienta colaborativa puede usarse para implementar tableros Kanban?",
+  "opciones": {
+    "A": "Trello.",
+    "B": "Microsoft Forms.",
+    "C": "Kahoot!",
+    "D": "LimeSurvey."
+  },
+  "correcta": "A"
+},
+{
+  "id": 81,
+  "enunciado": "En las redes de telefonía, ¿cuál de los siguientes es un tipo de red orientada a dispositivos IoT por su bajo consumo energético y gran alcance?",
+  "opciones": {
+    "A": "LPWAN.",
+    "B": "IoTWan.",
+    "C": "microWan.",
+    "D": "WaveWan."
+  },
+  "correcta": "A"
+},
+{
+  "id": 82,
+  "enunciado": "¿Cuál de las siguientes redes sociales está especializada en la emisión de vídeo en directo (streaming)?",
+  "opciones": {
+    "A": "X.",
+    "B": "Facebook.",
+    "C": "Spotify.",
+    "D": "Twitch."
+  },
+  "correcta": "D"
+},
+{
+  "id": 83,
+  "enunciado": "El Esquema Nacional de Interoperabilidad recoge como Norma Técnica de Interoperabilidad:",
+  "opciones": {
+    "A": "NTI de activos semánticos.",
+    "B": "NTI de digitalización de expedientes.",
+    "C": "NTI de catálogo de estándares.",
+    "D": "NTI de aplicaciones reutilizables."
+  },
+  "correcta": "C"
+},
+{
+  "id": 84,
+  "enunciado": "Según la NTI de Protocolo de Intermediación de Datos, ¿cuál es uno de los agentes que intervienen?",
+  "opciones": {
+    "A": "Remitente.",
+    "B": "Emisor.",
+    "C": "PSC.",
+    "D": "Receptor."
+  },
+  "correcta": "B"
+},
+{
+  "id": 85,
+  "enunciado": "¿Cuál es la afirmación correcta sobre MapReduce?",
+  "opciones": {
+    "A": "Plataforma de streaming distribuido.",
+    "B": "Modelo de programación distribuida para procesar grandes volúmenes de datos.",
+    "C": "Datawarehouse para Hadoop.",
+    "D": "Framework de computación en memoria para análisis en tiempo real."
+  },
+  "correcta": "B"
+}
+  ]
+}
