@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Seleccionar examen</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="contenedor">
+    <h1>Selecciona el examen</h1>
+
+    <button onclick="seleccionarExamen('examenes/examen_2025.json')">
+      Acceso Libre – 2025
+    </button>
+
+    <br><br>
+
+    <button onclick="seleccionarExamen('examenes/interna_2025.json')">
+      Promoción Interna – 2025
+    </button>
+  </div>
+
+  <script>
+    function seleccionarExamen(archivo) {
+      localStorage.setItem("examenSeleccionado", archivo);
+      window.location.href = "index.html";
+    }
+  </script>
+
+</body>
+</html>
