@@ -1,0 +1,1108 @@
+{
+  "id": "tic_clm_2023",
+  "nombre": "Cuerpo Superior TIC CLM 2023",
+  "tiempo_minutos": 120,
+  "total_preguntas": 100,
+  "preguntas": [
+    {
+  "id": 1,
+  "enunciado": "¿Qué institución de la Unión Europea ejerce conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria?",
+  "opciones": {
+    "A": "El Consejo.",
+    "B": "La Comisión Europea.",
+    "C": "El Tribunal de Justicia de la Unión Europea.",
+    "D": "El Banco Central Europeo."
+  },
+  "correcta": "A"
+},
+{
+  "id": 2,
+  "enunciado": "Según Métrica v3, se puede definir como el grado de interdependencia existente entre los módulos:",
+  "opciones": {
+    "A": "Acoplamiento.",
+    "B": "Interoperabilidad.",
+    "C": "Cohesión.",
+    "D": "Mantenibilidad."
+  },
+  "correcta": "A"
+},
+{
+  "id": 3,
+  "enunciado": "Según la guía CCN-STIC 401, ¿qué es un \"árbol de ataque\"?",
+  "opciones": {
+    "A": "Relación de personas a contactar en caso de emergencia.",
+    "B": "Un ataque de cruce de rutas.",
+    "C": "Una estructura de datos en forma de árbol que identifica objetivos secundarios para alcanzar un objetivo final.",
+    "D": "Una estructura jerárquica aplicada a nodos genéricos."
+  },
+  "correcta": "C"
+},
+{
+  "id": 4,
+  "enunciado": "Señale el nombre del protocolo que se utiliza en MPLS para asignar las etiquetas que marcan el camino de los paquetes:",
+  "opciones": {
+    "A": "LAP.",
+    "B": "LDP.",
+    "C": "LER.",
+    "D": "LSP."
+  },
+  "correcta": "B"
+},
+{
+  "id": 5,
+  "enunciado": "El modelo EFQM es:",
+  "opciones": {
+    "A": "Un marco reconocido mundialmente que ayuda a las organizaciones a gestionar el cambio y mejorar su rendimiento.",
+    "B": "Una metodología de mantenimiento de sistemas de información.",
+    "C": "Un conjunto de estándares ISO.",
+    "D": "Una norma de calidad ISO."
+  },
+  "correcta": "A"
+},
+{
+  "id": 6,
+  "enunciado": "Seleccione la opción en la que todas sean herramientas que permitan realizar pruebas de rendimiento:",
+  "opciones": {
+    "A": "JMeter, LTW y Redis.",
+    "B": "Redis, Hadoop y QlikView.",
+    "C": "JMeter, LoadRunner y Gatling.",
+    "D": "Hadoop, JMeter y LTW."
+  },
+  "correcta": "C"
+},
+{
+  "id": 7,
+  "enunciado": "Una relación continuada que ayuda a obtener resultados extraordinarios en la vida profesional se denomina:",
+  "opciones": {
+    "A": "Coaching profesional.",
+    "B": "Relaciones exclusivas en bases de datos.",
+    "C": "Acompañamiento tecnológico.",
+    "D": "Obtención de requisitos."
+  },
+  "correcta": "A"
+},
+{
+  "id": 9,
+  "enunciado": "De acuerdo con la Ley 7/1985, Reguladora de las Bases del Régimen Local, son elementos del municipio:",
+  "opciones": {
+    "A": "El territorio, la población y la organización.",
+    "B": "El alcalde, los vecinos y el ayuntamiento.",
+    "C": "El territorio, la población y el organigrama.",
+    "D": "La población y la organización."
+  },
+  "correcta": "A"
+},
+{
+  "id": 10,
+  "enunciado": "Dentro de la función de mantenimiento software según Métrica v3:",
+  "opciones": {
+    "A": "El proceso acaba con la implementación.",
+    "B": "Solo existen tres tipos de mantenimiento.",
+    "C": "La primera tarea será el análisis de la petición.",
+    "D": "La implementación incluye la identificación de elementos afectados y planes de prueba."
+  },
+  "correcta": "D"
+},
+{
+  "id": 11,
+  "enunciado": "Indique cuál de las siguientes afirmaciones sobre XML es falsa:",
+  "opciones": {
+    "A": "Es acrónimo de Extensible Markup Language.",
+    "B": "Deriva de SGML.",
+    "C": "XQuery permite consultar datos XML.",
+    "D": "JSON utiliza sintaxis XML."
+  },
+  "correcta": "D"
+},
+{
+  "id": 12,
+  "enunciado": "Señale los requisitos que deberá cumplir la creación de cualquier órgano administrativo:",
+  "opciones": {
+    "A": "Determinación de su integración.",
+    "B": "Delimitación de funciones.",
+    "C": "Dotación de créditos necesarios.",
+    "D": "Todas son correctas."
+  },
+  "correcta": "D"
+},
+{
+  "id": 13,
+  "enunciado": "Seleccione la definición correcta de mantenimiento adaptativo según Métrica v3:",
+  "opciones": {
+    "A": "Cambios para corregir errores.",
+    "B": "Cambios por nuevas necesidades del usuario.",
+    "C": "Modificaciones por cambios en el entorno del sistema.",
+    "D": "Mejoras de calidad interna."
+  },
+  "correcta": "C"
+},
+{
+  "id": 14,
+  "enunciado": "Indique la norma que se ocupa de la gestión de servicios de TI:",
+  "opciones": {
+    "A": "MAGERIT.",
+    "B": "ISO/IEC 20000.",
+    "C": "ISO 9001.",
+    "D": "ISO/IEC 27001."
+  },
+  "correcta": "B"
+},
+{
+  "id": 15,
+  "enunciado": "¿Qué protocolo permite el envío de correos entre servidores?",
+  "opciones": {
+    "A": "SMTP.",
+    "B": "POP3.",
+    "C": "IMAP.",
+    "D": "IMAX."
+  },
+  "correcta": "A"
+},
+{
+  "id": 16,
+  "enunciado": "La aproximación Open Data basada en tecnologías de la Web Semántica se denomina:",
+  "opciones": {
+    "A": "URL.",
+    "B": "RDF.",
+    "C": "UR.",
+    "D": "Linked Open Data."
+  },
+  "correcta": "D"
+},
+{
+  "id": 17,
+  "enunciado": "Según la ISO, una definición válida de Sistema Informático es:",
+  "opciones": {
+    "A": "Conjunto de equipos informáticos.",
+    "B": "Conjunto de equipos y personal que procesan datos.",
+    "C": "Sistema compuesto solo por información y personal.",
+    "D": "Red de sistemas informáticos."
+  },
+  "correcta": "B"
+},
+{
+  "id": 18,
+  "enunciado": "En un datawarehouse, la operación slice-and-dice permite:",
+  "opciones": {
+    "A": "Seleccionar un valor fijo de una dimensión.",
+    "B": "Ver mayor detalle.",
+    "C": "Ver mayor agregación.",
+    "D": "Cambiar ejes."
+  },
+  "correcta": "D"
+},
+{
+  "id": 19,
+  "enunciado": "Respecto a las primitivas de servicio OSI, indique la afirmación incorrecta:",
+  "opciones": {
+    "A": "Cada primitiva tiene request, indication, response y confirm.",
+    "B": "Hay 58 primitivas.",
+    "C": "Los servicios pueden ser confirmados o no.",
+    "D": "Las primitivas no viajan extremo a extremo."
+  },
+  "correcta": "A"
+},
+{
+  "id": 20,
+  "enunciado": "Según la Constitución Española, la soberanía nacional reside en:",
+  "opciones": {
+    "A": "El Gobierno.",
+    "B": "El pueblo español.",
+    "C": "El Congreso.",
+    "D": "El Senado."
+  },
+  "correcta": "B"
+},
+{
+  "id": 21,
+  "enunciado": "En el modelo de ciclo de vida en espiral, la dimensión angular indica:",
+  "opciones": {
+    "A": "Complejidad del proyecto.",
+    "B": "Avance del proyecto.",
+    "C": "Coste.",
+    "D": "Usabilidad."
+  },
+  "correcta": "B"
+},
+{
+  "id": 22,
+  "enunciado": "¿Cuál es la versión mayor posterior a Java EE 8?",
+  "opciones": {
+    "A": "Java EE 9.",
+    "B": "EJB 9.",
+    "C": "Oracle EE 9.",
+    "D": "Jakarta EE 9."
+  },
+  "correcta": "D"
+},
+{
+  "id": 23,
+  "enunciado": "¿Cuál es la provincia con menos habitantes de Castilla-La Mancha?",
+  "opciones": {
+    "A": "Guadalajara.",
+    "B": "Cuenca.",
+    "C": "Albacete.",
+    "D": "Ciudad Real."
+  },
+  "correcta": "B"
+},
+{
+  "id": 24,
+  "enunciado": "¿Cuál de las siguientes NO es una Norma Técnica de Interoperabilidad?",
+  "opciones": {
+    "A": "Catálogo de Estándares.",
+    "B": "Protocolos de intermediación de datos.",
+    "C": "Reutilización de recursos de información.",
+    "D": "Arquitectura de aplicaciones."
+  },
+  "correcta": "D"
+},
+{
+  "id": 25,
+  "enunciado": "¿En qué se basa la Integración Continua en DevOps?",
+  "opciones": {
+    "A": "Uso obligatorio de Jenkins y Git.",
+    "B": "Integraciones automáticas frecuentes.",
+    "C": "Integrar seguridad.",
+    "D": "Despliegue automático en producción."
+  },
+  "correcta": "B"
+},
+{
+  "id": 26,
+  "enunciado": "De los sistemas ofrecidos por la AGE, ¿cuál cumple el artículo 9 del Esquema Nacional de Interoperabilidad y contiene la relación de sus órganos administrativos y oficinas orientadas al público?",
+  "opciones": {
+    "A": "SIA",
+    "B": "DIR3",
+    "C": "Tramite",
+    "D": "SIR"
+  },
+  "correcta": "B"
+},
+{
+  "id": 27,
+  "enunciado": "¿Cuál es el elemento regulado en el Decreto 69/2012 que utiliza la Junta de Castilla-La Mancha para dar a conocer los servicios que ofrece y los compromisos de calidad asumidos?",
+  "opciones": {
+    "A": "Catálogos de procedimientos y servicios",
+    "B": "Cartas de Servicios",
+    "C": "Sede Electrónica",
+    "D": "Portal de Transparencia"
+  },
+  "correcta": "B"
+},
+{
+  "id": 28,
+  "enunciado": "¿Con qué tecnología están asociadas las siglas LTE?",
+  "opciones": {
+    "A": "GPRS",
+    "B": "4G",
+    "C": "EDGE",
+    "D": "3G"
+  },
+  "correcta": "B"
+},
+{
+  "id": 29,
+  "enunciado": "En el ámbito del procesamiento de imágenes, las siglas OCR hacen referencia a:",
+  "opciones": {
+    "A": "Recuperación de caracteres ocultos",
+    "B": "Restauración de características ofuscadas",
+    "C": "Restauración de colores en línea",
+    "D": "Reconocimiento óptico de caracteres"
+  },
+  "correcta": "D"
+},
+{
+  "id": 30,
+  "enunciado": "En Oracle Database, ¿cómo se denomina la vista que permite almacenar el resultado de una consulta?",
+  "opciones": {
+    "A": "Vista materializada",
+    "B": "Vista de almacenamiento",
+    "C": "Vista temporal",
+    "D": "Vista de recuperación"
+  },
+  "correcta": "A"
+},
+{
+  "id": 31,
+  "enunciado": "La versión de COBIT 2019 incluye:",
+  "opciones": {
+    "A": "5 principios divididos en áreas funcionales",
+    "B": "7 principios divididos en áreas de aplicación",
+    "C": "9 principios divididos en dos grupos",
+    "D": "5 principios divididos en dos grupos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 32,
+  "enunciado": "De conformidad con la Ley 4/2011, de Empleo Público de Castilla-La Mancha:",
+  "opciones": {
+    "A": "El personal funcionario interino cesa por decisión discrecional",
+    "B": "El personal interino realiza funciones de confianza o asesoramiento",
+    "C": "Al personal funcionario interino le es aplicable el régimen general del personal funcionario de carrera, en lo que sea adecuado",
+    "D": "El personal interino tiene relación estatutaria permanente"
+  },
+  "correcta": "C"
+},
+{
+  "id": 33,
+  "enunciado": "El principio Gestalt que se basa en que percibimos un todo aunque falten elementos se denomina:",
+  "opciones": {
+    "A": "Principio de continuidad",
+    "B": "Principio de cierre",
+    "C": "Principio de proximidad",
+    "D": "Principio de similitud"
+  },
+  "correcta": "B"
+},
+{
+  "id": 34,
+  "enunciado": "La pila LAMP utilizada en el desarrollo de aplicaciones web está formada por:",
+  "opciones": {
+    "A": "Lighttpd, Apache, MongoDB y PHP",
+    "B": "Lighttpd, Angular, MySQL y PHP",
+    "C": "Linux, Angular, MongoDB y PHP",
+    "D": "Linux, Apache, MySQL y PHP"
+  },
+  "correcta": "D"
+},
+{
+  "id": 35,
+  "enunciado": "En una base de datos relacional, la restricción que exige que un valor exista en la clave primaria de otra tabla se denomina:",
+  "opciones": {
+    "A": "Tupla avanzada",
+    "B": "Clave segura",
+    "C": "Tupla regular",
+    "D": "Clave ajena"
+  },
+  "correcta": "D"
+},
+{
+  "id": 36,
+  "enunciado": "Seleccione el entorno de ejecución utilizado por Android:",
+  "opciones": {
+    "A": "Kotlin",
+    "B": "Swift",
+    "C": "ART",
+    "D": "AndroidVM"
+  },
+  "correcta": "C"
+},
+{
+  "id": 37,
+  "enunciado": "En análisis de datos, ordene los niveles de madurez de menor a mayor valor aportado:",
+  "opciones": {
+    "A": "Diagnóstico, Descriptivo, Predictivo, Prescriptivo",
+    "B": "Descriptivo, Diagnóstico, Predictivo, Prescriptivo",
+    "C": "Prescriptivo, Predictivo, Descriptivo, Diagnóstico",
+    "D": "Ninguna de las anteriores"
+  },
+  "correcta": "D"
+},
+{
+  "id": 38,
+  "enunciado": "El proyecto de Ley de Presupuestos Generales se remitirá a las Cortes de Castilla-La Mancha:",
+  "opciones": {
+    "A": "Antes del 1 de octubre",
+    "B": "Antes del 31 de octubre",
+    "C": "Antes del 1 de noviembre",
+    "D": "Antes del 31 de diciembre"
+  },
+  "correcta": "A"
+},
+{
+  "id": 39,
+  "enunciado": "¿Qué es CPU Scavenging?",
+  "opciones": {
+    "A": "Aprovechar los ciclos de CPU ociosos para ejecutar trabajos",
+    "B": "Medir el rendimiento de una CPU",
+    "C": "Parte de la computadora que procesa datos",
+    "D": "Técnica de refrigeración avanzada"
+  },
+  "correcta": "A"
+},
+{
+  "id": 40,
+  "enunciado": "Indique el sistema de ficheros diseñado para sistemas Windows:",
+  "opciones": {
+    "A": "Windows file",
+    "B": "NTFS",
+    "C": "WFS",
+    "D": "ext4"
+  },
+  "correcta": "B"
+},
+{
+  "id": 41,
+  "enunciado": "Los programas almacenados en blockchain que se ejecutan al cumplirse condiciones se denominan:",
+  "opciones": {
+    "A": "Proofs of Work",
+    "B": "Oráculos",
+    "C": "Contratos inteligentes",
+    "D": "Bitcoin software"
+  },
+  "correcta": "C"
+},
+{
+  "id": 42,
+  "enunciado": "Añadir o retirar recursos como memoria o CPUs a un único nodo se denomina:",
+  "opciones": {
+    "A": "Escalabilidad horizontal",
+    "B": "Tolerancia a fallos",
+    "C": "Alta disponibilidad",
+    "D": "Escalabilidad vertical"
+  },
+  "correcta": "D"
+},
+{
+  "id": 43,
+  "enunciado": "¿Qué protocolo puede utilizarse para crear VPN?",
+  "opciones": {
+    "A": "SNMP",
+    "B": "NMS",
+    "C": "IPsec",
+    "D": "SOAP"
+  },
+  "correcta": "C"
+},
+{
+  "id": 44,
+  "enunciado": "El indicador que mide las ganancias obtenidas tras una acción se denomina:",
+  "opciones": {
+    "A": "ROI",
+    "B": "ROE",
+    "C": "ROT",
+    "D": "RIT"
+  },
+  "correcta": "A"
+},
+{
+  "id": 45,
+  "enunciado": "Respecto a una trama Ethernet, ¿qué afirmación es correcta?",
+  "opciones": {
+    "A": "Se indica primero la dirección de destino",
+    "B": "Se indica primero la dirección de origen",
+    "C": "Se indica el orden mediante el bit OR",
+    "D": "Ambas direcciones ocupan 8 bytes"
+  },
+  "correcta": "A"
+},
+{
+  "id": 46,
+  "enunciado": "En marketing, el proceso que describe las fases que llevan a un consumidor a comprar se denomina:",
+  "opciones": {
+    "A": "Funnel de Marketing",
+    "B": "SEO",
+    "C": "Community Managing",
+    "D": "Design Thinking"
+  },
+  "correcta": "A"
+},
+{
+  "id": 47,
+  "enunciado": "En una imagen digital, el número de bits utilizados para representar un píxel se denomina:",
+  "opciones": {
+    "A": "Resolución",
+    "B": "Rango de imagen",
+    "C": "Profundidad de color",
+    "D": "Vector de color"
+  },
+  "correcta": "C"
+},
+{
+  "id": 48,
+  "enunciado": "¿En qué opción todos son estándares relacionados con servicios web?",
+  "opciones": {
+    "A": "API, HTTP, SOAP, UDDI, REST, WSDL",
+    "B": "XML, UDDI, FTTP, SOAP, WSDL, REST",
+    "C": "HTTP, SOAP, XML, REST, WSDL, UDDI",
+    "D": "XML, HTTP, SOAP, REST, UML, UDDI"
+  },
+  "correcta": "C"
+},
+{
+  "id": 49,
+  "enunciado": "La estrategia de despliegue donde nuevas funcionalidades se liberan a un grupo reducido de usuarios se denomina:",
+  "opciones": {
+    "A": "Rolling deployment",
+    "B": "Canary deployment",
+    "C": "Partial replacing deployment",
+    "D": "Blue/green deployment"
+  },
+  "correcta": "B"
+},
+{
+  "id": 50,
+  "enunciado": "El modelo en el que el proveedor gestiona y aloja el software y lo ofrece vía Internet se denomina:",
+  "opciones": {
+    "A": "On premise",
+    "B": "PaaS",
+    "C": "IaaS",
+    "D": "SaaS"
+  },
+  "correcta": "D"
+},
+{
+  "id": 51,
+  "enunciado": "¿Cuál de las siguientes NO es una característica del Grid Computing?",
+  "opciones": {
+    "A": "Compartición eficiente de recursos",
+    "B": "Necesita conexiones de alta velocidad",
+    "C": "Basado en software libre y sin arquitectura de referencia",
+    "D": "Arquitectura descrita en capas"
+  },
+  "correcta": "C"
+},
+{
+  "id": 52,
+  "enunciado": "¿Cuál es el mejor flujo de autenticación en aplicaciones móviles usando OpenID Connect?",
+  "opciones": {
+    "A": "Implicit",
+    "B": "Authorization Code with PKCE",
+    "C": "Static",
+    "D": "Authorization Code"
+  },
+  "correcta": "B"
+},
+{
+  "id": 53,
+  "enunciado": "¿Qué algoritmo de planificación asigna a cada proceso un intervalo de tiempo de ejecución?",
+  "opciones": {
+    "A": "Prioridad",
+    "B": "Shortest Job First",
+    "C": "Round Robin",
+    "D": "LIFO"
+  },
+  "correcta": "C"
+},
+{
+  "id": 54,
+  "enunciado": "¿Cuál de las siguientes se considera una obra de dominio público?",
+  "opciones": {
+    "A": "Librería con licencia LGPL",
+    "B": "Software con licencia EUPL",
+    "C": "Aquella cuyos derechos de explotación se han extinguido",
+    "D": "Software GPL"
+  },
+  "correcta": "C"
+},
+{
+  "id": 55,
+  "enunciado": "Una Carta de Servicios en la JCCM tiene una vigencia máxima de:",
+  "opciones": {
+    "A": "Un año",
+    "B": "Dos años",
+    "C": "Tres años",
+    "D": "No tiene plazo máximo"
+  },
+  "correcta": "C"
+},
+{
+  "id": 56,
+  "enunciado": "¿Qué sistema de gestión de contenidos está escrito en Java?",
+  "opciones": {
+    "A": "Liferay",
+    "B": "Joomla!",
+    "C": "Drupal",
+    "D": "WordPress"
+  },
+  "correcta": "A"
+},
+{
+  "id": 58,
+  "enunciado": "Según Pressman, ¿cuál es la primera actividad antes de abordar una reingeniería?",
+  "opciones": {
+    "A": "Reestructuración de documentos",
+    "B": "Ingeniería inversa",
+    "C": "Reestructuración de código",
+    "D": "Análisis de inventario"
+  },
+  "correcta": "B"
+},
+{
+  "id": 59,
+  "enunciado": "¿Cuál es el primer proceso de usuario al iniciar Linux?",
+  "opciones": {
+    "A": "Start",
+    "B": "Init",
+    "C": "Swapper",
+    "D": "Page Daemon"
+  },
+  "correcta": "B"
+},
+{
+  "id": 60,
+  "enunciado": "Indique la característica errónea en una arquitectura por capas:",
+  "opciones": {
+    "A": "Capas con alta cohesión",
+    "B": "Tres o más capas habitualmente",
+    "C": "Comunicación bidireccional entre capas",
+    "D": "Más capas penalizan rendimiento"
+  },
+  "correcta": "C"
+},
+{
+  "id": 61,
+  "enunciado": "Open Compute Project es:",
+  "opciones": {
+    "A": "Un proyecto de dispositivos compactos",
+    "B": "Una forja de control de versiones",
+    "C": "Una librería de código abierto",
+    "D": "Una comunidad colaborativa de rediseño de hardware"
+  },
+  "correcta": "D"
+},
+{
+  "id": 62,
+  "enunciado": "Según el Proyecto GNU, ¿cuál NO es una libertad esencial del software libre?",
+  "opciones": {
+    "A": "Ejecutar el programa con cualquier propósito",
+    "B": "Estudiar y modificar el programa publicando siempre las modificaciones",
+    "C": "Redistribuir copias",
+    "D": "Distribuir versiones modificadas"
+  },
+  "correcta": "B"
+},
+{
+  "id": 63,
+  "enunciado": "En la estimación por puntos de función, ¿qué factor se tiene en cuenta para el ajuste?",
+  "opciones": {
+    "A": "Entorno tecnológico",
+    "B": "Metodología",
+    "C": "Estilo de programación",
+    "D": "Reusabilidad"
+  },
+  "correcta": "A"
+},
+{
+  "id": 64,
+  "enunciado": "Los Web Components son:",
+  "opciones": {
+    "A": "Un framework MVC",
+    "B": "Componentes JSF",
+    "C": "Un estándar W3C para crear componentes HTML reutilizables",
+    "D": "Componentes Node.js"
+  },
+  "correcta": "C"
+},
+{
+  "id": 65,
+  "enunciado": "Según el artículo 48 de la Ley 39/2015, son anulables los actos administrativos:",
+  "opciones": {
+    "A": "Por cualquier defecto de forma",
+    "B": "Fuera de plazo siempre",
+    "C": "Que afecten a partes independientes",
+    "D": "Que infrinjan el ordenamiento jurídico, incluida la desviación de poder"
+  },
+  "correcta": "D"
+},
+{
+  "id": 66,
+  "enunciado": "En BPMN, los elementos que indican el orden de las actividades se denominan:",
+  "opciones": {
+    "A": "Flujos de secuencia",
+    "B": "Flujos de mensaje",
+    "C": "Asociaciones",
+    "D": "Gateways"
+  },
+  "correcta": "A"
+},
+{
+  "id": 67,
+  "enunciado": "Según la ITU-T, ¿qué NO es una característica de las redes NGN?",
+  "opciones": {
+    "A": "Baja latencia",
+    "B": "Prestación ubicua de servicios",
+    "C": "Garantía de QoS extremo a extremo",
+    "D": "Independencia entre servicio y transporte"
+  },
+  "correcta": "A"
+},
+{
+  "id": 68,
+  "enunciado": "Los SIG que se basan en relaciones implícitas de vecindad son:",
+  "opciones": {
+    "A": "SIG vectoriales",
+    "B": "SIG ráster",
+    "C": "SIG orientados a objetos",
+    "D": "SIG basados en metadatos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 69,
+  "enunciado": "¿Cuál es la vigencia del certificado de empleado público según la Orden de 11/09/2013?",
+  "opciones": {
+    "A": "2 años",
+    "B": "30 meses",
+    "C": "3 años",
+    "D": "1 año"
+  },
+  "correcta": "C"
+},
+{
+  "id": 70,
+  "enunciado": "¿Cuál de las siguientes es una asociación europea de normalización?",
+  "opciones": {
+    "A": "IEEE",
+    "B": "IEC",
+    "C": "CENELEC",
+    "D": "W3C"
+  },
+  "correcta": "C"
+},
+{
+  "id": 71,
+  "enunciado": "¿Qué método heurístico es completo y admisible en determinados espacios de búsqueda?",
+  "opciones": {
+    "A": "Primero en profundidad",
+    "B": "Primero en anchura",
+    "C": "Algoritmo A*",
+    "D": "Algoritmos voraces"
+  },
+  "correcta": "C"
+},
+{
+  "id": 72,
+  "enunciado": "Respecto al procedimiento simplificado según la Ley 39/2015:",
+  "opciones": {
+    "A": "Se puede usar por interés general o falta de complejidad",
+    "B": "Debe resolverse en 20 días",
+    "C": "No puede usarse en procedimientos sancionadores",
+    "D": "Debe resolverse en 30 días"
+  },
+  "correcta": "A"
+},
+{
+  "id": 73,
+  "enunciado": "¿Cuál de las siguientes NO es una solución cloud propietaria certificada por el CCN?",
+  "opciones": {
+    "A": "Amazon",
+    "B": "Microsoft",
+    "C": "Apple",
+    "D": "Google"
+  },
+  "correcta": "C"
+},
+{
+  "id": 74,
+  "enunciado": "Indique el puerto por defecto del LDAP:",
+  "opciones": {
+    "A": "110",
+    "B": "143",
+    "C": "389",
+    "D": "587"
+  },
+  "correcta": "C"
+},
+{
+  "id": 75,
+  "enunciado": "¿Cuál de las siguientes NO es una solución cloud Open Source?",
+  "opciones": {
+    "A": "OpenNebula",
+    "B": "OpenCloud",
+    "C": "OpenStack",
+    "D": "CloudStack"
+  },
+  "correcta": "B"
+},
+{
+  "id": 76,
+  "enunciado": "¿Cuál de las siguientes características básicas pretende la Estrategia Nacional de Inteligencia Artificial en relación con la creación de un marco de referencia a nivel nacional?",
+  "opciones": {
+    "A": "Generativa",
+    "B": "No generativa",
+    "C": "A y B son correctas",
+    "D": "Sostenible"
+  },
+  "correcta": "D"
+},
+{
+  "id": 77,
+  "enunciado": "Según la Ley 6/2020, reguladora de determinados aspectos de los servicios electrónicos de confianza, ¿cuál se considera una infracción grave?",
+  "opciones": {
+    "A": "Publicar información no veraz",
+    "B": "No comunicar el inicio de actividad",
+    "C": "Resistencia u obstrucción a la actuación inspectora",
+    "D": "La reiteración de infracciones leves"
+  },
+  "correcta": "C"
+},
+{
+  "id": 78,
+  "enunciado": "En una matriz DAFO, ¿qué elementos pertenecen al análisis externo?",
+  "opciones": {
+    "A": "Fortalezas y debilidades",
+    "B": "Oportunidades y amenazas",
+    "C": "Fortalezas y amenazas",
+    "D": "Oportunidades y debilidades"
+  },
+  "correcta": "B"
+},
+{
+  "id": 79,
+  "enunciado": "¿Cuál de los siguientes organismos NO está relacionado con la definición de procesos de negocio?",
+  "opciones": {
+    "A": "BPMI",
+    "B": "OASIS",
+    "C": "BPEL",
+    "D": "OMG"
+  },
+  "correcta": "C"
+},
+{
+  "id": 80,
+  "enunciado": "En relación con la gestión de QoS en una red Ethernet, señale la opción correcta:",
+  "opciones": {
+    "A": "Best Effort reserva recursos por adelantado",
+    "B": "DiffServ reserva recursos explicitados por el usuario",
+    "C": "IntServ reduce la señalización",
+    "D": "DiffServ ofrece mayor escalabilidad que IntServ"
+  },
+  "correcta": "D"
+},
+{
+  "id": 81,
+  "enunciado": "¿Cuál es el sistema ofrecido por la AGE que contiene la relación de procedimientos y servicios de las Administraciones Públicas?",
+  "opciones": {
+    "A": "DIR3",
+    "B": "SIA",
+    "C": "Tramite",
+    "D": "SIR"
+  },
+  "correcta": "B"
+},
+{
+  "id": 82,
+  "enunciado": "¿Cuál de los siguientes servidores web es propietario?",
+  "opciones": {
+    "A": "Nginx",
+    "B": "Apache HTTP Server",
+    "C": "LiteSpeed",
+    "D": "OpenResty"
+  },
+  "correcta": "C"
+},
+{
+  "id": 83,
+  "enunciado": "¿Qué fenómeno NO está relacionado con los cables de pares trenzados?",
+  "opciones": {
+    "A": "Atenuación",
+    "B": "Dispersión modal",
+    "C": "ACR",
+    "D": "Diafonía"
+  },
+  "correcta": "B"
+},
+{
+  "id": 84,
+  "enunciado": "Según el RGPD, ¿cuál es el plazo máximo para notificar una violación de seguridad de datos personales?",
+  "opciones": {
+    "A": "No se establece plazo",
+    "B": "10 días hábiles",
+    "C": "Una semana",
+    "D": "72 horas"
+  },
+  "correcta": "D"
+},
+{
+  "id": 85,
+  "enunciado": "Señale la afirmación correcta sobre los sistemas de almacenamiento:",
+  "opciones": {
+    "A": "SAN conecta almacenamiento directamente al cliente",
+    "B": "NAS ofrece almacenamiento a nivel de bloque",
+    "C": "AFP, SMB o NFS son protocolos DAS",
+    "D": "SAN ofrece acceso a almacenamiento a nivel de bloque"
+  },
+  "correcta": "D"
+},
+{
+  "id": 86,
+  "enunciado": "Los dictámenes del Consejo Consultivo de Castilla-La Mancha:",
+  "opciones": {
+    "A": "Son vinculantes",
+    "B": "No serán vinculantes salvo que una ley lo establezca",
+    "C": "Son siempre preceptivos",
+    "D": "Todas son verdaderas"
+  },
+  "correcta": "B"
+},
+{
+  "id": 87,
+  "enunciado": "La Conferencia de Presidentes está formada por:",
+  "opciones": {
+    "A": "Miembros del Gobierno y Consejeros",
+    "B": "El Presidente del Gobierno y los Presidentes autonómicos",
+    "C": "Presidentes de Diputaciones",
+    "D": "Secretarios de Estado"
+  },
+  "correcta": "B"
+},
+{
+  "id": 88,
+  "enunciado": "Los microprocesadores con arquitectura CISC se caracterizan por:",
+  "opciones": {
+    "A": "Instrucciones uniformes",
+    "B": "Instrucciones simples",
+    "C": "Muchas formas de direccionamiento",
+    "D": "Número constante de ciclos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 89,
+  "enunciado": "En una red FTTH, ¿qué dispositivo conecta la red del hogar con la operadora?",
+  "opciones": {
+    "A": "OLT",
+    "B": "ONT",
+    "C": "ODN",
+    "D": "GPON"
+  },
+  "correcta": "B"
+},
+{
+  "id": 90,
+  "enunciado": "La entidad que gestiona a nivel global la raíz del DNS es:",
+  "opciones": {
+    "A": "W3C",
+    "B": "ISOC",
+    "C": "IETF",
+    "D": "IANA"
+  },
+  "correcta": "D"
+},
+{
+  "id": 91,
+  "enunciado": "¿Cómo se denomina el punto único de acceso a la información y administración electrónica de la JCCM?",
+  "opciones": {
+    "A": "Página web",
+    "B": "Gestor de contratación",
+    "C": "Dominio electrónico",
+    "D": "Sede electrónica"
+  },
+  "correcta": "D"
+},
+{
+  "id": 92,
+  "enunciado": "¿Qué dimensión NO está contemplada en el Esquema Nacional de Interoperabilidad?",
+  "opciones": {
+    "A": "Organizativa",
+    "B": "Semántica",
+    "C": "Sintáctica",
+    "D": "Técnica"
+  },
+  "correcta": "C"
+},
+{
+  "id": 93,
+  "enunciado": "Según la Ley Orgánica 3/2018, ¿a partir de qué edad puede un menor consentir el tratamiento de datos?",
+  "opciones": {
+    "A": "14 años",
+    "B": "12 años",
+    "C": "16 años",
+    "D": "18 años"
+  },
+  "correcta": "A"
+},
+{
+  "id": 94,
+  "enunciado": "¿Cuál NO es una forma de desperdicio según los principios LEAN?",
+  "opciones": {
+    "A": "Trabajo sin acabar",
+    "B": "Funcionalidades no solicitadas",
+    "C": "Explorar alternativas para elegir la mejor",
+    "D": "Cambiar de tareas"
+  },
+  "correcta": "C"
+},
+{
+  "id": 95,
+  "enunciado": "La familia de normas ISO/IEC 25000 se conoce como:",
+  "opciones": {
+    "A": "SPICE",
+    "B": "SQALE",
+    "C": "STRUTS",
+    "D": "SQuaRE"
+  },
+  "correcta": "D"
+},
+{
+  "id": 96,
+  "enunciado": "En IPSec, ¿cómo se denomina el modo que cifra todo el paquete IP y añade una nueva cabecera?",
+  "opciones": {
+    "A": "Modo transporte",
+    "B": "Modo túnel",
+    "C": "Modo promiscuo",
+    "D": "Modo transparente"
+  },
+  "correcta": "B"
+},
+{
+  "id": 97,
+  "enunciado": "En la Administración de la Junta de Comunidades de Castilla-La Mancha existe:",
+  "opciones": {
+    "A": "Un único registro electrónico",
+    "B": "Un registro por Consejería",
+    "C": "Varios registros electrónicos y uno presencial",
+    "D": "Solo registros presenciales"
+  },
+  "correcta": "A"
+},
+{
+  "id": 98,
+  "enunciado": "El ecosistema en el que gobiernos colaboran con startups para resolver retos públicos se denomina:",
+  "opciones": {
+    "A": "TechGov",
+    "B": "FinTech",
+    "C": "GovTech",
+    "D": "AdTech"
+  },
+  "correcta": "C"
+},
+{
+  "id": 99,
+  "enunciado": "¿En qué parte de un bloque Blockchain se almacena el timestamp?",
+  "opciones": {
+    "A": "Cuerpo",
+    "B": "Cabecera",
+    "C": "Árbol de Merkle",
+    "D": "Raíz de Merkle"
+  },
+  "correcta": "B"
+},
+{
+  "id": 100,
+  "enunciado": "Seleccione el sistema de archivos distribuido de Hadoop:",
+  "opciones": {
+    "A": "HBase FS",
+    "B": "NTFS",
+    "C": "Mahout FS",
+    "D": "HDFS"
+  },
+  "correcta": "D"
+},
+{
+  "id": 101,
+  "enunciado": "¿Cuál es la última versión del framework COBIT publicada por ISACA?",
+  "opciones": {
+    "A": "COBIT 4.0",
+    "B": "COBIT 4.1",
+    "C": "COBIT 5",
+    "D": "COBIT 2019"
+  },
+  "correcta": "D"
+},
+{
+  "id": 102,
+  "enunciado": "En IPv6, ¿cuáles son tipos de direcciones?",
+  "opciones": {
+    "A": "Unicast, broadcast, anycast",
+    "B": "Unicast, multicast, broadcast",
+    "C": "Multicast, anycast, broadcast",
+    "D": "Unicast, multicast, anycast"
+  },
+  "correcta": "D"
+}
+  ]
+}

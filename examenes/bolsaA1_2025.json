@@ -1,0 +1,1108 @@
+{
+  "id": "bolsa_a1_2025",
+  "nombre": "Bolsa A1 TIC CLM 2025",
+  "tiempo_minutos": 100,
+  "total_preguntas": 100,
+  "preguntas": [
+    {
+  "id": 1,
+  "enunciado": "¿En qué capa del modelo OSI opera el protocolo ICMP?",
+  "opciones": {
+    "A": "Capa de red (Capa 3)",
+    "B": "Capa de transporte (Capa 4)",
+    "C": "Capa de sesión (Capa 5)",
+    "D": "Capa de presentación (Capa 6)"
+  },
+  "correcta": "A"
+},
+{
+  "id": 2,
+  "enunciado": "Según la Open Source Initiative, ¿cuál es una afirmación correcta sobre el software de código abierto?",
+  "opciones": {
+    "A": "Permite acceder, modificar y redistribuir el código fuente",
+    "B": "Se publica en formato OpenOffice",
+    "C": "No puede modificarse",
+    "D": "Impide crear obras derivadas"
+  },
+  "correcta": "A"
+},
+{
+  "id": 3,
+  "enunciado": "¿Cuál es un metadato mínimo obligatorio del documento electrónico según la NTI de Documento Electrónico?",
+  "opciones": {
+    "A": "Autor del documento",
+    "B": "Total de palabras",
+    "C": "Resolución de impresión",
+    "D": "Estado de elaboración"
+  },
+  "correcta": "D"
+},
+{
+  "id": 4,
+  "enunciado": "¿Qué herramienta horizontal permite comprobar la validez y no revocación de un certificado?",
+  "opciones": {
+    "A": "Cl@ve",
+    "B": "VALIDe",
+    "C": "GEISER",
+    "D": "ORVE"
+  },
+  "correcta": "B"
+},
+{
+  "id": 5,
+  "enunciado": "¿Qué protocolo se utiliza para transmitir flujos multimedia en tiempo real?",
+  "opciones": {
+    "A": "rSTREAM",
+    "B": "RTSP",
+    "C": "RNetS",
+    "D": "RMultimedia"
+  },
+  "correcta": "B"
+},
+{
+  "id": 6,
+  "enunciado": "¿Cuál es una herramienta para la generación de Infraestructura como Código (IaC)?",
+  "opciones": {
+    "A": "MyPuppet",
+    "B": "IaC-Automation",
+    "C": "Terraform",
+    "D": "RedShift"
+  },
+  "correcta": "C"
+},
+{
+  "id": 7,
+  "enunciado": "En una granja de servidores, ¿qué dispositivo distribuye tráfico según políticas de capa 7?",
+  "opciones": {
+    "A": "Switch",
+    "B": "Balanceador",
+    "C": "Repartidor",
+    "D": "Puente"
+  },
+  "correcta": "B"
+},
+{
+  "id": 8,
+  "enunciado": "En Scrum, ¿quién se encarga de eliminar impedimentos del equipo?",
+  "opciones": {
+    "A": "Desarrolladores",
+    "B": "Scrum Master",
+    "C": "Cliente",
+    "D": "Product Owner"
+  },
+  "correcta": "B"
+},
+{
+  "id": 9,
+  "enunciado": "Uno de los objetivos principales de la reutilización de la información del sector público (RISP) es:",
+  "opciones": {
+    "A": "Controlar el gasto público",
+    "B": "Facilitar servicios solo presenciales",
+    "C": "Impulsar la economía mediante datos públicos",
+    "D": "Priorizar a partidos políticos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 10,
+  "enunciado": "¿Qué significa el acrónimo KPI en la gestión directiva TIC?",
+  "opciones": {
+    "A": "Knowledge and Planning Integration",
+    "B": "Key Performance Indicator",
+    "C": "Known Procedural Initiative",
+    "D": "Knowledge Process Interface"
+  },
+  "correcta": "B"
+},
+{
+  "id": 11,
+  "enunciado": "¿Qué tecnología es ampliamente utilizada para la creación y gestión de contenedores?",
+  "opciones": {
+    "A": "Apache Hadoop",
+    "B": "Microsoft Access",
+    "C": "Docker",
+    "D": "Oracle Forms"
+  },
+  "correcta": "C"
+},
+{
+  "id": 12,
+  "enunciado": "¿Cómo se denomina el entorno de ejecución de .NET que gestiona memoria y procesos?",
+  "opciones": {
+    "A": "CRB",
+    "B": "CLR",
+    "C": "CIL",
+    "D": "CIM"
+  },
+  "correcta": "B"
+},
+{
+  "id": 13,
+  "enunciado": "En redes domésticas de fibra óptica, ¿qué tecnología se utiliza?",
+  "opciones": {
+    "A": "Fibra de grafeno",
+    "B": "Fibra de cuarzo",
+    "C": "Fibra de cobre",
+    "D": "Fibra plástica"
+  },
+  "correcta": "B"
+},
+{
+  "id": 14,
+  "enunciado": "¿Cuál es el miembro español de ISO?",
+  "opciones": {
+    "A": "DIN",
+    "B": "IPQ",
+    "C": "AFNOR",
+    "D": "UNE"
+  },
+  "correcta": "D"
+},
+{
+  "id": 15,
+  "enunciado": "¿Qué topología WiFi utiliza un único SSID percibido por el usuario?",
+  "opciones": {
+    "A": "InterLink WIFI",
+    "B": "ConnectedAP",
+    "C": "MESH",
+    "D": "FullAP"
+  },
+  "correcta": "C"
+},
+{
+  "id": 16,
+  "enunciado": "¿Qué norma define un modelo de calidad del producto software?",
+  "opciones": {
+    "A": "ISO/IEC 27001",
+    "B": "ISO/IEC 25010",
+    "C": "ISO/IEC 15408",
+    "D": "ISO/IEC 9000"
+  },
+  "correcta": "B"
+},
+{
+  "id": 17,
+  "enunciado": "Según CCN-STIC 401, la trazabilidad es:",
+  "opciones": {
+    "A": "Imputabilidad de actuaciones a una entidad",
+    "B": "Confidencialidad de la información",
+    "C": "Disponibilidad de los activos",
+    "D": "Autenticidad de la entidad"
+  },
+  "correcta": "A"
+},
+{
+  "id": 18,
+  "enunciado": "¿Cuál es un beneficio de la integración continua?",
+  "opciones": {
+    "A": "Menor riesgo de retrasos",
+    "B": "Acumular pruebas",
+    "C": "No usar PaaS",
+    "D": "Despliegue decidido por desarrolladores"
+  },
+  "correcta": "A"
+},
+{
+  "id": 19,
+  "enunciado": "¿Qué caracteriza a un modelo de lenguaje de gran tamaño (LLM)?",
+  "opciones": {
+    "A": "Traducción únicamente",
+    "B": "Reglas fijas",
+    "C": "Entrenado con grandes volúmenes de texto",
+    "D": "Uso local sin internet"
+  },
+  "correcta": "C"
+},
+{
+  "id": 20,
+  "enunciado": "Según la NTI de Expediente Electrónico, ¿cuáles son sus componentes?",
+  "opciones": {
+    "A": "Documentos, firmas y metadatos",
+    "B": "Documentos, índice electrónico, firma del índice y metadatos",
+    "C": "Imágenes y metadatos",
+    "D": "Documentos firmados e índice"
+  },
+  "correcta": "B"
+},
+{
+  "id": 21,
+  "enunciado": "¿Qué función principal tiene un Redo Log en Oracle?",
+  "opciones": {
+    "A": "Almacenar datos temporales",
+    "B": "Registrar cambios para recuperación",
+    "C": "Mejorar la velocidad de lectura",
+    "D": "Permitir replicación"
+  },
+  "correcta": "B"
+},
+{
+  "id": 22,
+  "enunciado": "En ingeniería del software, los stakeholders son:",
+  "opciones": {
+    "A": "Individuos o grupos con interés en el sistema",
+    "B": "Puntos de control de requisitos",
+    "C": "Reuniones ágiles",
+    "D": "Requisitos licitados"
+  },
+  "correcta": "A"
+},
+{
+  "id": 23,
+  "enunciado": "¿Qué elemento NO forma parte de un sistema de información?",
+  "opciones": {
+    "A": "Hardware",
+    "B": "Red",
+    "C": "Algoritmos genéticos",
+    "D": "Personas"
+  },
+  "correcta": "C"
+},
+{
+  "id": 24,
+  "enunciado": "¿Cuál es la función principal del lenguaje SQL?",
+  "opciones": {
+    "A": "Definir almacenamiento físico",
+    "B": "Gestionar seguridad de volúmenes",
+    "C": "Definir, manipular y consultar datos",
+    "D": "Administrar la memoria"
+  },
+  "correcta": "C"
+},
+{
+  "id": 25,
+  "enunciado": "Un dispositivo WiFi 6E puede usar las frecuencias:",
+  "opciones": {
+    "A": "Solo 2,4 GHz",
+    "B": "Solo 5 GHz",
+    "C": "2,4, 4 y 5 GHz",
+    "D": "2,4, 5 y 6 GHz"
+  },
+  "correcta": "D"
+},
+{
+  "id": 26,
+  "enunciado": "¿Qué organismo propuso la arquitectura ANSI/SPARC para los sistemas de gestión de bases de datos?",
+  "opciones": {
+    "A": "ISO",
+    "B": "ANSI",
+    "C": "IEEE",
+    "D": "W3C"
+  },
+  "correcta": "B"
+},
+{
+  "id": 27,
+  "enunciado": "¿Qué tipo de prueba verifica que los cambios en el software no introducen errores en partes no modificadas?",
+  "opciones": {
+    "A": "Pruebas alfa",
+    "B": "Pruebas unitarias",
+    "C": "Pruebas de regresión",
+    "D": "Pruebas de integración"
+  },
+  "correcta": "C"
+},
+{
+  "id": 28,
+  "enunciado": "¿Qué significan las siglas DAFO en el análisis estratégico?",
+  "opciones": {
+    "A": "Datos, Análisis, Facturación, Objetivos",
+    "B": "Debilidades, Amenazas, Fortalezas, Oportunidades",
+    "C": "Desarrollo, Administración, Formación, Organización",
+    "D": "Diagnóstico, Aplicación, Fiabilidad, Operaciones"
+  },
+  "correcta": "B"
+},
+{
+  "id": 29,
+  "enunciado": "La denominación de la generación más reciente de microprocesadores Intel para portátil es:",
+  "opciones": {
+    "A": "Alder Lake",
+    "B": "Twin Lake",
+    "C": "Tiger",
+    "D": "Threadripper"
+  },
+  "correcta": "A"
+},
+{
+  "id": 30,
+  "enunciado": "En el ámbito de la Administración Pública, ¿a qué hace referencia el acrónimo RISP?",
+  "opciones": {
+    "A": "Revisión, Intervención, Seguridad, Protección",
+    "B": "Reutilización de la Información del Sector Público",
+    "C": "Referencias a la Información del Sector Público",
+    "D": "No existe en la Administración Pública"
+  },
+  "correcta": "B"
+},
+{
+  "id": 31,
+  "enunciado": "Indique la afirmación correcta sobre la arquitectura de microservicios:",
+  "opciones": {
+    "A": "La comunicación puede ser síncrona o asíncrona",
+    "B": "Solo pueden usar APIs REST",
+    "C": "Requiere un controlador central",
+    "D": "Un microservicio puede asumir varias responsabilidades"
+  },
+  "correcta": "A"
+},
+{
+  "id": 32,
+  "enunciado": "En metodologías ágiles, ¿qué representan los puntos historia?",
+  "opciones": {
+    "A": "El tamaño relativo de una tarea",
+    "B": "El esfuerzo técnico absoluto",
+    "C": "El coste económico",
+    "D": "El tiempo exacto de desarrollo"
+  },
+  "correcta": "A"
+},
+{
+  "id": 33,
+  "enunciado": "¿En qué NTI se recomienda, con carácter general, el uso de SCSPv3?",
+  "opciones": {
+    "A": "NTI de Protocolos de Intermediación de Datos",
+    "B": "NTI de Digitalización de Documentos",
+    "C": "NTI de Documento Electrónico",
+    "D": "NTI de Expediente Electrónico"
+  },
+  "correcta": "B"
+},
+{
+  "id": 34,
+  "enunciado": "Según el modelo funcional básico, una actividad fundamental de un sistema de información es:",
+  "opciones": {
+    "A": "Revisión fiscal",
+    "B": "Distribución de la información",
+    "C": "Impresión de documentación",
+    "D": "Segmentación de clientes"
+  },
+  "correcta": "B"
+},
+{
+  "id": 35,
+  "enunciado": "¿Cuál es la función principal de un sistema operativo?",
+  "opciones": {
+    "A": "Gestionar recursos hardware y software",
+    "B": "Proporcionar acceso a Internet",
+    "C": "Ejecutar aplicaciones de red",
+    "D": "Controlar el consumo eléctrico"
+  },
+  "correcta": "A"
+},
+{
+  "id": 36,
+  "enunciado": "¿Qué componente del sistema operativo comparten los contenedores?",
+  "opciones": {
+    "A": "Entorno gráfico",
+    "B": "Kernel del sistema operativo",
+    "C": "Bibliotecas de usuario",
+    "D": "Bootloader"
+  },
+  "correcta": "B"
+},
+{
+  "id": 37,
+  "enunciado": "En el contexto de pruebas en Java, ¿qué es Mockito?",
+  "opciones": {
+    "A": "Una librería para abstraer código complejo",
+    "B": "Un plugin de Jenkins",
+    "C": "Un framework para crear objetos simulados",
+    "D": "Un componente de pruebas de aceptación"
+  },
+  "correcta": "C"
+},
+{
+  "id": 38,
+  "enunciado": "¿Cuál de los siguientes es un gestor de repositorios Git?",
+  "opciones": {
+    "A": "Gitflow",
+    "B": "GitJupyter",
+    "C": "GitAtlassian",
+    "D": "GitLab"
+  },
+  "correcta": "D"
+},
+{
+  "id": 39,
+  "enunciado": "¿Qué elemento garantiza la integridad de los bloques en una blockchain?",
+  "opciones": {
+    "A": "Firma manuscrita",
+    "B": "Uso de tokens",
+    "C": "Hash criptográfico del bloque anterior",
+    "D": "Control de acceso centralizado"
+  },
+  "correcta": "C"
+},
+{
+  "id": 40,
+  "enunciado": "¿Cuál es la diferencia principal entre OCR e ICR?",
+  "opciones": {
+    "A": "OCR reconoce texto impreso e ICR manuscrito",
+    "B": "ICR es más rápido",
+    "C": "OCR es más reciente",
+    "D": "No hay diferencias"
+  },
+  "correcta": "A"
+},
+{
+  "id": 41,
+  "enunciado": "Según CCN-CERT BP/08, el término que describe el acoso a menores para obtener concesiones sexuales es:",
+  "opciones": {
+    "A": "Grooming",
+    "B": "Phishing",
+    "C": "Pharming",
+    "D": "Ransomware"
+  },
+  "correcta": "A"
+},
+{
+  "id": 42,
+  "enunciado": "¿Cuál es la única norma certificable de la familia ISO 9000?",
+  "opciones": {
+    "A": "ISO 9000",
+    "B": "ISO 9001",
+    "C": "ISO 9004",
+    "D": "ISO 9126"
+  },
+  "correcta": "B"
+},
+{
+  "id": 43,
+  "enunciado": "¿Cuál es una estrategia de despliegue de aplicaciones?",
+  "opciones": {
+    "A": "MyAppFirst Deployment",
+    "B": "Blue-Green Deployment",
+    "C": "Bird Deployment",
+    "D": "RollOut Deployment"
+  },
+  "correcta": "B"
+},
+{
+  "id": 44,
+  "enunciado": "¿Qué es BitLocker?",
+  "opciones": {
+    "A": "Cifrado de volúmenes en Windows",
+    "B": "Un chip de seguridad TPM",
+    "C": "Herramienta del CCN para borrado seguro",
+    "D": "Arquitectura de seguridad Linux"
+  },
+  "correcta": "A"
+},
+{
+  "id": 45,
+  "enunciado": "¿Cuál es un principio básico en el diseño de interfaces de usuario?",
+  "opciones": {
+    "A": "Ofrecer retroalimentación informativa",
+    "B": "Sobrecargar la memoria del usuario",
+    "C": "Limitar la posibilidad de deshacer",
+    "D": "Maximizar acciones incluso con errores"
+  },
+  "correcta": "A"
+},
+{
+  "id": 46,
+  "enunciado": "¿Qué nivel RAID permite el fallo de hasta dos discos sin pérdida de datos?",
+  "opciones": {
+    "A": "RAID 2",
+    "B": "RAID 4",
+    "C": "RAID 5",
+    "D": "RAID 6"
+  },
+  "correcta": "D"
+},
+{
+  "id": 47,
+  "enunciado": "¿Cuál es un plan incluido en la Agenda Digital España 2026?",
+  "opciones": {
+    "A": "Plan de Confianza en el ámbito digital",
+    "B": "Spain Audiovisual Hub",
+    "C": "Internacionalización tecnológica",
+    "D": "Automatización total de servicios públicos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 48,
+  "enunciado": "Indique la afirmación correcta sobre las clases abstractas en Java:",
+  "opciones": {
+    "A": "Pueden instanciarse",
+    "B": "Pueden tener métodos abstractos e implementados",
+    "C": "Permiten herencia múltiple",
+    "D": "No pueden tener variables"
+  },
+  "correcta": "B"
+},
+{
+  "id": 49,
+  "enunciado": "¿Qué significa BYOD en el ámbito empresarial?",
+  "opciones": {
+    "A": "Bring Your Own Device",
+    "B": "Bring Your Own Data",
+    "C": "Bring Your Own Domain",
+    "D": "Bring Your Own Download"
+  },
+  "correcta": "A"
+},
+{
+  "id": 50,
+  "enunciado": "¿Qué certificación de ISACA acredita competencias de auditoría TIC?",
+  "opciones": {
+    "A": "CISA",
+    "B": "DevOps Foundation",
+    "C": "PMP",
+    "D": "Professional Scrum Master"
+  },
+  "correcta": "A"
+},
+{
+  "id": 51,
+  "enunciado": "Indique cuál de los siguientes es un criterio de conformidad de nivel AA según WCAG 2.2:",
+  "opciones": {
+    "A": "Se proporcionan alternativas textuales a elementos no textuales",
+    "B": "Los textos tienen cierto contraste mínimo",
+    "C": "La funcionalidad del contenido es operable mediante el teclado",
+    "D": "Se proporcionan etiquetas o instrucciones cuando se requiere entrada de datos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 52,
+  "enunciado": "¿Qué herramienta facilita la integración continua mediante la automatización de pruebas y compilación?",
+  "opciones": {
+    "A": "FileZilla",
+    "B": "Monospace",
+    "C": "Jenkins",
+    "D": "Artifactory"
+  },
+  "correcta": "C"
+},
+{
+  "id": 53,
+  "enunciado": "¿Cuál de los siguientes es un sistema de control de versiones distribuido (DVCS)?",
+  "opciones": {
+    "A": "Subversion",
+    "B": "Git",
+    "C": "CVS",
+    "D": "RCS"
+  },
+  "correcta": "B"
+},
+{
+  "id": 54,
+  "enunciado": "¿Qué herramienta se utiliza para analizar el entorno interno y externo de una organización?",
+  "opciones": {
+    "A": "PMBOK",
+    "B": "Diagrama de flujo",
+    "C": "Análisis DAFO",
+    "D": "Árbol de decisiones"
+  },
+  "correcta": "C"
+},
+{
+  "id": 55,
+  "enunciado": "Indique la afirmación correcta sobre las redes adversarias generativas (GAN):",
+  "opciones": {
+    "A": "Varias redes compiten y gana la primera",
+    "B": "Dos redes compiten: generadora y discriminadora",
+    "C": "Son las redes neuronales más simples",
+    "D": "Generan instancias adversarias únicamente"
+  },
+  "correcta": "B"
+},
+{
+  "id": 56,
+  "enunciado": "En MySQL, ¿qué motor de almacenamiento soporta transacciones y claves foráneas?",
+  "opciones": {
+    "A": "MyISAM",
+    "B": "InnoDB",
+    "C": "MEMORY",
+    "D": "CSV"
+  },
+  "correcta": "B"
+},
+{
+  "id": 57,
+  "enunciado": "¿Cuál de las siguientes definiciones corresponde al esquema Copo de Nieve?",
+  "opciones": {
+    "A": "Tabla de hechos principal y tablas de hechos auxiliares",
+    "B": "Tabla de hechos central y dimensiones que se relacionan entre sí",
+    "C": "Tabla de hechos central con varias tablas de dimensiones",
+    "D": "Solo tablas de dimensiones sin tabla de hechos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 58,
+  "enunciado": "¿En qué momento del ciclo de vida se incorpora la seguridad según DevSecOps?",
+  "opciones": {
+    "A": "Al inicio mediante análisis de riesgos",
+    "B": "Al final del desarrollo",
+    "C": "En paralelo en todas las fases mediante equipos especialistas",
+    "D": "En todas las fases de desarrollo y operación, de forma integrada"
+  },
+  "correcta": "D"
+},
+{
+  "id": 59,
+  "enunciado": "¿Cuál es una herramienta de colaboración de Microsoft?",
+  "opciones": {
+    "A": "Google Meet",
+    "B": "Microsoft Teams",
+    "C": "Microsoft Group",
+    "D": "Microsoft WhatsApp"
+  },
+  "correcta": "B"
+},
+{
+  "id": 60,
+  "enunciado": "¿Cuál de las siguientes es una solución de gestión de identidades y accesos?",
+  "opciones": {
+    "A": "Microsoft Entra ID",
+    "B": "Google DrY",
+    "C": "Slack",
+    "D": "aCede Ic"
+  },
+  "correcta": "A"
+},
+{
+  "id": 61,
+  "enunciado": "¿Qué sistema CI/CD permite implementar GitOps en Kubernetes?",
+  "opciones": {
+    "A": "SVN CD",
+    "B": "GIT CI",
+    "C": "Argo CD",
+    "D": "Circe CI/CD"
+  },
+  "correcta": "C"
+},
+{
+  "id": 62,
+  "enunciado": "¿Cuál NO es un tipo de prueba válido?",
+  "opciones": {
+    "A": "Pruebas unitarias",
+    "B": "Pruebas de humo",
+    "C": "Pruebas omega",
+    "D": "Pruebas de integración"
+  },
+  "correcta": "C"
+},
+{
+  "id": 63,
+  "enunciado": "¿Cómo se denominan los cables de cobre con transceptor para altas velocidades en distancias cortas?",
+  "opciones": {
+    "A": "Wi-Fi",
+    "B": "Cable coaxial",
+    "C": "DAC",
+    "D": "MetroEthernet"
+  },
+  "correcta": "C"
+},
+{
+  "id": 64,
+  "enunciado": "En un diagrama de Gantt, ¿cómo se denomina una actividad sin trabajo ni recursos?",
+  "opciones": {
+    "A": "Tarea",
+    "B": "Encadenamiento funcional",
+    "C": "Hito",
+    "D": "Encadenamiento orgánico"
+  },
+  "correcta": "C"
+},
+{
+  "id": 65,
+  "enunciado": "En la metodología SMART, ¿qué característica NO forma parte de ella?",
+  "opciones": {
+    "A": "Medible",
+    "B": "Alcanzable",
+    "C": "Económico",
+    "D": "Relevante"
+  },
+  "correcta": "C"
+},
+{
+  "id": 66,
+  "enunciado": "¿Qué sistema operativo utilizan los dispositivos móviles de Apple?",
+  "opciones": {
+    "A": "OS X",
+    "B": "iOS",
+    "C": "Android",
+    "D": "z/OS"
+  },
+  "correcta": "B"
+},
+{
+  "id": 67,
+  "enunciado": "¿Qué patrón garantiza una única instancia de una clase con acceso global?",
+  "opciones": {
+    "A": "Singleton",
+    "B": "Facade",
+    "C": "Decorator",
+    "D": "Proxy"
+  },
+  "correcta": "A"
+},
+{
+  "id": 68,
+  "enunciado": "¿Qué es ITIL?",
+  "opciones": {
+    "A": "Un software de gestión de proyectos",
+    "B": "Un conjunto de buenas prácticas para la gestión de servicios TI",
+    "C": "Una certificación en programación",
+    "D": "Un protocolo de comunicaciones"
+  },
+  "correcta": "B"
+},
+{
+  "id": 69,
+  "enunciado": "Según el ENI, ¿qué instrumento almacena y publica modelos de datos para la interoperabilidad?",
+  "opciones": {
+    "A": "Centro de Interoperabilidad Semántica",
+    "B": "Centro de Transferencia Tecnológica",
+    "C": "Sistema de Información Administrativa",
+    "D": "DIR3"
+  },
+  "correcta": "A"
+},
+{
+  "id": 70,
+  "enunciado": "¿Cuál es la función de datos.gob.es?",
+  "opciones": {
+    "A": "Controlar redes sociales",
+    "B": "Publicar información confidencial",
+    "C": "Servir como catálogo nacional de datos reutilizables",
+    "D": "Gestionar solicitudes de acceso"
+  },
+  "correcta": "C"
+},
+{
+  "id": 71,
+  "enunciado": "¿Qué herramienta del CCN permite analizar la superficie de ataque de una organización?",
+  "opciones": {
+    "A": "ATENEA",
+    "B": "ELSA",
+    "C": "OLVIDO",
+    "D": "VANESA"
+  },
+  "correcta": "D"
+},
+{
+  "id": 72,
+  "enunciado": "¿Qué es Cucumber?",
+  "opciones": {
+    "A": "Herramienta de pruebas de aceptación automatizadas",
+    "B": "Herramienta de análisis estático",
+    "C": "Detector de zonas sin cobertura",
+    "D": "API de documentación REST"
+  },
+  "correcta": "A"
+},
+{
+  "id": 73,
+  "enunciado": "¿Cuál de las siguientes afirmaciones sobre cifrado es correcta?",
+  "opciones": {
+    "A": "El cifrado simétrico usa dos claves",
+    "B": "El cifrado asimétrico usa una clave",
+    "C": "AES, Blowfish y Camellia son algoritmos simétricos",
+    "D": "MD5 es un algoritmo asimétrico"
+  },
+  "correcta": "C"
+},
+{
+  "id": 74,
+  "enunciado": "¿Cuál es el estándar WIFI más reciente?",
+  "opciones": {
+    "A": "WiFi 6",
+    "B": "WiFi 6A",
+    "C": "WiFi 7",
+    "D": "WiFi 9"
+  },
+  "correcta": "C"
+},
+{
+  "id": 75,
+  "enunciado": "¿Cómo se denomina el mantenimiento que corrige fallos latentes antes de que se manifiesten?",
+  "opciones": {
+    "A": "Perfectivo",
+    "B": "Correctivo",
+    "C": "Limitativo",
+    "D": "Preventivo"
+  },
+  "correcta": "D"
+},
+{
+  "id": 76,
+  "enunciado": "¿Cuál es una herramienta que puede facilitar el trabajo colaborativo de equipos y la gestión de tareas en proyectos?",
+  "opciones": {
+    "A": "Elastic",
+    "B": "Trello",
+    "C": "Zabbix",
+    "D": "Sonar"
+  },
+  "correcta": "B"
+},
+{
+  "id": 77,
+  "enunciado": "¿Cuál es el propósito principal de Oracle RAC?",
+  "opciones": {
+    "A": "Mejorar la seguridad mediante cifrado",
+    "B": "Permitir múltiples instancias para alta disponibilidad y escalabilidad",
+    "C": "Convertir bases de datos relacionales en NoSQL",
+    "D": "Almacenamiento íntegramente en memoria"
+  },
+  "correcta": "B"
+},
+{
+  "id": 78,
+  "enunciado": "En las estructuras organizativas clásicas, ¿en cuál existe al menos una doble responsabilidad?",
+  "opciones": {
+    "A": "Lineal",
+    "B": "Funcional",
+    "C": "Comité",
+    "D": "Matricial"
+  },
+  "correcta": "D"
+},
+{
+  "id": 79,
+  "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente una blockchain?",
+  "opciones": {
+    "A": "Base de datos relacional distribuida",
+    "B": "Red descentralizada con bloques enlazados criptográficamente",
+    "C": "Aplicación de inteligencia artificial",
+    "D": "Red privada de uso gubernamental"
+  },
+  "correcta": "B"
+},
+{
+  "id": 80,
+  "enunciado": "¿Cuál es una metodología de análisis y gestión de riesgos de los sistemas de información?",
+  "opciones": {
+    "A": "CCN-STIC",
+    "B": "ELENA",
+    "C": "MAGERIT",
+    "D": "PILAR"
+  },
+  "correcta": "C"
+},
+{
+  "id": 81,
+  "enunciado": "¿Cuál de los siguientes lenguajes se utiliza para programar contratos inteligentes?",
+  "opciones": {
+    "A": "Ganache",
+    "B": "Hardhat",
+    "C": "Truffle",
+    "D": "Solidity"
+  },
+  "correcta": "D"
+},
+{
+  "id": 82,
+  "enunciado": "¿Qué estándar define la sintaxis y semántica del lenguaje SQL?",
+  "opciones": {
+    "A": "ISO 9001",
+    "B": "ANSI SQL",
+    "C": "IEEE 802.11",
+    "D": "W3C HTML5"
+  },
+  "correcta": "B"
+},
+{
+  "id": 83,
+  "enunciado": "¿Qué modelo tiene como objetivo ayudar a las organizaciones a alcanzar la excelencia mediante la autoevaluación?",
+  "opciones": {
+    "A": "ISO 9126",
+    "B": "Modelo EFQM",
+    "C": "Modelo OSI",
+    "D": "PMBOK"
+  },
+  "correcta": "B"
+},
+{
+  "id": 84,
+  "enunciado": "Según el RD 4/2010 (ENI), la sincronización de fecha y hora se realizará con:",
+  "opciones": {
+    "A": "Instituto Social de la Marina",
+    "B": "Real Instituto y Observatorio de la Armada",
+    "C": "Ministerio de Defensa",
+    "D": "Instituto Geográfico Nacional"
+  },
+  "correcta": "B"
+},
+{
+  "id": 85,
+  "enunciado": "¿Qué tipo de liderazgo promueve la mínima intervención del líder?",
+  "opciones": {
+    "A": "Autocrático",
+    "B": "Transformacional",
+    "C": "Delegativo (laissez-faire)",
+    "D": "Transaccional"
+  },
+  "correcta": "C"
+},
+{
+  "id": 86,
+  "enunciado": "La última versión de Microsoft del sistema operativo para servidores es:",
+  "opciones": {
+    "A": "Windows Server 2022",
+    "B": "Windows Server 2023",
+    "C": "Windows Server 2024",
+    "D": "Windows Server 2025"
+  },
+  "correcta": "A"
+},
+{
+  "id": 87,
+  "enunciado": "¿Qué elementos del DAFO se consideran factores internos?",
+  "opciones": {
+    "A": "Debilidades y Amenazas",
+    "B": "Fortalezas y Oportunidades",
+    "C": "Fortalezas y Debilidades",
+    "D": "Oportunidades y Amenazas"
+  },
+  "correcta": "C"
+},
+{
+  "id": 88,
+  "enunciado": "En la pirámide de Maslow, ¿cuál es la necesidad del nivel más alto?",
+  "opciones": {
+    "A": "Necesidades fisiológicas",
+    "B": "Necesidades de seguridad",
+    "C": "Necesidades de estima",
+    "D": "Autorrealización"
+  },
+  "correcta": "D"
+},
+{
+  "id": 89,
+  "enunciado": "Según la Ley 11/2022, una función de la CNMC es:",
+  "opciones": {
+    "A": "Identificar operadores con peso significativo en el mercado",
+    "B": "Controlar totalmente los precios",
+    "C": "Forzar la transición entre operadores",
+    "D": "Controlar contenidos mediáticos"
+  },
+  "correcta": "A"
+},
+{
+  "id": 90,
+  "enunciado": "En redes de fibra óptica, ¿qué despliegue permite llegar a varias habitaciones de un hogar?",
+  "opciones": {
+    "A": "FTTH",
+    "B": "FTTK",
+    "C": "FTTB",
+    "D": "FTTR"
+  },
+  "correcta": "D"
+},
+{
+  "id": 91,
+  "enunciado": "¿Qué característica debe cumplir un indicador para ser útil en un cuadro de mando?",
+  "opciones": {
+    "A": "Ser complejo",
+    "B": "Centrarse solo en finanzas",
+    "C": "Ser relevante, medible y ligado a objetivos",
+    "D": "Basarse en intuiciones"
+  },
+  "correcta": "C"
+},
+{
+  "id": 92,
+  "enunciado": "En el modelo Entidad-Relación, el número de ocurrencias de una entidad en una relación se denomina:",
+  "opciones": {
+    "A": "Dominio",
+    "B": "Cardinalidad",
+    "C": "Proyección",
+    "D": "Grado"
+  },
+  "correcta": "B"
+},
+{
+  "id": 93,
+  "enunciado": "En microprocesadores Intel, ¿qué conjunto de instrucciones asiste a la virtualización?",
+  "opciones": {
+    "A": "Virt-x",
+    "B": "VT-x",
+    "C": "VMware-x",
+    "D": "Proxmox-x"
+  },
+  "correcta": "B"
+},
+{
+  "id": 94,
+  "enunciado": "¿Cuáles son los roles principales definidos por Scrum?",
+  "opciones": {
+    "A": "Product Owner, Scrum Master y Usuario Experto",
+    "B": "Scrum Master, Equipo de Calidad y Operación",
+    "C": "Product Owner, Scrum Master y Equipo de Desarrollo",
+    "D": "Product Owner, Negocio y Desarrollo"
+  },
+  "correcta": "C"
+},
+{
+  "id": 95,
+  "enunciado": "En virtualización de escritorios (VDI), ¿qué protocolo permite el acceso remoto a equipos?",
+  "opciones": {
+    "A": "Citrix ICR",
+    "B": "Citrix VDR",
+    "C": "Microsoft RDP",
+    "D": "Microsoft RPC"
+  },
+  "correcta": "C"
+},
+{
+  "id": 96,
+  "enunciado": "¿Qué funcionalidad de CSS permite adaptar estilos según el dispositivo o resolución?",
+  "opciones": {
+    "A": "Layouts",
+    "B": "Combinators",
+    "C": "Pseudo-classes",
+    "D": "Media queries"
+  },
+  "correcta": "D"
+},
+{
+  "id": 97,
+  "enunciado": "¿Qué utilidad principal tiene el Cuadro de Mando Integral?",
+  "opciones": {
+    "A": "Reemplazar la planificación anual",
+    "B": "Gestionar bases de datos",
+    "C": "Traducir la estrategia en objetivos medibles",
+    "D": "Controlar presupuestos europeos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 98,
+  "enunciado": "En análisis de seguridad, ¿qué es una CVE?",
+  "opciones": {
+    "A": "Conjunto de métricas de seguridad",
+    "B": "Registro de vulnerabilidades conocidas",
+    "C": "Medida global de seguridad",
+    "D": "Lista de dependencias de un sistema"
+  },
+  "correcta": "B"
+},
+{
+  "id": 99,
+  "enunciado": "¿Qué protocolo se utiliza habitualmente para la transmisión de correos electrónicos?",
+  "opciones": {
+    "A": "FTP",
+    "B": "SMTP",
+    "C": "HTTP",
+    "D": "POP3"
+  },
+  "correcta": "B"
+},
+{
+  "id": 100,
+  "enunciado": "En sistemas de backup, la copia que guarda los cambios desde la última copia completa es:",
+  "opciones": {
+    "A": "Diferencial",
+    "B": "Incremental",
+    "C": "Parcial",
+    "D": "Completa"
+  },
+  "correcta": "B"
+}
+  ]
+}
