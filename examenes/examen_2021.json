@@ -1,0 +1,1108 @@
+{
+  "id": "libre_a1_2021",
+  "nombre": "Cuerpo Superior TIC CLM 2021 – Acceso Libre",
+  "tiempo_minutos": 120,
+  "total_preguntas": 100,
+  "preguntas": [
+    {
+  "id": 1,
+  "enunciado": "Según la Constitución Española, el Estado se organiza territorialmente en:",
+  "opciones": {
+    "A": "Municipios, provincias y Comunidades Autónomas",
+    "B": "Provincias y Comunidades Autónomas",
+    "C": "Municipios y provincias",
+    "D": "Comunidades Autónomas"
+  },
+  "correcta": "A"
+},
+{
+  "id": 2,
+  "enunciado": "Según la Ley 39/2015, son nulos de pleno derecho los actos administrativos que:",
+  "opciones": {
+    "A": "Lesionen cualquier derecho",
+    "B": "Sean dictados por órganos competentes",
+    "C": "Tengan defectos de forma",
+    "D": "Tengan un contenido imposible"
+  },
+  "correcta": "D"
+},
+{
+  "id": 3,
+  "enunciado": "Según la Ley 39/2015, la Administración debe mantener un archivo electrónico único:",
+  "opciones": {
+    "A": "De documentos electrónicos de procedimientos finalizados",
+    "B": "De documentos electrónicos y en papel finalizados",
+    "C": "De documentos electrónicos de procedimientos abiertos o finalizados",
+    "D": "De documentos electrónicos y en papel abiertos o finalizados"
+  },
+  "correcta": "A"
+},
+{
+  "id": 4,
+  "enunciado": "Según la Ley 4/2011 del Empleo Público de Castilla-La Mancha, el personal empleado público se clasifica en:",
+  "opciones": {
+    "A": "Funcionarios, laborales y directivos",
+    "B": "Funcionarios, laborales y eventuales",
+    "C": "Funcionarios de carrera e interinos, laborales y directivos",
+    "D": "Funcionarios y laborales"
+  },
+  "correcta": "B"
+},
+{
+  "id": 5,
+  "enunciado": "El Estatuto Básico del Empleado Público establece como principio ético:",
+  "opciones": {
+    "A": "Lealtad y buena fe con la Administración y los ciudadanos",
+    "B": "Lealtad exclusiva a los superiores",
+    "C": "Influir en la resolución de procedimientos",
+    "D": "No recoge principios éticos"
+  },
+  "correcta": "A"
+},
+{
+  "id": 6,
+  "enunciado": "Los contratos de adquisición de software desarrollado a medida son contratos de:",
+  "opciones": {
+    "A": "Concesión",
+    "B": "Suministro",
+    "C": "Servicios",
+    "D": "Obra"
+  },
+  "correcta": "C"
+},
+{
+  "id": 7,
+  "enunciado": "Los contratos menores según la Ley de Contratos del Sector Público no pueden durar más de:",
+  "opciones": {
+    "A": "Cinco años",
+    "B": "Un año",
+    "C": "Dos años",
+    "D": "Seis meses prorrogables"
+  },
+  "correcta": "B"
+},
+{
+  "id": 8,
+  "enunciado": "El procedimiento ordinario de concesión de subvenciones es:",
+  "opciones": {
+    "A": "Negociado",
+    "B": "Adjudicación directa",
+    "C": "Concurrencia competitiva",
+    "D": "Subasta"
+  },
+  "correcta": "C"
+},
+{
+  "id": 9,
+  "enunciado": "El Tratado de la Unión Europea reconoce como institución al:",
+  "opciones": {
+    "A": "Banco Europeo de Infraestructuras",
+    "B": "Banco Central Europeo",
+    "C": "Comité de los Territorios",
+    "D": "Consejo Político y Social"
+  },
+  "correcta": "B"
+},
+{
+  "id": 10,
+  "enunciado": "Según el Estatuto de Autonomía, las Cortes de Castilla-La Mancha estarán constituidas por:",
+  "opciones": {
+    "A": "40 Diputados",
+    "B": "Un máximo de 50 Diputados",
+    "C": "Entre 20 y 50 Diputados",
+    "D": "Entre 25 y 35 Diputados"
+  },
+  "correcta": "D"
+},
+{
+  "id": 11,
+  "enunciado": "Para la válida constitución del Consejo de Gobierno se requiere la asistencia:",
+  "opciones": {
+    "A": "De todos los miembros",
+    "B": "De un tercio de los miembros",
+    "C": "De al menos la mitad de los restantes miembros",
+    "D": "De la mitad de los consejeros"
+  },
+  "correcta": "C"
+},
+{
+  "id": 12,
+  "enunciado": "La Ley 19/2013 permite limitar el acceso a la información cuando suponga perjuicio para:",
+  "opciones": {
+    "A": "La Seguridad Social",
+    "B": "El patrimonio histórico",
+    "C": "El turismo",
+    "D": "La protección del medio ambiente"
+  },
+  "correcta": "D"
+},
+{
+  "id": 13,
+  "enunciado": "La LOPDGDD se aplica, con carácter general, a:",
+  "opciones": {
+    "A": "Tratamientos exclusivamente automatizados",
+    "B": "Tratamientos no automatizados",
+    "C": "Tratamientos totales o parciales automatizados y no automatizados en ficheros",
+    "D": "Datos de personas jurídicas"
+  },
+  "correcta": "C"
+},
+{
+  "id": 14,
+  "enunciado": "Los documentos electrónicos deben conservarse garantizando:",
+  "opciones": {
+    "A": "Consulta durante 5 años",
+    "B": "Confidencialidad e integridad",
+    "C": "Autenticidad, integridad y conservación",
+    "D": "Consulta durante el periodo legal"
+  },
+  "correcta": "C"
+},
+{
+  "id": 15,
+  "enunciado": "La norma de vigilancia tecnológica e inteligencia en I+D+i es:",
+  "opciones": {
+    "A": "ISO 27001",
+    "B": "UNE 166006:2018",
+    "C": "CTN71",
+    "D": "No existe"
+  },
+  "correcta": "B"
+},
+{
+  "id": 16,
+  "enunciado": "En Big Data, la característica relacionada con manejar distintos tipos de datos es:",
+  "opciones": {
+    "A": "Variedad",
+    "B": "Velocidad",
+    "C": "Volumen",
+    "D": "Veracidad"
+  },
+  "correcta": "A"
+},
+{
+  "id": 17,
+  "enunciado": "La herramienta de evaluación del modelo EFQM se denomina:",
+  "opciones": {
+    "A": "PDCA",
+    "B": "REDER",
+    "C": "Green Belt",
+    "D": "QA Benchmarking"
+  },
+  "correcta": "B"
+},
+{
+  "id": 18,
+  "enunciado": "La Directiva RoHS se ocupa de:",
+  "opciones": {
+    "A": "Reciclaje de residuos electrónicos",
+    "B": "Limitación de sustancias peligrosas",
+    "C": "Eficiencia energética",
+    "D": "Calidad ISO"
+  },
+  "correcta": "B"
+},
+{
+  "id": 19,
+  "enunciado": "Según la Ley 37/2007, reutilizar información pública para otra finalidad es infracción:",
+  "opciones": {
+    "A": "Muy grave",
+    "B": "Grave",
+    "C": "Leve",
+    "D": "No es infracción"
+  },
+  "correcta": "B"
+},
+{
+  "id": 20,
+  "enunciado": "¿Cuál de las siguientes NO pertenece a un DAFO?",
+  "opciones": {
+    "A": "Debilidades",
+    "B": "Fortalezas",
+    "C": "Obstrucciones",
+    "D": "Amenazas"
+  },
+  "correcta": "C"
+},
+{
+  "id": 21,
+  "enunciado": "¿Cuál no es un nivel típico de un sistema de información?",
+  "opciones": {
+    "A": "Operativo",
+    "B": "Táctico",
+    "C": "Directivo",
+    "D": "Estratégico"
+  },
+  "correcta": "D"
+},
+{
+  "id": 22,
+  "enunciado": "El Cuadro de Mando Integral propone las perspectivas:",
+  "opciones": {
+    "A": "Financiera, cliente, procesos internos y aprendizaje",
+    "B": "Empresarial y de negocio",
+    "C": "Negocio, cliente y financiera",
+    "D": "Servicio y operación"
+  },
+  "correcta": "A"
+},
+{
+  "id": 23,
+  "enunciado": "El método DELPHI consiste en:",
+  "opciones": {
+    "A": "Programación de objetos",
+    "B": "Proceso de consenso entre expertos",
+    "C": "Migración de software",
+    "D": "Migración de bases de datos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 24,
+  "enunciado": "Respecto a Gantt y PERT, la afirmación correcta es:",
+  "opciones": {
+    "A": "Gantt muestra el tiempo en abscisas y actividades en ordenadas",
+    "B": "PERT no baja al nivel de tareas",
+    "C": "PERT usa ejes temporales",
+    "D": "PERT solo maneja dos duraciones"
+  },
+  "correcta": "A"
+},
+{
+  "id": 25,
+  "enunciado": "En comercio electrónico, indique la afirmación correcta:",
+  "opciones": {
+    "A": "Los contratos se entienden celebrados donde esté el prestador",
+    "B": "Se requiere acuerdo previo de medios electrónicos",
+    "C": "No rigen normas generales",
+    "D": "El prestador debe facilitar datos colegiales si procede"
+  },
+  "correcta": "D"
+},
+{
+  "id": 26,
+  "enunciado": "En redes sociales, recrear historias para captar la atención de los usuarios se conoce como:",
+  "opciones": {
+    "A": "Etiqueta",
+    "B": "Feed",
+    "C": "Mensaje orgánico",
+    "D": "Storytelling"
+  },
+  "correcta": "D"
+},
+{
+  "id": 27,
+  "enunciado": "Según el ENI, la publicación de servicios a través de la Red SARA pertenece a la interoperabilidad:",
+  "opciones": {
+    "A": "Técnica",
+    "B": "Semántica",
+    "C": "Comunicativa",
+    "D": "Organizativa"
+  },
+  "correcta": "D"
+},
+{
+  "id": 28,
+  "enunciado": "¿Cuál NO es un metadato mínimo obligatorio según la NTI de Documento Electrónico?",
+  "opciones": {
+    "A": "Versión NTI",
+    "B": "Identificador",
+    "C": "Fecha de captura",
+    "D": "Versión del documento"
+  },
+  "correcta": "D"
+},
+{
+  "id": 29,
+  "enunciado": "La solución que unifica la firma electrónica con certificados locales y en la nube se denomina:",
+  "opciones": {
+    "A": "Cl@ve",
+    "B": "Cl@ve Firma",
+    "C": "FIRe",
+    "D": "GlobalFirma"
+  },
+  "correcta": "C"
+},
+{
+  "id": 30,
+  "enunciado": "¿Qué sistema permite el intercambio de asientos electrónicos de registro entre AAPP?",
+  "opciones": {
+    "A": "FACe",
+    "B": "IAE-AAPP",
+    "C": "ADA",
+    "D": "SIR"
+  },
+  "correcta": "D"
+},
+{
+  "id": 31,
+  "enunciado": "¿Cuál NO es un objetivo de la gobernanza del dato?",
+  "opciones": {
+    "A": "Construir procesos estándar",
+    "B": "Capacitar a la organización",
+    "C": "Garantizar la transparencia",
+    "D": "Garantizar la adquisición al mejor precio"
+  },
+  "correcta": "D"
+},
+{
+  "id": 32,
+  "enunciado": "Indique la afirmación correcta sobre ANSI e ISO:",
+  "opciones": {
+    "A": "ANSI coordina normas internacionales",
+    "B": "ENAC traduce normas internacionales",
+    "C": "ANSI es nacional (EE. UU.) e ISO es internacional",
+    "D": "CEN publica normas EUN"
+  },
+  "correcta": "C"
+},
+{
+  "id": 33,
+  "enunciado": "La taxonomía de Flynn clasifica los computadores según:",
+  "opciones": {
+    "A": "Su capacidad de procesamiento paralelo",
+    "B": "Tipos de sistemas multicomputador",
+    "C": "Velocidad de cómputo",
+    "D": "Arquitecturas de red"
+  },
+  "correcta": "A"
+},
+{
+  "id": 34,
+  "enunciado": "La clasificación de redundancia de un DataCenter según ANSI/TIA-942 se denomina:",
+  "opciones": {
+    "A": "RITE",
+    "B": "TIRE",
+    "C": "RETI",
+    "D": "TIER"
+  },
+  "correcta": "D"
+},
+{
+  "id": 35,
+  "enunciado": "Una infraestructura convergente en un CPD es:",
+  "opciones": {
+    "A": "Red integrada de voz y datos",
+    "B": "Sistema integrado de cómputo, almacenamiento y red",
+    "C": "Sistema eléctrico y de climatización",
+    "D": "Nube híbrida transparente"
+  },
+  "correcta": "B"
+},
+{
+  "id": 36,
+  "enunciado": "Las plataformas que gestionan PCs, móviles e impresoras desde un único entorno se denomina:",
+  "opciones": {
+    "A": "UEM (Unified Endpoint Management)",
+    "B": "EMM",
+    "C": "MDM",
+    "D": "AIO DM"
+  },
+  "correcta": "A"
+},
+{
+  "id": 37,
+  "enunciado": "Para sistemas especialmente sensibles en seguridad y protección de datos, el modelo cloud más adecuado es:",
+  "opciones": {
+    "A": "Nube híbrida",
+    "B": "Nube pública",
+    "C": "Nube privada",
+    "D": "Nube comunitaria"
+  },
+  "correcta": "C"
+},
+{
+  "id": 38,
+  "enunciado": "Las arquitecturas donde todos los nodos actúan como clientes y servidores son:",
+  "opciones": {
+    "A": "Cliente/Servidor",
+    "B": "Peer-to-peer",
+    "C": "NSA",
+    "D": "Equal-Peer"
+  },
+  "correcta": "B"
+},
+{
+  "id": 39,
+  "enunciado": "En cloud computing, el actor “Suscriptor” es:",
+  "opciones": {
+    "A": "El proveedor del servicio",
+    "B": "El cliente o usuario final",
+    "C": "El fabricante de hardware",
+    "D": "No existe dicho actor"
+  },
+  "correcta": "B"
+},
+{
+  "id": 40,
+  "enunciado": "¿Cuál NO es una topología válida en Fibre Channel?",
+  "opciones": {
+    "A": "Switched Fabric",
+    "B": "Arbitrated Loop",
+    "C": "Point-to-Point",
+    "D": "Constellation"
+  },
+  "correcta": "D"
+},
+{
+  "id": 41,
+  "enunciado": "¿Cuál de las siguientes opciones NO es un comando Linux?",
+  "opciones": {
+    "A": "pwd",
+    "B": "touch",
+    "C": "du",
+    "D": "userrad"
+  },
+  "correcta": "D"
+},
+{
+  "id": 42,
+  "enunciado": "En almacenamiento, el \"striping\" consiste en:",
+  "opciones": {
+    "A": "Comprobación de errores",
+    "B": "Generación de paridad",
+    "C": "Dividir bloques de datos entre varios discos",
+    "D": "Un nivel RAID propietario"
+  },
+  "correcta": "C"
+},
+{
+  "id": 43,
+  "enunciado": "¿Qué afirmación sobre normalización NO es correcta?",
+  "opciones": {
+    "A": "Pueden existir esquemas no equivalentes",
+    "B": "Reduce la redundancia",
+    "C": "La 5FN elimina dependencias de combinación",
+    "D": "Transforma un esquema en N esquemas"
+  },
+  "correcta": "D"
+},
+{
+  "id": 44,
+  "enunciado": "La coordinación de invocación de servicios web se denomina:",
+  "opciones": {
+    "A": "Coreografía",
+    "B": "WSDL",
+    "C": "Planificado",
+    "D": "Orquestación"
+  },
+  "correcta": "D"
+},
+{
+  "id": 45,
+  "enunciado": "En REST, ¿qué afirmación es incorrecta?",
+  "opciones": {
+    "A": "Usa GET, POST, PUT y DELETE",
+    "B": "Recursos accesibles por URI",
+    "C": "Mantiene estado en el servidor",
+    "D": "Permite cacheo"
+  },
+  "correcta": "C"
+},
+{
+  "id": 46,
+  "enunciado": "¿Qué herramienta es un orquestador de contenedores?",
+  "opciones": {
+    "A": "Puppet",
+    "B": "Jenkins",
+    "C": "Docker",
+    "D": "Kubernetes"
+  },
+  "correcta": "D"
+},
+{
+  "id": 47,
+  "enunciado": "ITIL 4 se basa en el concepto de:",
+  "opciones": {
+    "A": "Sistema de valor del servicio",
+    "B": "Sistema de crecimiento",
+    "C": "Sistema de gobernanza",
+    "D": "Sistema de mejora continua"
+  },
+  "correcta": "A"
+},
+{
+  "id": 48,
+  "enunciado": "¿Qué afirmación sobre Kerberos NO es correcta?",
+  "opciones": {
+    "A": "Usa criptografía asimétrica",
+    "B": "Es un protocolo de autenticación",
+    "C": "Se basa en tickets",
+    "D": "Funciona en Linux y Windows"
+  },
+  "correcta": "A"
+},
+{
+  "id": 49,
+  "enunciado": "Para reconocimiento de caracteres manuscritos se emplea:",
+  "opciones": {
+    "A": "OCR",
+    "B": "ICR",
+    "C": "OMR",
+    "D": "IMR"
+  },
+  "correcta": "B"
+},
+{
+  "id": 50,
+  "enunciado": "La práctica DevOps que automatiza completamente la puesta en producción es:",
+  "opciones": {
+    "A": "Integración continua",
+    "B": "Entrega continua",
+    "C": "Despliegue continuo",
+    "D": "TDD"
+  },
+  "correcta": "C"
+},
+{
+  "id": 51,
+  "enunciado": "En prototipado web, la guía visual que representa la estructura de un sitio web se denomina:",
+  "opciones": {
+    "A": "User Experience",
+    "B": "Wireframe",
+    "C": "MVP",
+    "D": "Fachada"
+  },
+  "correcta": "B"
+},
+{
+  "id": 52,
+  "enunciado": "En desarrollo software, una característica de las historias de usuario es que:",
+  "opciones": {
+    "A": "Deben realizarse en menos de 15 días",
+    "B": "Son definidas por el equipo técnico",
+    "C": "Siempre aportan valor al negocio",
+    "D": "Pertenecen a COCOMO"
+  },
+  "correcta": "C"
+},
+{
+  "id": 53,
+  "enunciado": "En SCRUM, el evento destinado a inspeccionar el resultado del Sprint es:",
+  "opciones": {
+    "A": "Sprint Planning",
+    "B": "Daily Scrum",
+    "C": "Sprint Review",
+    "D": "Sprint Retrospective"
+  },
+  "correcta": "C"
+},
+{
+  "id": 54,
+  "enunciado": "En MÉTRICA V3, la técnica que representa y define todos los datos del sistema es:",
+  "opciones": {
+    "A": "Diagrama de Secuencia",
+    "B": "Diagrama de Objetos",
+    "C": "Modelo Entidad/Relación Extendido",
+    "D": "Diagrama de Flujo de Datos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 55,
+  "enunciado": "En MÉTRICA V3, las pruebas destinadas a eliminar el efecto onda son:",
+  "opciones": {
+    "A": "Pruebas de integración",
+    "B": "Pruebas de implantación",
+    "C": "Pruebas de aceptación",
+    "D": "Pruebas de regresión"
+  },
+  "correcta": "D"
+},
+{
+  "id": 56,
+  "enunciado": "En modelos Entidad/Relación, las entidades cuya existencia depende de otra se denominan:",
+  "opciones": {
+    "A": "Entidad floja",
+    "B": "Entidad regular",
+    "C": "Entidad débil",
+    "D": "Entidad irregular"
+  },
+  "correcta": "C"
+},
+{
+  "id": 57,
+  "enunciado": "¿Qué diagrama UML es un diagrama de interacción?",
+  "opciones": {
+    "A": "Diagrama de clases",
+    "B": "Diagrama de actividades",
+    "C": "Diagrama de estados",
+    "D": "Diagrama de secuencia"
+  },
+  "correcta": "D"
+},
+{
+  "id": 58,
+  "enunciado": "Según MAGERIT, el riesgo es:",
+  "opciones": {
+    "A": "La causa potencial de un incidente",
+    "B": "Un intento de ataque",
+    "C": "La consecuencia sobre un activo",
+    "D": "La estimación de la probabilidad e impacto de una amenaza"
+  },
+  "correcta": "D"
+},
+{
+  "id": 59,
+  "enunciado": "¿Cuál es una herramienta usada en despliegue y gestión de infraestructura como código (IaC)?",
+  "opciones": {
+    "A": "Spring Boot",
+    "B": "SonarQube",
+    "C": "Vault",
+    "D": "Ansible"
+  },
+  "correcta": "D"
+},
+{
+  "id": 60,
+  "enunciado": "¿Qué patrón pertenece al grupo de patrones estructurales?",
+  "opciones": {
+    "A": "Abstract Factory",
+    "B": "Singleton",
+    "C": "Decorator",
+    "D": "Chain of Responsibility"
+  },
+  "correcta": "C"
+},
+{
+  "id": 61,
+  "enunciado": "Una buena práctica de diseño software es tener:",
+  "opciones": {
+    "A": "Bajo acoplamiento y baja cohesión",
+    "B": "Alto acoplamiento y baja cohesión",
+    "C": "Bajo acoplamiento y alta cohesión",
+    "D": "Alto acoplamiento y alta cohesión"
+  },
+  "correcta": "C"
+},
+{
+  "id": 62,
+  "enunciado": "¿Cuál de los siguientes NO es un framework de PHP?",
+  "opciones": {
+    "A": "Laravel",
+    "B": "Symfony",
+    "C": "CakePHP",
+    "D": "Quarkus"
+  },
+  "correcta": "D"
+},
+{
+  "id": 63,
+  "enunciado": "¿Cuál NO es un framework SPA?",
+  "opciones": {
+    "A": "AngularJS",
+    "B": "SpringBoot",
+    "C": "Vue.js",
+    "D": "Meteor"
+  },
+  "correcta": "B"
+},
+{
+  "id": 64,
+  "enunciado": "En Java, la memoria donde se almacenan los objetos se denomina:",
+  "opciones": {
+    "A": "Pila",
+    "B": "Heap",
+    "C": "Stack",
+    "D": "Garbage"
+  },
+  "correcta": "B"
+},
+{
+  "id": 65,
+  "enunciado": "¿Cuál NO es un principio del Manifiesto Ágil?",
+  "opciones": {
+    "A": "Aceptar cambios tardíos",
+    "B": "La simplicidad es esencial",
+    "C": "El software funcionando es la medida principal",
+    "D": "Uso obligatorio de Scrum y Kanban"
+  },
+  "correcta": "D"
+},
+{
+  "id": 66,
+  "enunciado": "El formato de documento abierto basado en XML estandarizado por ISO es:",
+  "opciones": {
+    "A": "ODF",
+    "B": "PDF",
+    "C": "DOCX",
+    "D": "OML"
+  },
+  "correcta": "A"
+},
+{
+  "id": 67,
+  "enunciado": "El formato abierto para intercambio de información financiera y contable es:",
+  "opciones": {
+    "A": "XML-Dsig",
+    "B": "XBRL",
+    "C": "Atom",
+    "D": "XSL-FO"
+  },
+  "correcta": "B"
+},
+{
+  "id": 68,
+  "enunciado": "XCode se utiliza para el desarrollo de:",
+  "opciones": {
+    "A": "Aplicaciones Android",
+    "B": "Aplicaciones iOS",
+    "C": "Aplicaciones híbridas",
+    "D": "Aplicaciones web móviles"
+  },
+  "correcta": "B"
+},
+{
+  "id": 69,
+  "enunciado": "La herramienta CI open source para automatizar la entrega de software es:",
+  "opciones": {
+    "A": "SonarQube",
+    "B": "Cucumber",
+    "C": "Selenium",
+    "D": "Jenkins"
+  },
+  "correcta": "D"
+},
+{
+  "id": 70,
+  "enunciado": "La migración que modifica solo la interfaz gráfica de una aplicación se denomina:",
+  "opciones": {
+    "A": "Refronting",
+    "B": "Rehosting",
+    "C": "Rearchitecting",
+    "D": "Wrapping"
+  },
+  "correcta": "A"
+},
+{
+  "id": 71,
+  "enunciado": "En CSS, el mecanismo para adaptar el diseño al dispositivo es:",
+  "opciones": {
+    "A": "Media queries",
+    "B": "Flexible layouts",
+    "C": "Device dependent layouts",
+    "D": "Responsive queries"
+  },
+  "correcta": "A"
+},
+{
+  "id": 72,
+  "enunciado": "Una clase abstracta en programación orientada a objetos no puede:",
+  "opciones": {
+    "A": "Implementar interfaces",
+    "B": "Ser superclase",
+    "C": "Ser instanciada",
+    "D": "Contener métodos concretos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 73,
+  "enunciado": "Apache Subversion es una herramienta de:",
+  "opciones": {
+    "A": "Empaquetado de aplicaciones",
+    "B": "Análisis de código",
+    "C": "Repositorio de artefactos",
+    "D": "Control de versiones"
+  },
+  "correcta": "D"
+},
+{
+  "id": 74,
+  "enunciado": "Las normas ISO para requisitos y evaluación de calidad software pertenecen a la serie:",
+  "opciones": {
+    "A": "ISO/IEC 25000",
+    "B": "ISO/IEC 27000",
+    "C": "ISO 9000",
+    "D": "ISO 9001"
+  },
+  "correcta": "A"
+},
+{
+  "id": 75,
+  "enunciado": "La opción compuesta solo por CMS Open Source es:",
+  "opciones": {
+    "A": "WordPress, Oracle Portal y XCM",
+    "B": "Drupal, Liferay e iWeb",
+    "C": "Joomla, OnBase y SharePoint",
+    "D": "WordPress, Drupal y Joomla"
+  },
+  "correcta": "D"
+},
+{
+  "id": 76,
+  "enunciado": "¿Cuál de estos NO es un tipo de aprendizaje automático?",
+  "opciones": {
+    "A": "Aprendizaje supervisado",
+    "B": "Aprendizaje no supervisado",
+    "C": "Aprendizaje por refuerzo",
+    "D": "Aprendizaje singular"
+  },
+  "correcta": "D"
+},
+{
+  "id": 77,
+  "enunciado": "¿Cuál de los siguientes se corresponde con un módulo de un ERP?",
+  "opciones": {
+    "A": "Recursos Humanos",
+    "B": "Planificación Estratégica",
+    "C": "Seguridad de la Información",
+    "D": "HelpDesk"
+  },
+  "correcta": "A"
+},
+{
+  "id": 78,
+  "enunciado": "El servicio OpenGIS que permite consultar y editar información geográfica vectorial es:",
+  "opciones": {
+    "A": "WMS",
+    "B": "WMC",
+    "C": "WFS",
+    "D": "WMTS"
+  },
+  "correcta": "C"
+},
+{
+  "id": 79,
+  "enunciado": "¿Qué tipos de formato se utilizan para almacenar datos en un SIG?",
+  "opciones": {
+    "A": "No se almacenan datos",
+    "B": "Ráster y vectorial",
+    "C": "Ráster y matricial",
+    "D": "Ráster y numérico"
+  },
+  "correcta": "B"
+},
+{
+  "id": 80,
+  "enunciado": "Según la Ley 9/2014 General de Telecomunicaciones, las telecomunicaciones son:",
+  "opciones": {
+    "A": "Servicios de interés general en régimen de libre competencia",
+    "B": "Servicios públicos concesionales",
+    "C": "Servicios privados",
+    "D": "Servicios públicos prestados por operadores privados"
+  },
+  "correcta": "A"
+},
+{
+  "id": 81,
+  "enunciado": "La necesidad de establecer un camino previo antes de transmitir datos es propia de la:",
+  "opciones": {
+    "A": "Conmutación de circuitos",
+    "B": "Conmutación de paquetes",
+    "C": "Conmutación de mensajes",
+    "D": "Conmutación de protocolos"
+  },
+  "correcta": "A"
+},
+{
+  "id": 82,
+  "enunciado": "Respecto al protocolo RTP, señale la opción correcta:",
+  "opciones": {
+    "A": "Usa TCP",
+    "B": "No permite multidifusión",
+    "C": "Es un protocolo de transporte en la capa de aplicación",
+    "D": "Solicita retransmisiones"
+  },
+  "correcta": "C"
+},
+{
+  "id": 83,
+  "enunciado": "En FTTH con tecnología GPON, el equipo situado en el domicilio del abonado es:",
+  "opciones": {
+    "A": "FGT",
+    "B": "PON-TD",
+    "C": "OLT",
+    "D": "ONT"
+  },
+  "correcta": "D"
+},
+{
+  "id": 84,
+  "enunciado": "¿Cuál de los siguientes NO es un sistema de seguridad WiFi?",
+  "opciones": {
+    "A": "WEP",
+    "B": "WPA",
+    "C": "WPA2",
+    "D": "WSS"
+  },
+  "correcta": "D"
+},
+{
+  "id": 85,
+  "enunciado": "En IPv6, los tipos de direcciones son:",
+  "opciones": {
+    "A": "Multicast, Unicast y Anycast",
+    "B": "Multicast y Unicast",
+    "C": "Broadcast y Unicast",
+    "D": "Broadcast, Unicast y Anycast"
+  },
+  "correcta": "A"
+},
+{
+  "id": 86,
+  "enunciado": "Los servidores que resuelven las zonas raíz del DNS se denominan:",
+  "opciones": {
+    "A": "Principal Name Servers",
+    "B": "Root servers",
+    "C": "Authoritative Name Servers",
+    "D": "Delegated Name Servers"
+  },
+  "correcta": "B"
+},
+{
+  "id": 87,
+  "enunciado": "La recomendación ITU-T relacionada con videoconferencia por paquetes es:",
+  "opciones": {
+    "A": "H.323",
+    "B": "G.342",
+    "C": "H.285",
+    "D": "G.505"
+  },
+  "correcta": "A"
+},
+{
+  "id": 88,
+  "enunciado": "El protocolo abierto de señalización más usado en VoIP es:",
+  "opciones": {
+    "A": "SCCP",
+    "B": "CCP",
+    "C": "CIP",
+    "D": "SIP"
+  },
+  "correcta": "D"
+},
+{
+  "id": 89,
+  "enunciado": "Una CDN es:",
+  "opciones": {
+    "A": "Red de capacidad de datos",
+    "B": "Red distribuida con la nube",
+    "C": "Red definida en la nube",
+    "D": "Red de entrega de contenido"
+  },
+  "correcta": "D"
+},
+{
+  "id": 90,
+  "enunciado": "La herramienta del CNI para análisis de riesgos según MAGERIT es:",
+  "opciones": {
+    "A": "PILAR",
+    "B": "LUCIA",
+    "C": "JUANA",
+    "D": "MARIA ANTONIA"
+  },
+  "correcta": "A"
+},
+{
+  "id": 91,
+  "enunciado": "Las medidas del ENS serán proporcionales a:",
+  "opciones": {
+    "A": "El criterio del responsable",
+    "B": "La categoría y dimensiones de seguridad del sistema",
+    "C": "El resultado de la auditoría",
+    "D": "El análisis de vulnerabilidades"
+  },
+  "correcta": "B"
+},
+{
+  "id": 92,
+  "enunciado": "El periodo máximo de vigencia de un certificado cualificado es de:",
+  "opciones": {
+    "A": "2 años",
+    "B": "3 años",
+    "C": "4 años",
+    "D": "5 años"
+  },
+  "correcta": "D"
+},
+{
+  "id": 93,
+  "enunciado": "El conjunto que permite crear y gestionar certificados digitales es:",
+  "opciones": {
+    "A": "CA",
+    "B": "RA",
+    "C": "Plataforma de firma",
+    "D": "PKI"
+  },
+  "correcta": "D"
+},
+{
+  "id": 94,
+  "enunciado": "¿Cuál de los siguientes es un estándar de firma electrónica?",
+  "opciones": {
+    "A": "WAdES",
+    "B": "XAdES",
+    "C": "PDFSignES",
+    "D": "TotalSIGN-XL"
+  },
+  "correcta": "B"
+},
+{
+  "id": 95,
+  "enunciado": "El ataque que provoca saturación de recursos usando múltiples equipos es:",
+  "opciones": {
+    "A": "Ransomware",
+    "B": "Buffer Overflow",
+    "C": "DDoS",
+    "D": "Sniffing"
+  },
+  "correcta": "C"
+},
+{
+  "id": 96,
+  "enunciado": "Según ISO 22301, el acrónimo BIA significa:",
+  "opciones": {
+    "A": "Business Impact Analysis",
+    "B": "Business Independent Analysis",
+    "C": "Business Impact Assessment",
+    "D": "Business Incident Assessment"
+  },
+  "correcta": "A"
+},
+{
+  "id": 97,
+  "enunciado": "El cifrado usado por HTTPS se proporciona mediante:",
+  "opciones": {
+    "A": "S-HTTP",
+    "B": "IPSec",
+    "C": "IKE",
+    "D": "TLS"
+  },
+  "correcta": "D"
+},
+{
+  "id": 98,
+  "enunciado": "El parámetro RTO indica:",
+  "opciones": {
+    "A": "Tiempo máximo de caída tolerable",
+    "B": "Nivel mínimo de recuperación",
+    "C": "Tiempo para restaurar el servicio",
+    "D": "Tiempo sin fallos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 99,
+  "enunciado": "Sobre la protección jurídica del software, indique la correcta:",
+  "opciones": {
+    "A": "La documentación no está protegida",
+    "B": "Las ideas están protegidas",
+    "C": "El trabajador es siempre el titular",
+    "D": "En obras colectivas, el autor es quien edita y divulga"
+  },
+  "correcta": "D"
+},
+{
+  "id": 100,
+  "enunciado": "Según el RGPD, quien determina fines y medios del tratamiento es:",
+  "opciones": {
+    "A": "Responsable del tratamiento",
+    "B": "Encargado del tratamiento",
+    "C": "Autoridad de control",
+    "D": "Delegado de Protección de Datos"
+  },
+  "correcta": "A"
+}
+  ]
+}
