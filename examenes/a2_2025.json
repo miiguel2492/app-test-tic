@@ -1,11 +1,11 @@
 {
-  "id": "tic_clm_2025",
-  "nombre": "Cuerpo Superior TIC CLM 2025",
+  "id": "A2_clm_2025",
+  "nombre": "A2 TIC CLM 2025",
   "tiempo_minutos": 120,
-  "total_preguntas": 100,
+  "total_preguntas": 92,
   "preguntas": [
 
-{
+    {
   "id": 1,
   "enunciado": "Indique el orden correcto de las capas del modelo OSI de abajo hacia arriba:",
   "opciones": {
@@ -995,5 +995,5 @@
   },
   "correcta": "A"
 }
-]
+  ]
 }
