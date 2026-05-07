@@ -1,0 +1,999 @@
+{
+  "id": "tic_clm_2025",
+  "nombre": "Cuerpo Superior TIC CLM 2025",
+  "tiempo_minutos": 120,
+  "total_preguntas": 100,
+  "preguntas": [
+
+{
+  "id": 1,
+  "enunciado": "Indique el orden correcto de las capas del modelo OSI de abajo hacia arriba:",
+  "opciones": {
+    "A": "Física, red, transporte, enlace, presentación, sesión y aplicación",
+    "B": "Física, enlace, red, transporte, sesión, presentación y aplicación",
+    "C": "Física, transporte, enlace, red, presentación, sesión y aplicación",
+    "D": "Física, red, enlace, transporte, sesión, aplicación y presentación"
+  },
+  "correcta": "B"
+},
+{
+  "id": 2,
+  "enunciado": "Según la Guía Scrum 2020, ¿quién es responsable de maximizar el valor del producto?",
+  "opciones": {
+    "A": "Scrum Master",
+    "B": "Developers",
+    "C": "Product Owner",
+    "D": "Stakeholders externos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 3,
+  "enunciado": "¿A qué hacen referencia las siglas KPI?",
+  "opciones": {
+    "A": "Infraestructura criptográfica",
+    "B": "Indicador unitario de desarrollo",
+    "C": "Nivel de solapamiento de procesos",
+    "D": "Indicador del rendimiento vinculado a un objetivo"
+  },
+  "correcta": "D"
+},
+{
+  "id": 5,
+  "enunciado": "En diseño orientado a objetos, el patrón que delega la creación de una dependencia a una entidad externa es:",
+  "opciones": {
+    "A": "Cadena de responsabilidad",
+    "B": "Inversión de control",
+    "C": "Fábrica abstracta",
+    "D": "Prototipo"
+  },
+  "correcta": "B"
+},
+{
+  "id": 6,
+  "enunciado": "¿Qué diagrama UML describe flujos de trabajo secuenciales o paralelos?",
+  "opciones": {
+    "A": "Despliegue",
+    "B": "Secuencia",
+    "C": "Actividades",
+    "D": "Estados"
+  },
+  "correcta": "C"
+},
+{
+  "id": 7,
+  "enunciado": "Un sistema SMP se caracteriza porque:",
+  "opciones": {
+    "A": "Cada procesador ejecuta su propio sistema",
+    "B": "Comparte memoria y un sistema operativo común",
+    "C": "Tiene espacio de direcciones privado",
+    "D": "Funciona por paso de mensajes"
+  },
+  "correcta": "B"
+},
+{
+  "id": 8,
+  "enunciado": "¿Qué nivel de pruebas es más apropiado para mutation testing?",
+  "opciones": {
+    "A": "Unitarias",
+    "B": "Integración",
+    "C": "Aceptación",
+    "D": "Regresión"
+  },
+  "correcta": "A"
+},
+{
+  "id": 9,
+  "enunciado": "¿Qué protocolo se utiliza para transmisión en tiempo real en redes NGN?",
+  "opciones": {
+    "A": "UDP",
+    "B": "POP3",
+    "C": "FTP",
+    "D": "HTTP"
+  },
+  "correcta": "A"
+},
+{
+  "id": 10,
+  "enunciado": "En MPLS, un LSR es:",
+  "opciones": {
+    "A": "Router de núcleo que conmuta etiquetas",
+    "B": "Router de borde que asigna direcciones IP",
+    "C": "Switch de nivel 2",
+    "D": "Protocolo de señalización"
+  },
+  "correcta": "A"
+},
+{
+  "id": 11,
+  "enunciado": "¿Qué arquitectura permite ejecución paralela con múltiples procesadores?",
+  "opciones": {
+    "A": "Monolítica",
+    "B": "Von Neumann",
+    "C": "SMP",
+    "D": "RISC"
+  },
+  "correcta": "C"
+},
+{
+  "id": 12,
+  "enunciado": "Un sistema operativo de tiempo real se caracteriza por:",
+  "opciones": {
+    "A": "Ejecución por orden de llegada",
+    "B": "Tiempos de respuesta predecibles",
+    "C": "Solo uso en escritorio",
+    "D": "Procesos en segundo plano"
+  },
+  "correcta": "B"
+},
+{
+  "id": 13,
+  "enunciado": "¿Cuál es un ejemplo de servicio cloud IaaS?",
+  "opciones": {
+    "A": "Azure Kubernetes Service",
+    "B": "Amazon S3",
+    "C": "Microsoft 365",
+    "D": "Red Hat OpenShift"
+  },
+  "correcta": "B"
+},
+{
+  "id": 14,
+  "enunciado": "Eliminar datos duplicados en almacenamiento se denomina:",
+  "opciones": {
+    "A": "Deduplicación",
+    "B": "Virtualización",
+    "C": "Orquestación",
+    "D": "Normalización"
+  },
+  "correcta": "A"
+},
+{
+  "id": 15,
+  "enunciado": "En el modelo E/R extendido, agrupar subtipos en un supertipo es:",
+  "opciones": {
+    "A": "Especialización",
+    "B": "Generalización",
+    "C": "Agregación",
+    "D": "Normalización"
+  },
+  "correcta": "B"
+},
+{
+  "id": 16,
+  "enunciado": "El estándar de TDT utilizado en Europa es:",
+  "opciones": {
+    "A": "PAL",
+    "B": "ATSC",
+    "C": "NTSC",
+    "D": "DVB-T"
+  },
+  "correcta": "D"
+},
+{
+  "id": 17,
+  "enunciado": "Un elemento clave de una PWA es:",
+  "opciones": {
+    "A": "Memento",
+    "B": "Whaling",
+    "C": "Service Workers",
+    "D": "MTOM"
+  },
+  "correcta": "C"
+},
+{
+  "id": 18,
+  "enunciado": "Una entidad débil se caracteriza porque:",
+  "opciones": {
+    "A": "Tiene clave propia",
+    "B": "Depende de la clave de otra entidad",
+    "C": "Es un supertipo",
+    "D": "Tiene participación parcial"
+  },
+  "correcta": "B"
+},
+{
+  "id": 19,
+  "enunciado": "La función de un Data Mart es:",
+  "opciones": {
+    "A": "Datos operativos en tiempo real",
+    "B": "Repositorio corporativo único",
+    "C": "Subconjunto de datos para análisis departamental",
+    "D": "Herramienta ETL"
+  },
+  "correcta": "C"
+},
+{
+  "id": 20,
+  "enunciado": "CORS permite:",
+  "opciones": {
+    "A": "Cifrar comunicaciones",
+    "B": "Acceder de forma segura a recursos de otro dominio",
+    "C": "Optimizar carga de imágenes",
+    "D": "Definir estructuras de datos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 21,
+  "enunciado": "La cláusula HAVING en SQL se utiliza para:",
+  "opciones": {
+    "A": "Filtrar antes de agrupar",
+    "B": "Agrupar resultados",
+    "C": "Filtrar grupos agregados",
+    "D": "Definir claves foráneas"
+  },
+  "correcta": "C"
+},
+{
+  "id": 23,
+  "enunciado": "¿Qué protocolo permite monitorizar dispositivos de red?",
+  "opciones": {
+    "A": "SMTP",
+    "B": "SFTP",
+    "C": "SNMP",
+    "D": "SMB"
+  },
+  "correcta": "C"
+},
+{
+  "id": 24,
+  "enunciado": "¿Qué es un NFT?",
+  "opciones": {
+    "A": "Criptomoneda intercambiable",
+    "B": "Dirección blockchain",
+    "C": "Contrato inteligente",
+    "D": "Activo digital único en blockchain"
+  },
+  "correcta": "D"
+},
+{
+  "id": 25,
+  "enunciado": "¿Cuál NO es una característica ISO/IEC 25010?",
+  "opciones": {
+    "A": "Eficiencia",
+    "B": "Confianza",
+    "C": "Satisfacción",
+    "D": "Rentabilidad"
+  },
+  "correcta": "D"
+},
+{
+  "id": 26,
+  "enunciado": "¿Cuál es la “libertad 2” del software libre?",
+  "opciones": {
+    "A": "Redistribuir copias",
+    "B": "Distribuir versiones modificadas",
+    "C": "Estudiar y modificar el programa",
+    "D": "Ejecutar el programa con cualquier propósito"
+  },
+  "correcta": "C"
+},
+{
+  "id": 27,
+  "enunciado": "La duración máxima general de los contratos administrativos de servicios de prestación sucesiva es:",
+  "opciones": {
+    "A": "Siete años",
+    "B": "Seis años",
+    "C": "Cinco años",
+    "D": "Cuatro años"
+  },
+  "correcta": "C"
+},
+{
+  "id": 28,
+  "enunciado": "La estrategia iterativa de mejora continua también llamada ciclo de Deming se conoce como:",
+  "opciones": {
+    "A": "PDEA",
+    "B": "PDCR",
+    "C": "PDCA",
+    "D": "PECA"
+  },
+  "correcta": "C"
+},
+{
+  "id": 29,
+  "enunciado": "¿Qué herramienta comercial se utiliza para RPA (robotización de procesos)?",
+  "opciones": {
+    "A": "SoapUI",
+    "B": "Obsidian",
+    "C": "UiPath",
+    "D": "Swagger"
+  },
+  "correcta": "C"
+},
+{
+  "id": 30,
+  "enunciado": "¿Qué estándar se enfoca en redes WPAN como Bluetooth?",
+  "opciones": {
+    "A": "IEEE 802.15",
+    "B": "IEEE 802.11",
+    "C": "IEEE 802.3",
+    "D": "IEEE 802.16"
+  },
+  "correcta": "A"
+},
+{
+  "id": 31,
+  "enunciado": "Señale la afirmación correcta sobre un ERP:",
+  "opciones": {
+    "A": "Mejora la relación con clientes",
+    "B": "Su antecesor fue el SRM militar",
+    "C": "Está formado por módulos integrados con base de datos común",
+    "D": "Siempre se adapta completamente al cliente"
+  },
+  "correcta": "C"
+},
+{
+  "id": 32,
+  "enunciado": "¿Cuál NO es un componente típico de un sistema operativo?",
+  "opciones": {
+    "A": "Gestor de memoria",
+    "B": "Compilador",
+    "C": "Gestor de procesos",
+    "D": "Sistema de archivos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 33,
+  "enunciado": "¿Qué tipo de cohesión intramodular es la más fuerte?",
+  "opciones": {
+    "A": "Funcional",
+    "B": "Temporal",
+    "C": "Lógica",
+    "D": "Secuencial"
+  },
+  "correcta": "A"
+},
+{
+  "id": 34,
+  "enunciado": "Las técnicas de posicionamiento web orgánico se conocen como:",
+  "opciones": {
+    "A": "SEM",
+    "B": "SEO",
+    "C": "CPU",
+    "D": "PWA"
+  },
+  "correcta": "B"
+},
+{
+  "id": 35,
+  "enunciado": "Según el RGPD, ¿quién realiza la Evaluación de Impacto en Protección de Datos?",
+  "opciones": {
+    "A": "Responsable del tratamiento",
+    "B": "Encargado del tratamiento",
+    "C": "Delegado de protección de datos",
+    "D": "Titular de los datos"
+  },
+  "correcta": "A"
+},
+{
+  "id": 36,
+  "enunciado": "El modelo en el que el proveedor aloja y gestiona el software y lo ofrece por Internet es:",
+  "opciones": {
+    "A": "On premise",
+    "B": "PaaS",
+    "C": "IaaS",
+    "D": "SaaS"
+  },
+  "correcta": "D"
+},
+{
+  "id": 37,
+  "enunciado": "Las categorías de controles de ISO 27002 son:",
+  "opciones": {
+    "A": "Físicos, personas, tecnológicos y organizacionales",
+    "B": "Hardware, software, personas y activos",
+    "C": "Redes, equipos, pruebas y activos",
+    "D": "Desarrollo, operacionales y tecnológicos"
+  },
+  "correcta": "A"
+},
+{
+  "id": 38,
+  "enunciado": "¿Cuál NO es un objetivo típico de las pruebas de software?",
+  "opciones": {
+    "A": "Demostrar ausencia de defectos",
+    "B": "Verificar requisitos de diseño",
+    "C": "Verificar requisitos legales",
+    "D": "Proporcionar información de calidad"
+  },
+  "correcta": "A"
+},
+{
+  "id": 39,
+  "enunciado": "¿Cuál es el mínimo de discos para un RAID 60?",
+  "opciones": {
+    "A": "4",
+    "B": "6",
+    "C": "8",
+    "D": "10"
+  },
+  "correcta": "C"
+},
+{
+  "id": 40,
+  "enunciado": "Según la LOPDGDD, el consentimiento válido de un menor se puede otorgar desde:",
+  "opciones": {
+    "A": "16 años",
+    "B": "14 años",
+    "C": "12 años",
+    "D": "13 años"
+  },
+  "correcta": "B"
+},
+{
+  "id": 41,
+  "enunciado": "Las modificaciones para cubrir nuevas necesidades del usuario son mantenimiento:",
+  "opciones": {
+    "A": "Correctivo",
+    "B": "Adaptativo",
+    "C": "Evolutivo",
+    "D": "Perfectivo"
+  },
+  "correcta": "C"
+},
+{
+  "id": 42,
+  "enunciado": "La partición en clases de equivalencia se utiliza en pruebas:",
+  "opciones": {
+    "A": "Estáticas",
+    "B": "Caja blanca",
+    "C": "Exploratorias",
+    "D": "Caja negra"
+  },
+  "correcta": "D"
+},
+{
+  "id": 43,
+  "enunciado": "Según la Ley de Transparencia de Castilla-La Mancha, ¿qué principio NO es básico?",
+  "opciones": {
+    "A": "Discriminación tecnológica",
+    "B": "Gratuidad",
+    "C": "Veracidad",
+    "D": "Facilidad y comprensión"
+  },
+  "correcta": "A"
+},
+{
+  "id": 44,
+  "enunciado": "El indicador de eficiencia energética de un CPD es:",
+  "opciones": {
+    "A": "MTBF",
+    "B": "PUE",
+    "C": "IOC",
+    "D": "SLA"
+  },
+  "correcta": "B"
+},
+{
+  "id": 45,
+  "enunciado": "Amazon S3 es un servicio de almacenamiento:",
+  "opciones": {
+    "A": "Por bloques",
+    "B": "Mensajería asíncrona",
+    "C": "De objetos accesibles por API",
+    "D": "Relacional SQL"
+  },
+  "correcta": "C"
+},
+{
+  "id": 46,
+  "enunciado": "La técnica MoSCoW es una técnica de:",
+  "opciones": {
+    "A": "Testing",
+    "B": "Integración continua",
+    "C": "Comunicación con clientes",
+    "D": "Priorización de requisitos"
+  },
+  "correcta": "D"
+},
+{
+  "id": 47,
+  "enunciado": "¿Cuál es un software base para construir portales de contenidos?",
+  "opciones": {
+    "A": "OpenShift",
+    "B": "Xoomla",
+    "C": "Apache Tomcat",
+    "D": "Drupal"
+  },
+  "correcta": "D"
+},
+{
+  "id": 48,
+  "enunciado": "El lenguaje para navegar y consultar elementos de un documento XML según W3C es:",
+  "opciones": {
+    "A": "XSLT",
+    "B": "XQuery",
+    "C": "XLink",
+    "D": "XPath"
+  },
+  "correcta": "D"
+},
+{
+  "id": 49,
+  "enunciado": "¿Cuál NO es condición necesaria de la 3FN?",
+  "opciones": {
+    "A": "Dependencia funcional completa",
+    "B": "Un solo valor por atributo",
+    "C": "Dependencias multivaluadas",
+    "D": "Ausencia de dependencias transitivas"
+  },
+  "correcta": "C"
+},
+{
+  "id": 50,
+  "enunciado": "¿Qué tecnología de acceso utiliza 5G para aumentar eficiencia espectral?",
+  "opciones": {
+    "A": "CDMA",
+    "B": "OFDMA",
+    "C": "TDMA",
+    "D": "FDMA"
+  },
+  "correcta": "B"
+},
+{
+  "id": 51,
+  "enunciado": "Según el Estatuto de Autonomía de Castilla-La Mancha, ¿qué órgano ejerce la potestad legislativa de la región?",
+  "opciones": {
+    "A": "Las Cortes Generales",
+    "B": "Las Cortes de Castilla-La Mancha",
+    "C": "Las Diputaciones Provinciales",
+    "D": "Los Jueces y Tribunales"
+  },
+  "correcta": "B"
+},
+{
+  "id": 52,
+  "enunciado": "¿Cuál es el orden correcto de las etapas en el desarrollo de una base de datos?",
+  "opciones": {
+    "A": "Diseño lógico, físico y conceptual",
+    "B": "Diseño físico, lógico y conceptual",
+    "C": "Diseño conceptual, lógico y físico",
+    "D": "Diseño físico, conceptual y lógico"
+  },
+  "correcta": "C"
+},
+{
+  "id": 53,
+  "enunciado": "¿Cuál de las siguientes NO es una herramienta de gestión de proyectos?",
+  "opciones": {
+    "A": "Redmine",
+    "B": "Trello",
+    "C": "Anjana",
+    "D": "Asana"
+  },
+  "correcta": "C"
+},
+{
+  "id": 54,
+  "enunciado": "Al migrar una aplicación legacy a PaaS contenerizada, ¿qué característica supone mayor obstáculo técnico?",
+  "opciones": {
+    "A": "Uso del sistema de archivos local para datos de usuario",
+    "B": "Uso de variables de entorno",
+    "C": "Centralización de logs externos",
+    "D": "Autenticación OAuth externa"
+  },
+  "correcta": "A"
+},
+{
+  "id": 55,
+  "enunciado": "¿Cuál es un principio Lean aplicado al desarrollo software?",
+  "opciones": {
+    "A": "Eliminar desperdicios",
+    "B": "Optimizar todas las partes",
+    "C": "Anticipar decisiones",
+    "D": "Documentación exhaustiva"
+  },
+  "correcta": "A"
+},
+{
+  "id": 56,
+  "enunciado": "¿Qué herramienta se utiliza comúnmente para gestionar dependencias en frontend?",
+  "opciones": {
+    "A": "Apache",
+    "B": "Nginx",
+    "C": "MySQL",
+    "D": "npm"
+  },
+  "correcta": "D"
+},
+{
+  "id": 57,
+  "enunciado": "En Maven, ¿qué fase genera el artefacto preparado para distribución?",
+  "opciones": {
+    "A": "compile",
+    "B": "test",
+    "C": "package",
+    "D": "install"
+  },
+  "correcta": "C"
+},
+{
+  "id": 58,
+  "enunciado": "El comando wc en Linux permite:",
+  "opciones": {
+    "A": "Cambiar permisos de archivos",
+    "B": "Contar líneas, palabras y caracteres",
+    "C": "Listar ficheros",
+    "D": "Concatenar archivos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 59,
+  "enunciado": "El Cuadro de Mando Integral se define como:",
+  "opciones": {
+    "A": "Panel operacional en tiempo real",
+    "B": "Proceso ETL corporativo",
+    "C": "Metodología que traduce estrategia en objetivos e indicadores",
+    "D": "Herramienta OLAP"
+  },
+  "correcta": "C"
+},
+{
+  "id": 60,
+  "enunciado": "Según el Estatuto de Autonomía de Castilla-La Mancha, la organización territorial es:",
+  "opciones": {
+    "A": "Municipios, provincias y cabildos",
+    "B": "Provincias y señoríos",
+    "C": "Provincias, comarcas y cabildos",
+    "D": "Municipios y provincias"
+  },
+  "correcta": "D"
+},
+{
+  "id": 61,
+  "enunciado": "El paradigma Fog Computing se sitúa:",
+  "opciones": {
+    "A": "Como alternativa a serverless",
+    "B": "Entre los dispositivos IoT y la nube",
+    "C": "En entornos HPC",
+    "D": "En clústeres Grid"
+  },
+  "correcta": "C"
+},
+{
+  "id": 62,
+  "enunciado": "La matriz de confusión se utiliza para:",
+  "opciones": {
+    "A": "Optimizar hiperparámetros",
+    "B": "Evaluar algoritmos de clasificación",
+    "C": "Reducir dimensionalidad",
+    "D": "Normalizar datos"
+  },
+  "correcta": "B"
+},
+{
+  "id": 63,
+  "enunciado": "El modelo Bell-LaPadula se orienta principalmente a:",
+  "opciones": {
+    "A": "Integridad",
+    "B": "Disponibilidad",
+    "C": "Confidencialidad",
+    "D": "Autenticación"
+  },
+  "correcta": "C"
+},
+{
+  "id": 64,
+  "enunciado": "Los niveles más deseables en diseño estructurado son:",
+  "opciones": {
+    "A": "Alta cohesión y alto acoplamiento",
+    "B": "Baja cohesión y bajo acoplamiento",
+    "C": "Baja cohesión y alto acoplamiento",
+    "D": "Alta cohesión y bajo acoplamiento"
+  },
+  "correcta": "D"
+},
+{
+  "id": 65,
+  "enunciado": "NFS es un sistema de ficheros para almacenamiento:",
+  "opciones": {
+    "A": "CIFS",
+    "B": "DAS",
+    "C": "NAS",
+    "D": "SAN"
+  },
+  "correcta": "C"
+},
+{
+  "id": 66,
+  "enunciado": "El código intermedio de .NET se denomina:",
+  "opciones": {
+    "A": "ASM",
+    "B": "Dalvik",
+    "C": "CLR",
+    "D": "CIL"
+  },
+  "correcta": "D"
+},
+{
+  "id": 67,
+  "enunciado": "¿Qué norma protege jurídicamente los programas de ordenador en España?",
+  "opciones": {
+    "A": "Derechos de autor",
+    "B": "Copyright",
+    "C": "Ley de Propiedad Intelectual",
+    "D": "Ley de programas informáticos"
+  },
+  "correcta": "C"
+},
+{
+  "id": 68,
+  "enunciado": "¿Cuál es un CRM comercial ampliamente utilizado?",
+  "opciones": {
+    "A": "Bonita CRM",
+    "B": "Salesforce",
+    "C": "Peopleware CRM",
+    "D": "Genesis"
+  },
+  "correcta": "B"
+},
+{
+  "id": 69,
+  "enunciado": "En blockchain, el elemento que enlaza bloques es:",
+  "opciones": {
+    "A": "Contraseña del minero",
+    "B": "TCP/IP",
+    "C": "Número de transacciones",
+    "D": "Hash del bloque anterior"
+  },
+  "correcta": "D"
+},
+{
+  "id": 70,
+  "enunciado": "¿Qué herramienta se usa habitualmente como control de versiones colaborativo?",
+  "opciones": {
+    "A": "GitLab",
+    "B": "Cortex XSIAM",
+    "C": "Celonis",
+    "D": "IBM Cloud Pak"
+  },
+  "correcta": "A"
+},
+{
+  "id": 71,
+  "enunciado": "¿Qué lenguaje está directamente asociado a JDBC?",
+  "opciones": {
+    "A": "Python",
+    "B": "Java",
+    "C": "C++",
+    "D": "Ruby"
+  },
+  "correcta": "B"
+},
+{
+  "id": 72,
+  "enunciado": "La ingeniería de características en MLOps persigue:",
+  "opciones": {
+    "A": "Recolección de datos",
+    "B": "Transformar datos en información relevante",
+    "C": "Ajustar hiperparámetros",
+    "D": "Eliminar características"
+  },
+  "correcta": "B"
+},
+{
+  "id": 73,
+  "enunciado": "SPARQL es un lenguaje para:",
+  "opciones": {
+    "A": "Transferir archivos",
+    "B": "Enviar correo",
+    "C": "Programar servidores",
+    "D": "Consultar bases de datos RDF"
+  },
+  "correcta": "D"
+},
+{
+  "id": 74,
+  "enunciado": "¿Qué métrica DORA mide el porcentaje de despliegues fallidos?",
+  "opciones": {
+    "A": "Deployment frequency",
+    "B": "Change lead time",
+    "C": "Change fail percentage",
+    "D": "Time to restore service"
+  },
+  "correcta": "C"
+},
+{
+  "id": 75,
+  "enunciado": "En monitorización, las siglas APM significan:",
+  "opciones": {
+    "A": "Automated Policy Measurement",
+    "B": "Application Performance Monitoring",
+    "C": "Active Protocol Metrics",
+    "D": "Application Patch Management"
+  },
+  "correcta": "B"
+},
+{
+  "id": 76,
+  "enunciado": "En la metodología Kanban, ¿qué práctica permite detectar cuellos de botella y medir la estabilidad del flujo de trabajo?",
+  "opciones": {
+    "A": "Burn-down Chart",
+    "B": "Planning Poker",
+    "C": "Definition of Done",
+    "D": "Cumulative Flow Diagram"
+  },
+  "correcta": "D"
+},
+{
+  "id": 77,
+  "enunciado": "El patrón de diseño Bridge (Puente) permite:",
+  "opciones": {
+    "A": "Encapsular interacciones entre objetos",
+    "B": "Desacoplar una abstracción de su implementación",
+    "C": "Notificar cambios de estado",
+    "D": "Separar construcción y representación"
+  },
+  "correcta": "B"
+},
+{
+  "id": 78,
+  "enunciado": "En Python, dada la asignación cadena=\"123456\", ¿qué devuelve cadena[2]?",
+  "opciones": {
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "Da error"
+  },
+  "correcta": "C"
+},
+{
+  "id": 79,
+  "enunciado": "Según la Ley 39/2015, una notificación electrónica obligatoria se entiende rechazada tras:",
+  "opciones": {
+    "A": "Diez días naturales",
+    "B": "Diez días hábiles",
+    "C": "Quince días naturales",
+    "D": "Quince días hábiles"
+  },
+  "correcta": "A"
+},
+{
+  "id": 80,
+  "enunciado": "¿Cuál es el estándar actual sobre pruebas de software?",
+  "opciones": {
+    "A": "ISO 9001",
+    "B": "IEEE 829",
+    "C": "ISO/IEC/IEEE 29119",
+    "D": "IEEE 1012"
+  },
+  "correcta": "C"
+},
+{
+  "id": 81,
+  "enunciado": "En una API REST, ¿qué método HTTP es idempotente según RFC 7231?",
+  "opciones": {
+    "A": "POST",
+    "B": "PUT",
+    "C": "PATCH",
+    "D": "CONNECT"
+  },
+  "correcta": "B"
+},
+{
+  "id": 82,
+  "enunciado": "¿Qué comando muestra los módulos del kernel cargados en Linux?",
+  "opciones": {
+    "A": "lsmod",
+    "B": "modprobe -l",
+    "C": "insmod",
+    "D": "uname -m"
+  },
+  "correcta": "A"
+},
+{
+  "id": 83,
+  "enunciado": "Según MAGERIT v3, ¿qué opciones de tratamiento del riesgo existen?",
+  "opciones": {
+    "A": "Liquidación, reducción, financiación y declaración",
+    "B": "Compartición, ajuste, reducción y aceptación",
+    "C": "Eliminación, transferencia, mitigación y liquidación",
+    "D": "Compartición, eliminación, financiación y mitigación"
+  },
+  "correcta": "D"
+},
+{
+  "id": 84,
+  "enunciado": "¿Qué protocolo permite VPNs basadas en navegador sin instalar cliente?",
+  "opciones": {
+    "A": "PPTP",
+    "B": "SSL VPN",
+    "C": "IPsec",
+    "D": "L2TP"
+  },
+  "correcta": "B"
+},
+{
+  "id": 85,
+  "enunciado": "¿Cuál de los siguientes elementos NO forma parte de la matriz DAFO?",
+  "opciones": {
+    "A": "Desarrollos",
+    "B": "Fortalezas",
+    "C": "Oportunidades",
+    "D": "Amenazas"
+  },
+  "correcta": "A"
+},
+{
+  "id": 86,
+  "enunciado": "¿Qué subproyecto de Spring permite definir flujos de navegación por pasos?",
+  "opciones": {
+    "A": "Spring Session",
+    "B": "Spring HATEOAS",
+    "C": "Spring Webflow",
+    "D": "Spring Data JPA"
+  },
+  "correcta": "C"
+},
+{
+  "id": 87,
+  "enunciado": "¿Qué algoritmo utiliza criptografía simétrica?",
+  "opciones": {
+    "A": "Diffie-Hellman",
+    "B": "MD5",
+    "C": "RSA",
+    "D": "AES"
+  },
+  "correcta": "D"
+},
+{
+  "id": 88,
+  "enunciado": "¿Por qué no se usa CSMA/CD en switches full-duplex?",
+  "opciones": {
+    "A": "Porque fragmentan tramas",
+    "B": "Porque cada puerto es un dominio de colisión independiente",
+    "C": "Porque usan MPLS",
+    "D": "Porque usan CSMA/CX"
+  },
+  "correcta": "B"
+},
+{
+  "id": 89,
+  "enunciado": "En Kubernetes, ¿qué sonda determina cuándo reiniciar un contenedor?",
+  "opciones": {
+    "A": "Startup probe",
+    "B": "Liveness probe",
+    "C": "Readiness probe",
+    "D": "No existe esa sonda"
+  },
+  "correcta": "B"
+},
+{
+  "id": 90,
+  "enunciado": "¿Qué principio WCAG se refiere a que la información debe poder percibirse?",
+  "opciones": {
+    "A": "Operabilidad",
+    "B": "Comprensibilidad",
+    "C": "Perceptibilidad",
+    "D": "Robustez"
+  },
+  "correcta": "C"
+},
+{
+  "id": 91,
+  "enunciado": "¿Qué herramienta de BI permite visualizar KPIs en un solo panel?",
+  "opciones": {
+    "A": "OLTP",
+    "B": "Cuadro de mando integral",
+    "C": "OLAP",
+    "D": "Data warehouse"
+  },
+  "correcta": "B"
+},
+{
+  "id": 92,
+  "enunciado": "La principal ventaja de una compilación Docker multi-stage es:",
+  "opciones": {
+    "A": "Reducir el tamaño de la imagen final",
+    "B": "Duplicar capas para acelerar arranque",
+    "C": "Ejecutar contenedores rootless",
+    "D": "Eliminar variables de entorno"
+  },
+  "correcta": "A"
+}
+]
+}
