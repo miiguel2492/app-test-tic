@@ -10,45 +10,53 @@
   <div class="contenedor">
     <h1>Selecciona el examen</h1>
 
-    <button onclick="seleccionarExamen('examenes/examen_2025.json')">
-      Acceso Libre – 2025
-    </button>
+    <div class="columnas-examenes">
 
-    <br><br>
+      <!-- COLUMNA A1 -->
+      <div class="columna">
+        <h2>A1</h2>
 
-    <button onclick="seleccionarExamen('examenes/examen_2023.json')">
-      Acceso Libre – 2023
-    </button>
+        <button onclick="seleccionarExamen('examenes/examen_2025.json')">
+          Acceso Libre – 2025
+        </button>
 
-    <br><br>
+        <button onclick="seleccionarExamen('examenes/examen_2023.json')">
+          Acceso Libre – 2023
+        </button>
 
-    <button onclick="seleccionarExamen('examenes/examen_2021.json')">
-      Acceso Libre – 2021
-    </button>
+        <button onclick="seleccionarExamen('examenes/examen_2021.json')">
+          Acceso Libre – 2021
+        </button>
 
-    <br><br>
+        <button onclick="seleccionarExamen('examenes/bolsaA1_2025.json')">
+          Bolsa – 2025
+        </button>
 
-    <button onclick="seleccionarExamen('examenes/bolsaA1_2025.json')">
-      Bolsa – 2025
-    </button>
+        <button onclick="seleccionarExamen('examenes/bolsaA1_2023.json')">
+          Bolsa – 2023
+        </button>
 
-    <br><br>
+        <button onclick="seleccionarExamen('examenes/interna_2023.json')">
+          Promoción Interna – 2023
+        </button>
 
-    <button onclick="seleccionarExamen('examenes/bolsaA1_2023.json')">
-      Bolsa – 2023
-    </button>
+        <button onclick="seleccionarExamen('examenes/interna_2025.json')">
+          Promoción Interna – 2025
+        </button>
+      </div>
 
-    <br><br>
+      <!-- COLUMNA A2 -->
+      <div class="columna">
+        <h2>A2</h2>
 
-    <button onclick="seleccionarExamen('examenes/interna_2023.json')">
-      Promoción Interna – 2023
-    </button>
+        <button onclick="seleccionarExamen('examenes/a2_2025.json')">
+          Acceso Libre – 2025
+        </button>
 
-    <br><br>
+        <!-- aquí podrás añadir A2 2024, 2023, etc -->
+      </div>
 
-    <button onclick="seleccionarExamen('examenes/interna_2025.json')">
-      Promoción Interna – 2025
-    </button>
+    </div>
   </div>
 
   <script>
