@@ -50,6 +50,15 @@ button {
   border-radius: 8px;
 }
 
+.explicacion {
+  margin-top: 10px;
+  padding: 10px;
+  background: #f0f2f5;
+  border-radius: 6px;
+  color: #000;
+}
+
+
 /* 🔹 Responsive: en móvil una sola columna */
 @media (max-width: 768px) {
   .columnas-examenes {

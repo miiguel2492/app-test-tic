@@ -6,7 +6,6 @@ let interval;
 let modoCorreccion = false;
 let respuestaSeleccionada = null;
 
-
 const examen = localStorage.getItem("examenSeleccionado") || "examen_2025.json";
 
 fetch(examen)
@@ -17,7 +16,6 @@ fetch(examen)
     iniciarTemporizador();
     mostrarPregunta();
   });
-  
 
 function mostrarPregunta() {
   const p = preguntas[indiceActual];
@@ -40,10 +38,9 @@ function mostrarPregunta() {
     `;
     opcionesDiv.appendChild(label);
   }
+
   document.getElementById("feedback").innerHTML = "";
-
 }
-
 
 document.getElementById("siguiente").addEventListener("click", () => {
   const feedback = document.getElementById("feedback");
@@ -51,6 +48,7 @@ document.getElementById("siguiente").addEventListener("click", () => {
 
   if (!modoCorreccion) {
     const seleccionada = document.querySelector('input[name="opcion"]:checked');
+
     if (!seleccionada) {
       alert("Selecciona una respuesta");
       return;
@@ -60,22 +58,39 @@ document.getElementById("siguiente").addEventListener("click", () => {
     respuestas[preguntaActual.id] = respuestaSeleccionada;
 
     if (respuestaSeleccionada === preguntaActual.correcta) {
-      feedback.innerHTML = "✅ Correcto";
-      feedback.style.color = "green";
+      feedback.innerHTML = `
+        <div style="color:green;">✅ Correcto</div>
+
+        <div class="explicacion">
+          <strong>Explicación:</strong><br>
+          ${preguntaActual.explicacion || "Sin explicación disponible"}
+        </div>
+      `;
     } else {
-      feedback.innerHTML = `❌ Incorrecto. La respuesta correcta es <strong>${preguntaActual.correcta}</strong>`;
-      feedback.style.color = "red";
+      feedback.innerHTML = `
+        <div style="color:red;">
+          ❌ Incorrecto. La respuesta correcta es 
+          <strong>${preguntaActual.correcta}</strong>
+        </div>
+
+        <div class="explicacion">
+          <strong>Explicación:</strong><br>
+          ${preguntaActual.explicacion || "Sin explicación disponible"}
+        </div>
+      `;
     }
 
     document.getElementById("siguiente").textContent = "Continuar";
     modoCorreccion = true;
+
   } else {
-    // Pasar a la siguiente pregunta
+    // Siguiente pregunta
     feedback.innerHTML = "";
     document.getElementById("siguiente").textContent = "Siguiente";
     modoCorreccion = false;
 
     indiceActual++;
+
     if (indiceActual < preguntas.length) {
       mostrarPregunta();
     } else {
@@ -88,6 +103,7 @@ function finalizarExamen() {
   clearInterval(interval);
 
   let aciertos = 0;
+
   preguntas.forEach(p => {
     if (respuestas[p.id] === p.correcta) aciertos++;
   });
@@ -105,6 +121,7 @@ function finalizarExamen() {
 function iniciarTemporizador() {
   interval = setInterval(() => {
     tiempo--;
+
     const minutos = Math.floor(tiempo / 60);
     const segundos = tiempo % 60;
 
