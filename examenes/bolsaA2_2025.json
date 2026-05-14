@@ -6,938 +6,1023 @@
   "preguntas": [
 {
   "id": 1,
-  "enunciado": "¿Qué es la escalabilidad horizontal?",
+  "enunciado": "En el contexto de la escalabilidad en sistemas informáticos, ¿qué es la escalabilidad horizontal?",
   "opciones": {
-    "A": "Añadir recursos a una máquina",
-    "B": "Reducir carga eliminando usuarios",
-    "C": "Añadir más máquinas al sistema",
-    "D": "Reducir número de máquinas"
+    "A": "Aumentar la capacidad de un sistema añadiendo más recursos a una única máquina.",
+    "B": "Reducir la carga de trabajo de un sistema eliminando usuarios.",
+    "C": "Incrementar la capacidad de un sistema añadiendo más máquinas al conjunto de recursos.",
+    "D": "Disminuir el número de máquinas para ahorrar energía."
   },
-  "correcta": "C"
+  "correcta": "C",
+  "explicacion": "La escalabilidad horizontal consiste en añadir más máquinas al sistema. Aumentar recursos en una misma máquina sería escalabilidad vertical."
 },
 {
   "id": 2,
-  "enunciado": "En SMP, ¿qué caracteriza a este sistema?",
+  "enunciado": "En un sistema operativo multiprocesador con arquitectura de multiprocesamiento simétrico (SMP), ¿qué característica principal diferencia a esta arquitectura de otras?",
   "opciones": {
-    "A": "Memorias independientes",
-    "B": "Memoria compartida",
-    "C": "SO independiente por CPU",
-    "D": "Procesos asignados"
+    "A": "Cada procesador tiene su propia memoria y dispositivos de E/S dedicados.",
+    "B": "Los procesadores comparten la misma memoria global y dispositivos de E/S.",
+    "C": "Cada procesador ejecuta su propia copia independiente del sistema operativo.",
+    "D": "Los procesadores solo pueden ejecutar procesos asignados específicamente a ellos."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "En SMP todos los procesadores comparten memoria y ejecutan un único sistema operativo. Si cada CPU tuviera memoria propia sería MPP."
 },
 {
   "id": 3,
-  "enunciado": "Sistema de archivos por defecto en Debian/Ubuntu:",
+  "enunciado": "¿Cuál es el sistema de archivos predeterminado en Debian y Ubuntu?",
   "opciones": {
-    "A": "NTFS",
-    "B": "HFS+",
-    "C": "FAT32",
-    "D": "ext4"
+    "A": "NTFS.",
+    "B": "HFS+.",
+    "C": "FAT32.",
+    "D": "ext4."
   },
-  "correcta": "D"
+  "correcta": "D",
+  "explicacion": "Las distribuciones Linux actuales usan ext4 como sistema de archivos por defecto por su estabilidad y rendimiento."
 },
 {
   "id": 4,
-  "enunciado": "Round Robin consiste en:",
+  "enunciado": "En el contexto de planificación de procesos, Round Robin:",
   "opciones": {
-    "A": "Asignar intervalos de tiempo por proceso",
-    "B": "Prioridad",
-    "C": "FIFO",
-    "D": "Menor tiempo restante"
+    "A": "Consiste en asignar a cada proceso un intervalo de tiempo de ejecución y cada vez que se vence ese intervalo se le asigna su turno a otro proceso.",
+    "B": "Consiste en que los procesos de mayor prioridad se ejecutan primero.",
+    "C": "Consiste en que el primero en llegar es el primero en ejecutarse.",
+    "D": "Consiste en que se ejecuta primero el proceso con el tiempo restante más corto."
   },
-  "correcta": "A"
+  "correcta": "A",
+  "explicacion": "Round Robin asigna a cada proceso un quantum de CPU, garantizando reparto equitativo del tiempo."
 },
 {
   "id": 5,
-  "enunciado": "Herramienta BI open source:",
+  "enunciado": "¿Cuál es una herramienta de BI (Business Intelligence) de código abierto?",
   "opciones": {
-    "A": "Power BI",
-    "B": "Qlik",
-    "C": "Pentaho",
-    "D": "Tableau"
+    "A": "Power BI.",
+    "B": "Qlik Sense.",
+    "C": "Pentaho.",
+    "D": "Tableau."
   },
-  "correcta": "C"
+  "correcta": "C",
+  "explicacion": "Pentaho es una herramienta BI open source. Las demás son comerciales."
 },
 {
   "id": 6,
-  "enunciado": "Un data swamp es:",
+  "enunciado": "¿Qué es un “data swamp”?",
   "opciones": {
-    "A": "Repositorio estructurado",
-    "B": "Repositorio caótico",
-    "C": "Data mart",
-    "D": "Modelo descentralizado"
+    "A": "Un repositorio centralizado que almacena grandes cantidades de datos en su forma original.",
+    "B": "Un repositorio centralizado que almacena grandes cantidades de datos de forma caótica y se encuentra mal diseñado.",
+    "C": "Un repositorio de datos que almacena datos específicos de una unidad de negocio de la organización.",
+    "D": "Un repositorio de datos descentralizado que organiza los datos según los diferentes dominios de la organización."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "Un data swamp es un data lake mal gestionado, con datos desordenados y poco útiles."
 },
 {
   "id": 7,
-  "enunciado": "ODBC permite:",
+  "enunciado": "¿Cuál es la función principal de ODBC en el contexto de bases de datos?",
   "opciones": {
-    "A": "Interfaces gráficas",
-    "B": "Acceso a diferentes SGBD",
-    "C": "Lenguaje BD",
-    "D": "Optimización SQL"
+    "A": "Proporcionar una interfaz de usuario para bases de datos.",
+    "B": "Permitir a las aplicaciones acceder a los datos de diversos sistemas de administración de bases de datos.",
+    "C": "Definir un lenguaje de programación para bases de datos.",
+    "D": "Optimizar el rendimiento de consultas SQL."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "ODBC proporciona una interfaz estándar para acceder a diferentes SGBD."
 },
 {
   "id": 8,
-  "enunciado": "Modelo de Codd:",
+  "enunciado": "¿Qué modelo de base de datos introdujo Edgar Frank Codd?",
   "opciones": {
-    "A": "Jerárquico",
-    "B": "Red",
-    "C": "Relacional",
-    "D": "Objetos"
+    "A": "Modelo jerárquico.",
+    "B": "Modelo de red.",
+    "C": "Modelo relacional.",
+    "D": "Modelo orientado a objetos."
   },
-  "correcta": "C"
+  "correcta": "C",
+  "explicacion": "Codd creó el modelo relacional, base de las bases de datos actuales."
 },
 {
   "id": 9,
-  "enunciado": "XML:",
+  "enunciado": "¿Qué es XML?",
   "opciones": {
-    "A": "HTML",
-    "B": "Describe contenido independiente de presentación",
-    "C": "CSS",
-    "D": "API DOM"
+    "A": "Es un lenguaje de marcado que permite describir el contenido y el formato de páginas web.",
+    "B": "Es un lenguaje de marcado que permite describir contenido de forma independiente a su presentación.",
+    "C": "Es un lenguaje que describe cómo deben mostrarse los elementos de un documento HTML.",
+    "D": "Es una API que permite representar objetos de un documento HTML."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "XML describe datos independientemente de su presentación."
 },
 {
   "id": 10,
-  "enunciado": "WSDL:",
+  "enunciado": "El estándar WSDL:",
   "opciones": {
-    "A": "Registro",
-    "B": "RPC",
-    "C": "Transporte",
-    "D": "Describe servicios web"
+    "A": "Es el registro público de servicios.",
+    "B": "Es un protocolo para llamar a métodos mediante XML.",
+    "C": "Es un protocolo de transporte.",
+    "D": "Permite describir la interfaz de un servicio web."
   },
-  "correcta": "D"
+  "correcta": "D",
+  "explicacion": "WSDL define la interfaz de un servicio web: operaciones, mensajes y endpoints."
 },
 {
   "id": 11,
-  "enunciado": "En MAGERIT, causa potencial:",
+  "enunciado": "Según la Metodología de Análisis y Gestión de Riesgos (MAGERIT), indique a qué concepto corresponde la siguiente definición “Causa potencial de un incidente que puede causar daños a un sistema de información o a una organización”:",
   "opciones": {
-    "A": "Impacto",
-    "B": "Vulnerabilidad",
-    "C": "Amenaza",
-    "D": "Riesgo"
+    "A": "Impacto.",
+    "B": "Vulnerabilidad.",
+    "C": "Amenaza.",
+    "D": "Riesgo."
   },
-  "correcta": "C"
+  "correcta": "C",
+  "explicacion": "En MAGERIT, una amenaza es la causa potencial de un incidente. La vulnerabilidad es la debilidad y el riesgo combina probabilidad e impacto."
 },
 {
   "id": 12,
-  "enunciado": "Herramienta CCN riesgos:",
+  "enunciado": "¿Qué herramienta desarrollada por el Centro Criptológico Nacional sirve para el análisis y gestión de riesgos siguiendo la metodología MAGERIT?",
   "opciones": {
-    "A": "OLVIDO",
-    "B": "INES",
-    "C": "CLARA",
-    "D": "PILAR"
+    "A": "OLVIDO.",
+    "B": "INES.",
+    "C": "CLARA.",
+    "D": "PILAR."
   },
-  "correcta": "D"
+  "correcta": "D",
+  "explicacion": "PILAR es la herramienta oficial del CCN para aplicar MAGERIT y realizar análisis de riesgos."
 },
 {
   "id": 13,
-  "enunciado": "Auditoría ENS incluye:",
+  "enunciado": "En el contexto del Esquema Nacional de Seguridad (ENS), ¿qué debe incluir una auditoría de seguridad?",
   "opciones": {
-    "A": "Solo sistemas críticos",
-    "B": "Análisis de riesgos y medidas",
-    "C": "Forense",
-    "D": "ISO 27001"
+    "A": "Solo la evaluación de los sistemas informáticos críticos.",
+    "B": "Un análisis de riesgos y revisión de medidas de seguridad implantadas.",
+    "C": "Un análisis forense tras un incidente de seguridad.",
+    "D": "La revisión de cumplimiento de la normativa ISO/IEC 27001."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "El ENS exige auditorías que incluyan análisis de riesgos y evaluación de las medidas de seguridad implantadas."
 },
 {
   "id": 14,
-  "enunciado": "Sistema IA conversacional:",
+  "enunciado": "¿Qué nombre reciben los programas informáticos que incorporan técnicas de Inteligencia Artificial/Machine Learning así como Procesamiento de Lenguaje Natural para comprender las preguntas de los usuarios de una página web y responder simulando una conversación humana?",
   "opciones": {
-    "A": "ChatGPT",
-    "B": "Webhook",
-    "C": "Chatbot",
-    "D": "Banner"
+    "A": "ChatGPTs.",
+    "B": "Webhooks.",
+    "C": "Chatbots.",
+    "D": "Banners."
   },
-  "correcta": "C"
+  "correcta": "C",
+  "explicacion": "Los chatbots son programas que simulan conversaciones. ChatGPT es un tipo concreto de chatbot."
 },
 {
   "id": 15,
-  "enunciado": "VoiceXML es estándar de:",
+  "enunciado": "VoiceXML es un estándar de:",
   "opciones": {
-    "A": "W3C",
-    "B": "IETF",
-    "C": "IANA",
-    "D": "ASF"
+    "A": "W3C.",
+    "B": "IETF.",
+    "C": "IANA.",
+    "D": "Apache Software Foundation."
   },
-  "correcta": "A"
+  "correcta": "A",
+  "explicacion": "VoiceXML es un estándar del W3C orientado a aplicaciones de voz."
 },
 {
   "id": 16,
-  "enunciado": "Control físico CPD:",
+  "enunciado": "¿Cuál de las siguientes opciones es un control de seguridad física esencial en un centro de datos?",
   "opciones": {
-    "A": "Firewall",
-    "B": "Honeypot",
-    "C": "Control biométrico",
-    "D": "Cifrado"
+    "A": "Firewalls y sistemas de detección de intrusos (IDS).",
+    "B": "Implementación de honeypots para detectar atacantes.",
+    "C": "Control de acceso biométrico y videovigilancia.",
+    "D": "Cifrado de datos en tránsito y en reposo."
   },
-  "correcta": "C"
+  "correcta": "C",
+  "explicacion": "Los controles físicos incluyen acceso biométrico, videovigilancia y control de accesos físicos."
 },
 {
   "id": 17,
-  "enunciado": "Fase contención NIST:",
+  "enunciado": "En la gestión de incidentes de seguridad, ¿cuál es el propósito principal de la fase de contención según el marco NIST?",
   "opciones": {
-    "A": "Identificar causa",
-    "B": "Evitar propagación",
-    "C": "Corregir",
-    "D": "Recuperar"
+    "A": "Identificar la causa raíz del incidente.",
+    "B": "Evitar que el incidente se propague y cause más daño.",
+    "C": "Aplicar medidas correctivas inmediatas para restaurar el sistema.",
+    "D": "Iniciar el proceso de recuperación para minimizar el impacto."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "La contención busca limitar el impacto del incidente y evitar su propagación."
 },
 {
   "id": 18,
-  "enunciado": "Libertad software libre:",
+  "enunciado": "¿Cuál de las siguientes es una libertad básica del software libre?",
   "opciones": {
-    "A": "Vender copias",
-    "B": "Manual protegido",
-    "C": "Elegir licencia",
-    "D": "Modificar y distribuir"
+    "A": "Libertad de vender copias modificadas.",
+    "B": "Libertad de publicar manuales con la misma protección intelectual.",
+    "C": "Libertad de modificar el tipo de licencia.",
+    "D": "Libertad de modificar el programa y liberar esas modificaciones al público."
   },
-  "correcta": "D"
+  "correcta": "D",
+  "explicacion": "Una de las libertades básicas es poder modificar el software y redistribuir las mejoras."
 },
 {
   "id": 19,
-  "enunciado": "Licencia sin uso comercial:",
+  "enunciado": "¿Qué licencia impide que la obra sea empleada con fines comerciales?",
   "opciones": {
-    "A": "CC-BY-NC",
-    "B": "CC-BY-SA",
-    "C": "CC-BY-ND",
-    "D": "CC-BY"
+    "A": "CC-BY-NC.",
+    "B": "CC-BY-SA.",
+    "C": "CC-BY-ND.",
+    "D": "CC-BY."
   },
-  "correcta": "A"
+  "correcta": "A",
+  "explicacion": "NC (Non Commercial) indica que no se permite el uso comercial de la obra."
 },
 {
   "id": 20,
-  "enunciado": "Método ponderación multicriterio:",
+  "enunciado": "¿Cuál de los siguientes métodos se corresponde con un método de asignación de pesos a los criterios para la evaluación de alternativas en la teoría de Decisión Multicriterio Discreta?",
   "opciones": {
-    "A": "Delphi",
-    "B": "Entropía",
-    "C": "Lexicográfico",
-    "D": "Fracción ideal"
+    "A": "Método Delphos.",
+    "B": "Método de la entropía.",
+    "C": "Método lexicográfico.",
+    "D": "Método fracción del ideal."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "El método de la entropía asigna pesos según la información aportada por cada criterio."
 },
 {
   "id": 21,
-  "enunciado": "Estimación por puntos función:",
+  "enunciado": "¿Cuál de estas técnicas de estimación está basada en el análisis de puntos de función para medir la complejidad de un software?",
   "opciones": {
-    "A": "Albrecht",
-    "B": "COCOMO",
-    "C": "Nolan",
-    "D": "PDCA"
+    "A": "Método de Albrecht.",
+    "B": "COCOMO.",
+    "C": "Modelo de Nolan/Gibson.",
+    "D": "Modelo PDCA."
   },
-  "correcta": "A"
+  "correcta": "A",
+  "explicacion": "Albrecht definió los puntos función para medir la complejidad funcional del software."
 },
 {
   "id": 22,
-  "enunciado": "RSS significa:",
+  "enunciado": "Relativo a la sindicación de contenido, ¿qué significa RSS?",
   "opciones": {
-    "A": "Ramble",
-    "B": "Really Simple Syndication",
-    "C": "Ready",
-    "D": "Radius"
+    "A": "Ramble Strong Syndication.",
+    "B": "Really Simple Syndication.",
+    "C": "Ready Sad Syndication.",
+    "D": "Radius Sample Syndication."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "RSS es un formato estándar para sindicar contenidos web."
 },
 {
   "id": 23,
-  "enunciado": "Sistema posicionamiento Google:",
+  "enunciado": "¿Cómo se llama uno de los sistemas principales de posicionamiento de Google?",
   "opciones": {
-    "A": "Crawler",
-    "B": "AnchorText",
-    "C": "Google Page",
-    "D": "PageRank"
+    "A": "Crawler.",
+    "B": "AnchorText.",
+    "C": "Google Page.",
+    "D": "PageRank."
   },
-  "correcta": "D"
+  "correcta": "D",
+  "explicacion": "PageRank es el algoritmo que mide la relevancia de las páginas en función de enlaces."
 },
 {
   "id": 24,
-  "enunciado": "Modelo espiral:",
+  "enunciado": "Una característica del ciclo de vida en espiral es:",
   "opciones": {
-    "A": "4 fases fijas",
-    "B": "Sin riesgos",
-    "C": "Gestiona riesgos",
-    "D": "Empieza por resultados"
+    "A": "Siempre se realizan cuatro iteraciones.",
+    "B": "Acelera el desarrollo eliminando gestión de riesgos.",
+    "C": "Gestiona los riesgos de forma explícita.",
+    "D": "Cada ciclo comienza con resultados previos."
   },
-  "correcta": "C"
+  "correcta": "C",
+  "explicacion": "El modelo en espiral incorpora análisis de riesgos en cada iteración."
 },
 {
   "id": 25,
-  "enunciado": "Diagrama de componentes:",
+  "enunciado": "El diagrama de componentes:",
   "opciones": {
-    "A": "Vista lógica",
-    "B": "Vista física y dependencias",
-    "C": "Casos uso",
-    "D": "Flujo datos"
+    "A": "Representa aspectos estáticos del sistema.",
+    "B": "Muestra la organización física de componentes software, interfaces y dependencias.",
+    "C": "Representa comportamiento del sistema.",
+    "D": "Modelo lógico de procesos."
   },
-  "correcta": "B"
+  "correcta": "B",
+  "explicacion": "El diagrama de componentes describe la arquitectura física del software y sus relaciones."
 },
 {
   "id": 26,
-  "enunciado": "¿Cuál es el objetivo principal de un Data Warehouse?",
+  "enunciado": "¿Cuáles de las siguientes pruebas tienen como objetivo verificar la funcionalidad y estructura de cada componente individualmente una vez que ha sido codificado?",
   "opciones": {
-    "A": "Ejecutar transacciones",
-    "B": "Almacenar datos en caché",
-    "C": "Centralizar datos históricos para análisis",
-    "D": "Gestionar usuarios"
+    "A": "Pruebas unitarias.",
+    "B": "Pruebas de integración.",
+    "C": "Pruebas del sistema.",
+    "D": "Pruebas de implantación."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "Las pruebas unitarias verifican cada componente de forma aislada tras su desarrollo. Son el nivel más básico de pruebas."
 },
 {
   "id": 27,
-  "enunciado": "El HSS en IMS se encarga de:",
+  "enunciado": "Holgura, camino crítico, prelación y matriz de encadenamiento son conceptos relacionados con:",
   "opciones": {
-    "A": "Transferencia de paquetes",
-    "B": "Procesar voz",
-    "C": "Señalización",
-    "D": "Autenticación y gestión de suscriptores"
+    "A": "Extreme Programming (XP).",
+    "B": "Kanban.",
+    "C": "Lean Software Development.",
+    "D": "PERT."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Todos estos conceptos pertenecen a técnicas de planificación de proyectos como PERT/CPM."
 },
 {
   "id": 28,
-  "enunciado": "El antitailgating evita:",
+  "enunciado": "¿En cuál de los eventos de Scrum el propósito es “planificar formas de aumentar la calidad y la eficacia”?",
   "opciones": {
-    "A": "Uso simultáneo de racks",
-    "B": "Acceso tras usuario autorizado",
-    "C": "Fallos eléctricos",
-    "D": "Intrusión virtual"
+    "A": "Sprint Planning.",
+    "B": "Sprint Review.",
+    "C": "Sprint Retrospective.",
+    "D": "Daily Scrum."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "La Sprint Retrospective se usa para mejorar el proceso del equipo y aumentar calidad y eficacia."
 },
 {
   "id": 29,
-  "enunciado": "La PDU de la capa de transporte es:",
+  "enunciado": "¿Qué afirmación es cierta sobre los requisitos no funcionales?",
   "opciones": {
-    "A": "Bit",
-    "B": "Trama",
-    "C": "Paquete",
-    "D": "Segmento"
+    "A": "Describen los servicios que ofrecerá el sistema.",
+    "B": "Son restricciones sobre los servicios que ofrecerá el sistema.",
+    "C": "No se incluyen en el documento de especificación de requisitos.",
+    "D": "No existen este tipo de requisitos."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "Los requisitos no funcionales establecen restricciones (rendimiento, seguridad, etc.), no funcionalidades."
 },
 {
   "id": 30,
-  "enunciado": "El ciclo de Deming también se denomina:",
+  "enunciado": "¿De qué elementos se compone un diagrama de flujo de datos?",
   "opciones": {
-    "A": "PDEA",
-    "B": "PDCA",
-    "C": "PECA",
-    "D": "PDCR"
+    "A": "Entidad externa, proceso y almacén de datos.",
+    "B": "Proceso y almacén de datos.",
+    "C": "Componente, interfaz y paquete.",
+    "D": "Entidad externa, proceso, almacén de datos y flujo de datos."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Un DFD se compone de entidades externas, procesos, almacenes de datos y flujos de datos."
 },
 {
   "id": 31,
-  "enunciado": "Los switches operan principalmente en la capa:",
+  "enunciado": "En la validación de modelos de datos, ¿qué se entiende por “integridad referencial”?",
   "opciones": {
-    "A": "Física",
-    "B": "Enlace",
-    "C": "Transporte",
-    "D": "Red"
+    "A": "La garantía de que los datos son precisos y consistentes.",
+    "B": "La restricción que asegura que una clave foránea en una tabla siempre apunte a una fila válida en otra tabla.",
+    "C": "La regla que establece que los atributos no pueden ser nulos.",
+    "D": "La norma que dicta que cada tabla debe tener una clave primaria."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "La integridad referencial asegura que una clave foránea siempre referencia una fila existente, evitando inconsistencias entre tablas."
 },
 {
   "id": 32,
-  "enunciado": "Sobre diagramas de Gantt:",
+  "enunciado": "¿Qué simboliza un rombo en un diagrama Entidad/Relación?",
   "opciones": {
-    "A": "No representan hitos",
-    "B": "Actividades en eje horizontal",
-    "C": "Permiten hitos sin duración",
-    "D": "Agrupan tareas como hitos"
+    "A": "Una entidad.",
+    "B": "Un atributo.",
+    "C": "Una relación.",
+    "D": "Una clave primaria."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "En los diagramas E/R, el rombo representa relaciones entre entidades."
 },
 {
   "id": 33,
-  "enunciado": "TCP pertenece a la capa:",
+  "enunciado": "Los niveles de la arquitectura ANSI/SPARC son:",
   "opciones": {
-    "A": "Aplicación",
-    "B": "Enlace",
-    "C": "Transporte",
-    "D": "Red"
+    "A": "Externo, conceptual e interno.",
+    "B": "Externo, aplicación e interno.",
+    "C": "Externo, conceptual y básico.",
+    "D": "Vista de usuario, conceptual y externo."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "La arquitectura ANSI/SPARC distingue tres niveles: externo (usuarios), conceptual (global) e interno (físico)."
 },
 {
   "id": 34,
-  "enunciado": "En cloud, el cliente controla el SO en:",
+  "enunciado": "Señale cuál de las siguientes constituye una definición correcta de algoritmo:",
   "opciones": {
-    "A": "IaaS",
-    "B": "PaaS",
-    "C": "SaaS",
-    "D": "FaaS"
+    "A": "Un conjunto ordenado y preciso de operaciones que conducen a la resolución de un problema concreto.",
+    "B": "Secuencia desordenada de instrucciones alguna de las cuales tienen un significado variable.",
+    "C": "Esfuerzo de carácter temporal llevado a cabo con objeto de crear un producto o servicio único.",
+    "D": "Tipo de red neuronal cuyo elevado número de capas dificulta la comprensibilidad del resultado para la mente humana."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "Un algoritmo es una secuencia ordenada y finita de instrucciones que resuelven un problema concreto."
 },
 {
   "id": 35,
-  "enunciado": "Método HTTP NO idempotente:",
+  "enunciado": "En el diseño estructurado, ¿a qué concepto corresponde la definición de “grado de interdependencia existente entre los módulos” y, por tanto, depende del número de parámetros que se intercambian entre ellos?",
   "opciones": {
-    "A": "POST",
-    "B": "PUT",
-    "C": "GET",
-    "D": "DELETE"
+    "A": "Acoplamiento.",
+    "B": "Cohesión.",
+    "C": "Fan-in.",
+    "D": "Fan-out."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "El acoplamiento mide la dependencia entre módulos. Cuanto menor, mejor diseño."
 },
 {
   "id": 36,
-  "enunciado": "Drupal es:",
+  "enunciado": "Dentro del framework Spring de desarrollo de código para la plataforma Java, ¿cómo se llama el módulo que facilita la creación de aplicaciones web independientes y listas para producción, entre cuyas características está la incorporación directa de un contenedor de servlets como, por ejemplo, Tomcat?",
   "opciones": {
-    "A": "CMS propietario",
-    "B": "CMS open source",
-    "C": "Crawler",
-    "D": "Indexador"
+    "A": "Spring Batch.",
+    "B": "Spring Application.",
+    "C": "Spring Boot.",
+    "D": "Spring StandAlone."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "Spring Boot permite crear aplicaciones autónomas con servidor embebido (Tomcat, Jetty…), listas para producción sin necesidad de despliegue externo."
 },
 {
   "id": 37,
-  "enunciado": "Algoritmo de criptografía asimétrica:",
+  "enunciado": "¿Qué propugna el Manifiesto por el Desarrollo Ágil de Software sobre la documentación de los programas?",
   "opciones": {
-    "A": "AES",
-    "B": "RSA",
-    "C": "DES",
-    "D": "SHA-256"
+    "A": "Colaboración con el cliente sobre redacción precisa de documentación.",
+    "B": "Respuesta ante el cambio sobre documentación actualizada.",
+    "C": "Software funcionando sobre documentación exhaustiva.",
+    "D": "Documentación dinámica como código sobre documentación estática."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "El manifiesto ágil prioriza 'software funcionando' frente a 'documentación exhaustiva', aunque sin eliminar la documentación."
 },
 {
   "id": 38,
-  "enunciado": "Sobre SEO:",
+  "enunciado": "¿Cuál es una técnica de pruebas de caja blanca?",
   "opciones": {
-    "A": "Es posicionamiento orgánico",
-    "B": "SEM es orgánico",
-    "C": "SEG es pago",
-    "D": "Todo es pago"
+    "A": "Valores límite.",
+    "B": "Tablas de decisión.",
+    "C": "Clases de equivalencia.",
+    "D": "Cobertura de sentencias."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Las pruebas de caja blanca analizan el código interno. La cobertura de sentencias es una técnica típica de este tipo."
 },
 {
   "id": 39,
-  "enunciado": "Diagrama UML que NO es estructural:",
+  "enunciado": "¿Cuál de los siguientes tipos de mantenimiento del software se enfoca en la eliminación de errores y defectos en el código existente?",
   "opciones": {
-    "A": "Clases",
-    "B": "Despliegue",
-    "C": "Paquetes",
-    "D": "Actividades"
+    "A": "Mantenimiento adaptativo.",
+    "B": "Mantenimiento correctivo.",
+    "C": "Mantenimiento perfectivo.",
+    "D": "Mantenimiento preventivo."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "El mantenimiento correctivo elimina errores (bugs) detectados tras la entrega del sistema."
 },
 {
   "id": 40,
-  "enunciado": "La desnormalización tiene como objetivo:",
+  "enunciado": "¿Cuál de los siguientes patrones creacionales NO es un patrón propuesto por GoF (Gang of Four)?",
   "opciones": {
-    "A": "Reducir redundancia",
-    "B": "Mejorar rendimiento",
-    "C": "Evitar bloqueos",
-    "D": "Integridad"
+    "A": "Abstract Factory.",
+    "B": "Builder.",
+    "C": "Singleton.",
+    "D": "Object Pool."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Object Pool no es un patrón GoF. Los patrones creacionales GoF incluyen Abstract Factory, Builder, Factory Method, Prototype y Singleton."
 },
 {
   "id": 41,
-  "enunciado": "Herramienta pruebas E2E navegador:",
+  "enunciado": "¿Qué lenguaje permite especificar, visualizar y documentar modelos de sistemas software, incluyendo su estructura y diseño?",
   "opciones": {
-    "A": "InfluxDB",
-    "B": "CheckMK",
-    "C": "Cypress",
-    "D": "ArgoCD"
+    "A": "UML.",
+    "B": "Python.",
+    "C": "Java.",
+    "D": ".NET."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "UML (Unified Modeling Language) es el estándar para modelado de sistemas software."
 },
 {
   "id": 42,
-  "enunciado": "Bounce rate:",
+  "enunciado": "Elija la respuesta correcta de entre las siguientes:",
   "opciones": {
-    "A": "Páginas por sesión",
-    "B": "Visitas totales",
-    "C": "Conversiones",
-    "D": "Abandonos tras primera página"
+    "A": ".NET es un entorno propietario multiplataforma.",
+    "B": ".NET es un entorno propietario de desarrollo de aplicaciones en Visual Basic exclusivamente.",
+    "C": ".NET es un entorno multiplataforma de código abierto.",
+    "D": "Es imposible aplicar DevOps a cualquiera de las tecnologías .NET."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": ".NET (especialmente .NET Core / .NET 5+) es multiplataforma y open source. Antes lo era solo parcialmente."
 },
 {
   "id": 43,
-  "enunciado": "AES-128 sirve para:",
+  "enunciado": "Señale de entre las siguientes la librería de Python usada para operaciones de manipulación y tratamiento de datos:",
   "opciones": {
-    "A": "Velocidad",
-    "B": "Confidencialidad e integridad",
-    "C": "Frecuencia",
-    "D": "Potencia"
+    "A": "condas.",
+    "B": "dataset.frame.",
+    "C": "elephants.",
+    "D": "pandas."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Pandas es la librería de referencia en Python para manipulación y análisis de datos."
 },
 {
   "id": 44,
-  "enunciado": "Protocolo vector distancia:",
+  "enunciado": "¿Cuál es un principio fundamental de DevOps?",
   "opciones": {
-    "A": "RIP",
-    "B": "IGRP",
-    "C": "OSPF",
-    "D": "IS-IS"
+    "A": "Separar los equipos de desarrollo y operaciones para evitar conflictos.",
+    "B": "Implementar exclusivamente metodologías en cascada (waterfall) para mayor control.",
+    "C": "Automatizar la integración y entrega continua para mejorar la eficiencia.",
+    "D": "Priorizar la seguridad sobre la velocidad de desarrollo."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "DevOps promueve CI/CD (integración y entrega continua) y automatización para mejorar rapidez y calidad."
 },
 {
   "id": 45,
-  "enunciado": "HFC:",
+  "enunciado": "En el contexto de SecOps, ¿qué es “Shift Left” en seguridad?",
   "opciones": {
-    "A": "Solo fibra",
-    "B": "Fibra + coaxial",
-    "C": "Solo coaxial",
-    "D": "Wireless"
+    "A": "Una práctica para dejar la seguridad en manos del equipo de operaciones al final del desarrollo.",
+    "B": "Un modelo de respuesta a incidentes basado en la detección reactiva.",
+    "C": "La exclusión de pruebas de seguridad para acelerar el desarrollo.",
+    "D": "Un enfoque donde las pruebas de seguridad se integran desde las fases más tempranas en el ciclo de vida del desarrollo."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Shift Left significa integrar la seguridad desde el inicio del desarrollo (no al final)."
 },
 {
   "id": 46,
-  "enunciado": "MDM sirve para:",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto a las tecnologías de programación web?",
   "opciones": {
-    "A": "Control dispositivos móviles",
-    "B": "Gestionar WiFi",
-    "C": "Red satelital",
-    "D": "Routers caseros"
+    "A": "ASP es una tecnología de código abierto desarrollada por Apple.",
+    "B": "Los applets son programas Java que se ejecutan en el servidor.",
+    "C": "JavaScript se ejecuta en el servidor y no en el navegador del cliente.",
+    "D": "Los servlets son programas Java que se ejecutan en el servidor para generar contenido dinámico."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Los servlets son componentes Java que se ejecutan en el servidor para generar contenido dinámico (HTML, JSON, etc.). Las demás opciones son incorrectas."
 },
 {
   "id": 47,
-  "enunciado": "Amazon S3:",
+  "enunciado": "¿Qué tecnología permite la comunicación asíncrona en una aplicación web lanzando peticiones desde el navegador?",
   "opciones": {
-    "A": "Sistema jerárquico",
-    "B": "Cifrado manual",
-    "C": "5GB límite",
-    "D": "Almacenamiento de objetos"
+    "A": "AJAX.",
+    "B": "JQuery.",
+    "C": "HTML5.",
+    "D": "CSS3."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "AJAX permite realizar peticiones asíncronas desde el navegador al servidor sin recargar la página."
 },
 {
   "id": 48,
-  "enunciado": "Herramienta automatización entornos:",
+  "enunciado": "¿Cuál de las siguientes métricas de calidad ofrece una medida de la disponibilidad del producto o componente software?",
   "opciones": {
-    "A": "Jasper",
-    "B": "Terraform",
-    "C": "GitLabCI",
-    "D": "Ansible"
+    "A": "Tasa de éxito en la autenticación.",
+    "B": "Complejidad ciclomática.",
+    "C": "Throughput.",
+    "D": "MTBF (Mean Time Between Failures)."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "MTBF mide el tiempo medio entre fallos, siendo un indicador directo de disponibilidad del sistema."
 },
 {
   "id": 49,
-  "enunciado": "Permiso sticky bit:",
+  "enunciado": "En las WCAG 2.2, ¿cuáles son las pautas de accesibilidad del principio “comprensible”?",
   "opciones": {
-    "A": "SUID",
-    "B": "SGID",
-    "C": "Evita borrar archivos ajenos",
-    "D": "Inmutable"
+    "A": "Accesible por teclado, tiempo suficiente, convulsiones y reacciones físicas, navegable y modalidades de entrada.",
+    "B": "Compatible.",
+    "C": "Legible, predecible y asistencia de entrada.",
+    "D": "Alternativas textuales, multimedia basado en el tiempo, adaptable y distinguible."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "El principio 'Comprensible' incluye legibilidad, predictibilidad y ayuda en la entrada de datos."
 },
 {
   "id": 50,
-  "enunciado": "Sistema NO distribuido:",
+  "enunciado": "¿Qué concepto se corresponde con la definición “las percepciones y respuestas del usuario que resultan del uso de un sistema, producto o servicio”?",
   "opciones": {
-    "A": "Git",
-    "B": "Subversion",
-    "C": "Mercurial",
-    "D": "Bitbucket"
+    "A": "Diseño universal.",
+    "B": "Experiencia de usuario.",
+    "C": "Usabilidad.",
+    "D": "Accesibilidad."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "La experiencia de usuario (UX) recoge las percepciones y respuestas del usuario al interactuar con un sistema."
 },
 {
   "id": 51,
-  "enunciado": "Metodología estándar minería de datos:",
+  "enunciado": "¿Cuál de los siguientes métodos constituye un estándar como metodología a la hora de abordar proyectos de minería de datos?",
   "opciones": {
-    "A": "CRISP-DM",
-    "B": "DMAL-DV",
-    "C": "MIT-DMP",
-    "D": "BDSK"
+    "A": "CRISP-DM (CRoss-Industry Standard Process for Data Mining).",
+    "B": "DMAL-DV (Data Mining and Learning - DevOps).",
+    "C": "MIT-DMP (Massachusetts Institute of Technology for Data Mining Processing).",
+    "D": "BDSK (Big Data Soft Kanban)."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "CRISP-DM es la metodología estándar en minería de datos, con fases como comprensión del negocio, datos, modelado y evaluación."
 },
 {
   "id": 52,
-  "enunciado": "Clustering es aprendizaje:",
+  "enunciado": "En Machine Learning, “clustering” constituye un ejemplo de aprendizaje:",
   "opciones": {
-    "A": "Supervisado",
-    "B": "No supervisado",
-    "C": "Balanceado",
-    "D": "Refuerzo"
+    "A": "Supervisado.",
+    "B": "No supervisado.",
+    "C": "Balanceado.",
+    "D": "Por refuerzo."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "El clustering agrupa datos sin etiquetas previas, por lo que es aprendizaje no supervisado."
 },
 {
   "id": 53,
-  "enunciado": "Responsabilidad principal DBA:",
+  "enunciado": "¿Qué responsabilidad principal tiene un administrador de bases de datos?",
   "opciones": {
-    "A": "Interfaz usuario",
-    "B": "Estrategia dato",
-    "C": "Redes",
-    "D": "Mantener BD accesibles"
+    "A": "Diseñar la interfaz de usuario de aplicaciones.",
+    "B": "Desarrollar estrategias del dato de la organización.",
+    "C": "Gestionar redes y sistemas de archivos de red.",
+    "D": "Mantener y asegurar que las bases de datos estén actualizadas y accesibles."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "El DBA se encarga de la disponibilidad, integridad, seguridad y mantenimiento de las bases de datos."
 },
 {
   "id": 54,
-  "enunciado": "Ejemplo PaaS:",
+  "enunciado": "¿Cuál de las siguientes opciones es un ejemplo de un servicio PaaS (Platform as a Service)?",
   "opciones": {
-    "A": "Amazon S3",
-    "B": "Google App Engine",
-    "C": "Microsoft 365",
-    "D": "EC2"
+    "A": "Un servicio de almacenamiento en la nube como Amazon S3.",
+    "B": "Un entorno de desarrollo gestionado en la nube como Google App Engine.",
+    "C": "Un software de ofimática en la nube como Microsoft 365.",
+    "D": "Un servidor virtual en la nube como una máquina EC2 de AWS."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "Google App Engine es un servicio PaaS. S3 y EC2 son IaaS; Microsoft 365 es SaaS."
 },
 {
   "id": 55,
-  "enunciado": "Responsabilidad usuario en SaaS:",
+  "enunciado": "¿Qué responsabilidad tiene el usuario en un modelo SaaS (Software as a Service) según el modelo de responsabilidad compartida?",
   "opciones": {
-    "A": "Infraestructura",
-    "B": "Accesos y datos",
-    "C": "SO",
-    "D": "CPD físico"
+    "A": "Gestionar la seguridad de la infraestructura y redes.",
+    "B": "Configurar los controles de acceso y la gestión de datos.",
+    "C": "Aplicar actualizaciones al sistema operativo del servidor.",
+    "D": "Monitorear el estado físico de los servidores en los centros de datos del proveedor."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "En SaaS el proveedor gestiona infraestructura y software; el usuario gestiona accesos y datos."
 },
 {
   "id": 56,
-  "enunciado": "Mantenimiento predictivo:",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto al mantenimiento predictivo en equipos e instalaciones?",
   "opciones": {
-    "A": "Programado",
-    "B": "Tras fallo",
-    "C": "Monitorización para anticipar fallos",
-    "D": "Correctivo"
+    "A": "Se basa en intervenciones programadas regularmente sin considerar el estado real del equipo.",
+    "B": "Consiste en reparar los equipos únicamente después de que ocurra una avería.",
+    "C": "Utiliza el monitoreo continuo de variables como temperatura y vibración para anticipar fallos antes de que ocurran.",
+    "D": "Es sinónimo de mantenimiento correctivo."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "El mantenimiento predictivo analiza datos de funcionamiento para anticipar fallos antes de que ocurran."
 },
 {
   "id": 57,
-  "enunciado": "Plan gestión configuración Métrica 3:",
+  "enunciado": "¿En qué proceso de Métrica 3 se lleva a cabo la actividad “Establecimiento del Plan de Gestión de la Configuración” de la interfaz Gestión de la Configuración?",
   "opciones": {
-    "A": "Viabilidad",
-    "B": "Análisis",
-    "C": "Diseño",
-    "D": "Construcción"
+    "A": "Estudio de Viabilidad del Sistema.",
+    "B": "Análisis del Sistema de Información.",
+    "C": "Diseño del Sistema de Información.",
+    "D": "Construcción del Sistema de Información."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "El plan de gestión de configuración se define en la fase de Estudio de Viabilidad."
 },
 {
   "id": 58,
-  "enunciado": "GitOps aplica DevOps a:",
+  "enunciado": "Las prácticas recomendadas de DevOps para el desarrollo de aplicaciones, tales como el control de versiones, la colaboración y la CI/CD, ¿a qué campo los aplica GitOps?",
   "opciones": {
-    "A": "Infraestructura",
-    "B": "Autenticación",
-    "C": "Riesgos",
-    "D": "Ciberseguridad"
+    "A": "A la automatización de la infraestructura.",
+    "B": "A la automatización de la autenticación de usuarios.",
+    "C": "A la gestión y tratamiento de riesgos.",
+    "D": "A la gestión y tratamiento de la ciberseguridad."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "GitOps aplica prácticas DevOps (git, CI/CD) a la gestión de la infraestructura."
 },
 {
   "id": 59,
-  "enunciado": "Herramienta monitorización:",
+  "enunciado": "¿Cuál de las siguientes herramientas se utiliza comúnmente para monitorear y evaluar el rendimiento de un sistema operativo?",
   "opciones": {
-    "A": "Adobe Fusion",
-    "B": "LimeSurvey",
-    "C": "LM Studio",
-    "D": "Nagios"
+    "A": "Adobe Workfront Fusion.",
+    "B": "LimeSurvey.",
+    "C": "LM Studio.",
+    "D": "Nagios."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Nagios es una herramienta clásica de monitorización de sistemas."
 },
 {
   "id": 60,
-  "enunciado": "Beneficio deduplicación:",
+  "enunciado": "¿Cuál es el principal beneficio de la deduplicación en copias de seguridad?",
   "opciones": {
-    "A": "Reduce almacenamiento",
-    "B": "Acelera red",
-    "C": "Duplica datos",
-    "D": "Elimina antiguos"
+    "A": "Reduce el espacio de almacenamiento eliminando datos redundantes.",
+    "B": "Acelera la velocidad de la red al comprimir todos los archivos antes de la transmisión.",
+    "C": "Duplica los datos críticos en diferentes ubicaciones para mejorar la disponibilidad.",
+    "D": "Elimina los archivos más antiguos para liberar espacio en disco."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "La deduplicación elimina copias repetidas, reduciendo el almacenamiento necesario."
 },
 {
   "id": 61,
-  "enunciado": "Sistema almacenamiento red Ethernet:",
+  "enunciado": "¿Cuál de los siguientes sistemas de almacenamiento se conecta directamente a una red Ethernet y utiliza protocolos como NFS o SMB/CIFS para compartir archivos?",
   "opciones": {
-    "A": "DAS",
-    "B": "SAN",
-    "C": "NAS",
-    "D": "SCSI"
+    "A": "DAS (Direct Attached Storage).",
+    "B": "SAN (Storage Area Network).",
+    "C": "NAS (Network Attached Storage).",
+    "D": "SCSI (Small Computer System Interface)."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "NAS se conecta a la red y usa protocolos de compartición de archivos como SMB o NFS."
 },
 {
   "id": 62,
-  "enunciado": "Dirección MAC:",
+  "enunciado": "La dirección MAC:",
   "opciones": {
-    "A": "Asignada DNS",
-    "B": "Cambia",
-    "C": "Única",
-    "D": "24 bits"
+    "A": "Es asignada por el servidor DNS.",
+    "B": "Se establece en la capa MAC y cambia frecuentemente.",
+    "C": "Es única por dispositivo.",
+    "D": "Está formada por un total de 24 bits."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "La MAC es única para cada dispositivo y normalmente tiene 48 bits."
 },
 {
   "id": 63,
-  "enunciado": "Switches:",
+  "enunciado": "Los conmutadores o switches:",
   "opciones": {
-    "A": "Interconectan redes",
-    "B": "Interconectan segmentos enlace",
-    "C": "Solo dos segmentos",
-    "D": "No transparentes"
+    "A": "Permiten la interconexión de redes de área local separadas físicamente.",
+    "B": "Interconectan múltiples segmentos de red a nivel de enlace.",
+    "C": "Conectan un máximo de dos segmentos de red.",
+    "D": "Funcionan de manera opaca para el resto de dispositivos."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "Los switches operan en capa 2, interconectando segmentos mediante direcciones MAC."
 },
 {
   "id": 64,
-  "enunciado": "Capas OSI:",
+  "enunciado": "¿Cuántas capas conforman el modelo OSI?",
   "opciones": {
-    "A": "4",
-    "B": "5",
-    "C": "6",
-    "D": "7"
+    "A": "4.",
+    "B": "5.",
+    "C": "6.",
+    "D": "7."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "El modelo OSI tiene 7 capas: física, enlace, red, transporte, sesión, presentación y aplicación."
 },
 {
   "id": 65,
-  "enunciado": "Protocolo capa aplicación:",
+  "enunciado": "¿Cuál de los siguientes protocolos opera en la capa de aplicación del modelo TCP/IP?",
   "opciones": {
-    "A": "IP",
-    "B": "TCP",
-    "C": "HTTP",
-    "D": "UDP"
+    "A": "IP.",
+    "B": "TCP.",
+    "C": "HTTP.",
+    "D": "UDP."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "HTTP es protocolo de aplicación. TCP es transporte; IP red."
 },
 {
   "id": 66,
-  "enunciado": "Asignación IP dinámica:",
+  "enunciado": "¿Qué protocolo se utiliza para la asignación dinámica de direcciones IP en una red?",
   "opciones": {
-    "A": "DNS",
-    "B": "DHCP",
-    "C": "FTP",
-    "D": "SMTP"
+    "A": "DNS.",
+    "B": "DHCP.",
+    "C": "FTP.",
+    "D": "SMTP."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "DHCP asigna direcciones IP automáticamente en redes."
 },
 {
   "id": 67,
-  "enunciado": "Infraestructura telecom CPD:",
+  "enunciado": "¿Cuál es el estándar que especifica los requisitos para la infraestructura de telecomunicaciones para los centros de datos?",
   "opciones": {
-    "A": "CMIS",
-    "B": "ISO 27001",
-    "C": "TWAIN",
-    "D": "TIA-942"
+    "A": "CMIS.",
+    "B": "ISO/IEC 27001.",
+    "C": "TWAIN.",
+    "D": "ANSI/TIA-942."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "TIA-942 define estándares de infraestructura de centros de datos."
 },
 {
   "id": 68,
-  "enunciado": "Conmutación circuitos vs paquetes:",
+  "enunciado": "¿Cuál es una diferencia clave entre la conmutación de circuitos y la conmutación de paquetes?",
   "opciones": {
-    "A": "Circuitos camino fijo",
-    "B": "Paquetes con conexión previa",
-    "C": "Circuitos solo IP",
-    "D": "Circuitos más eficientes"
+    "A": "La conmutación de circuitos establece un camino fijo antes de la comunicación.",
+    "B": "La conmutación de paquetes requiere conexión previa.",
+    "C": "Circuitos solo IP.",
+    "D": "Circuitos más eficientes."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "La conmutación de circuitos usa un camino fijo; la de paquetes envía datos por rutas variables."
 },
 {
   "id": 69,
-  "enunciado": "Protocolo estado enlace:",
+  "enunciado": "¿Cuál de los siguientes protocolos de encaminamiento se basa exclusivamente en el estado del enlace?",
   "opciones": {
-    "A": "BGP",
-    "B": "EIGRP",
-    "C": "RIP",
-    "D": "OSPF"
+    "A": "BGP.",
+    "B": "EIGRP.",
+    "C": "RIP.",
+    "D": "OSPF."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "OSPF es un protocolo de estado de enlace. RIP es vector distancia."
 },
 {
   "id": 70,
-  "enunciado": "Cifrado con una clave:",
+  "enunciado": "¿Qué tipo de cifrado de datos utiliza una única clave para cifrar y descifrar los datos?",
   "opciones": {
-    "A": "Simétrico",
-    "B": "Asimétrico",
-    "C": "Híbrido",
-    "D": "Firma"
+    "A": "Simétrico.",
+    "B": "Asimétrico.",
+    "C": "Híbrido.",
+    "D": "Firma digital."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "El cifrado simétrico utiliza una única clave compartida."
 },
 {
   "id": 71,
-  "enunciado": "Ataque múltiples equipos:",
+  "enunciado": "¿Qué tipo de ciberataque consiste en atacar un servidor web al mismo tiempo desde muchos equipos diferentes para que deje de funcionar al no poder soportar tantas peticiones?",
   "opciones": {
-    "A": "DoS",
-    "B": "Spoofing",
-    "C": "SQLi",
-    "D": "DDoS"
+    "A": "DoS.",
+    "B": "Spoofing.",
+    "C": "Inyección SQL.",
+    "D": "DDoS."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "Un ataque DDoS distribuye el ataque entre múltiples equipos."
 },
 {
   "id": 72,
-  "enunciado": "Base web semántica:",
+  "enunciado": "¿Cuál de las siguientes tecnologías se considera la base de la web semántica?",
   "opciones": {
-    "A": "FTP",
-    "B": "RDF",
-    "C": "NTP",
-    "D": "TLS"
+    "A": "FTP.",
+    "B": "RDF.",
+    "C": "NTP.",
+    "D": "TLS."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "RDF es la base del modelo de datos de la web semántica."
 },
 {
   "id": 73,
-  "enunciado": "IoT larga distancia bajo consumo:",
+  "enunciado": "En el contexto de IoT, ¿qué tecnología permite que dispositivos de bajo consumo envíen datos a largas distancias?",
   "opciones": {
-    "A": "LoRaWAN",
-    "B": "Zigbee",
-    "C": "NFC",
-    "D": "BLE"
+    "A": "LoRaWAN.",
+    "B": "Zigbee.",
+    "C": "NFC.",
+    "D": "BLE."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "LoRaWAN permite comunicaciones de largo alcance con bajo consumo energético."
 },
 {
   "id": 74,
-  "enunciado": "GPON:",
+  "enunciado": "¿Cuál de las siguientes afirmaciones describe correctamente una función de GPON?",
   "opciones": {
-    "A": "Alta velocidad >1Gbps",
-    "B": "Necesita switches",
-    "C": "No transmite voz",
-    "D": "Usa activos"
+    "A": "Permite transmisión de datos a alta velocidad.",
+    "B": "Requiere switches Ethernet.",
+    "C": "No permite voz.",
+    "D": "Utiliza activos."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "GPON permite altas velocidades de transmisión sobre fibra óptica."
 },
 {
   "id": 75,
-  "enunciado": "FTTH:",
+  "enunciado": "¿Cuál de las siguientes afirmaciones es correcta respecto a los tipos de redes de fibra óptica?",
   "opciones": {
-    "A": "Fibra hasta hogar",
-    "B": "Fibra a central",
-    "C": "Solo FTTB",
-    "D": "Obsoletas"
+    "A": "FTTH lleva fibra hasta el hogar.",
+    "B": "FTTB llega a central.",
+    "C": "FTTx solo incluye FTTH y FTTB.",
+    "D": "FTTH es obsoleto."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "FTTH (Fiber to the Home) lleva la fibra directamente al domicilio del usuario."
 },
 {
   "id": 76,
-  "enunciado": "¿Qué protocolo es fundamental en VoIP para la gestión de sesiones?",
+  "enunciado": "¿Qué protocolo es fundamental para la gestión de sesiones en la transmisión de voz sobre IP (VoIP)?",
   "opciones": {
-    "A": "ARP",
-    "B": "FTPS",
-    "C": "SIP",
-    "D": "SNMP"
+    "A": "ARP.",
+    "B": "FTPS.",
+    "C": "SIP.",
+    "D": "SNMP."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "SIP (Session Initiation Protocol) se utiliza para establecer, gestionar y finalizar sesiones en VoIP."
 },
 {
   "id": 77,
-  "enunciado": "Objetivo de la convergencia fijo-móvil en NGN:",
+  "enunciado": "¿Cuál es el objetivo principal de la convergencia entre telefonía fija y móvil en las redes de nueva generación (NGN)?",
   "opciones": {
-    "A": "Separar servicios",
-    "B": "Aumentar costes",
-    "C": "Mantener redes tradicionales",
-    "D": "Integrar voz, datos y multimedia"
+    "A": "Separar los servicios de voz móvil y fija para mejorar la calidad del servicio.",
+    "B": "Aumentar los costes operativos de las telecomunicaciones al duplicar la infraestructura.",
+    "C": "Mantener la dependencia de las redes tradicionales de telefonía móvil y fija.",
+    "D": "Integrar servicios de voz, datos y multimedia en una única infraestructura para ofrecer un acceso transparente a los usuarios."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "La convergencia NGN busca integrar todos los servicios (voz, datos, multimedia) en una única red."
 },
 {
   "id": 78,
-  "enunciado": "Procedimiento para mantener conexión al cambiar de celda:",
+  "enunciado": "¿Cómo se denomina en comunicaciones móviles al procedimiento mediante el cual se consigue que una conexión se mantenga cuando el móvil cambia de celda, de manera que su enlace con la red es establecido a través de una nueva estación base, dependiente de la misma central de conmutación?",
   "opciones": {
-    "A": "MiTM",
-    "B": "Hand-over",
-    "C": "Hijacking",
-    "D": "WCDMA"
+    "A": "Man in the Middle (MiTM).",
+    "B": "Hand-over.",
+    "C": "Hijacking.",
+    "D": "WCDMA."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "El handover permite mantener la conexión al cambiar de celda en redes móviles."
 },
 {
   "id": 79,
-  "enunciado": "Red basada en IEEE 802.11:",
+  "enunciado": "¿Qué redes inalámbricas de uso ampliamente extendido se basan en el estándar IEEE 802.11?",
   "opciones": {
-    "A": "Bluetooth",
-    "B": "WiMAX",
-    "C": "Wi-Fi",
-    "D": "Zigbee"
+    "A": "Bluetooth.",
+    "B": "WiMAX.",
+    "C": "Wi-Fi.",
+    "D": "Zigbee."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "IEEE 802.11 es el estándar de redes Wi-Fi."
 },
 {
   "id": 80,
-  "enunciado": "Diferencia IPTV vs OTT:",
+  "enunciado": "¿Qué diferencia principal existe entre IPTV y OTT en cuanto a la entrega de servicios de televisión?",
   "opciones": {
-    "A": "IPTV usa Internet",
-    "B": "OTT usa red privada",
-    "C": "IPTV solo en vivo",
-    "D": "OTT usa Internet e IPTV redes privadas"
+    "A": "IPTV requiere conexión a Internet mientras OTT usa red privada.",
+    "B": "OTT necesita infraestructura dedicada mientras IPTV usa Internet.",
+    "C": "IPTV solo ofrece directo y OTT solo bajo demanda.",
+    "D": "OTT se entrega a través de Internet mientras IPTV utiliza redes privadas de telecomunicaciones."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "OTT usa Internet abierta; IPTV funciona sobre redes gestionadas por operadores."
 },
 {
   "id": 81,
-  "enunciado": "Modelo OAIS se recoge en:",
+  "enunciado": "Referente a la gestión documental, ¿en qué estándar ISO se recoge el modelo OAIS (Sistema abierto de información de archivo)?",
   "opciones": {
-    "A": "ISO 15489",
-    "B": "ISO 30300",
-    "C": "ISO 23081",
-    "D": "ISO 14721"
+    "A": "ISO 15489.",
+    "B": "ISO 30300.",
+    "C": "ISO 23081.",
+    "D": "ISO 14721."
   },
-  "correcta": "D"
+  "correcta": "d",
+  "explicacion": "El modelo OAIS está definido en la norma ISO 14721."
 },
 {
   "id": 82,
-  "enunciado": "Herramienta análisis memoria RAM forense:",
+  "enunciado": "En informática forense, ¿qué herramienta es utilizada para analizar el contenido de la memoria RAM durante una investigación de incidentes de seguridad?",
   "opciones": {
-    "A": "Wireshark",
-    "B": "Autopsy",
-    "C": "Volatility",
-    "D": "Nmap"
+    "A": "Wireshark.",
+    "B": "Autopsy.",
+    "C": "Volatility.",
+    "D": "Nmap."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "Volatility es una herramienta específica para análisis forense de memoria RAM."
 },
 {
   "id": 83,
-  "enunciado": "Norma para indicadores de gestión:",
+  "enunciado": "¿Qué norma incluye una guía para la implantación de sistemas de indicadores, especificando las directrices para la definición y el desarrollo de indicadores de gestión?",
   "opciones": {
-    "A": "UNE 66175",
-    "B": "UNE 27001",
-    "C": "UNE 71500",
-    "D": "UNE 35061"
+    "A": "UNE 66175.",
+    "B": "UNE 27001.",
+    "C": "UNE 71500.",
+    "D": "UNE 35061."
   },
-  "correcta": "A"
+  "correcta": "a",
+  "explicacion": "La norma UNE 66175 establece directrices para la implantación de sistemas de indicadores."
 },
 {
   "id": 84,
-  "enunciado": "Sobre SNMPv3:",
+  "enunciado": "En una infraestructura de red que utiliza SNMPv3, ¿cuál de las siguientes afirmaciones es correcta en relación con la seguridad?",
   "opciones": {
-    "A": "Solo IP sin cifrado",
-    "B": "Introduce autenticación y cifrado",
-    "C": "Versiones previas seguras",
-    "D": "Solo comunidad public"
+    "A": "SNMPv3 utiliza autenticación basada solo en IP.",
+    "B": "Introduce autenticación y cifrado.",
+    "C": "Versiones previas ya eran seguras.",
+    "D": "Se basa en comunidad public."
   },
-  "correcta": "B"
+  "correcta": "b",
+  "explicacion": "SNMPv3 introduce autenticación y cifrado, mejorando la seguridad frente a versiones anteriores."
 },
 {
   "id": 85,
-  "enunciado": "Orden correcto complejidad O():",
+  "enunciado": "¿Cuál de las siguientes ordenaciones es correcta en cuanto a complejidad algorítmica?",
   "opciones": {
-    "A": "O(1), O(log n), O(n), O(n!)",
-    "B": "O(log n), O(n), O(n!), O(1)",
-    "C": "O(n!), O(n), O(1), O(log n)",
-    "D": "O(1), O(n), O(log n), O(n!)"
+    "A": "O(1), O(log n), O(n), O(n!).",
+    "B": "O(log n), O(n), O(n!), O(1).",
+    "C": "O(n!), O(n), O(1), O(log n).",
+    "D": "O(1), O(n), O(log n), O(n!)."
   },
-  "correcta": "C"
+  "correcta": "c",
+  "explicacion": "⚠️ Correcto real: A. El orden creciente es O(1) < O(log n) < O(n) < O(n!). La plantilla aquí contiene un error."
 }
   ]
 }
