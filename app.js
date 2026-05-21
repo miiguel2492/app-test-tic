@@ -57,25 +57,29 @@ document.getElementById("siguiente").addEventListener("click", () => {
     respuestaSeleccionada = seleccionada.value;
     respuestas[preguntaActual.id] = respuestaSeleccionada;
 
-    if (respuestaSeleccionada === preguntaActual.correcta) {
+    // ✅ COMPARACIÓN ROBUSTA
+    const correcta = String(preguntaActual.correcta).toLowerCase().trim();
+    const seleccion = String(respuestaSeleccionada).toLowerCase().trim();
+
+    if (seleccion === correcta) {
       feedback.innerHTML = `
         <div style="color:green;">✅ Correcto</div>
 
         <div class="explicacion">
           <strong>Explicación:</strong><br>
-          ${preguntaActual.explicacion || "Sin explicación disponible"}
+          ${preguntaActual.explicacion ? preguntaActual.explicacion : "⚠️ Sin explicación disponible"}
         </div>
       `;
     } else {
       feedback.innerHTML = `
         <div style="color:red;">
           ❌ Incorrecto. La respuesta correcta es 
-          <strong>${preguntaActual.correcta}</strong>
+          <strong>${preguntaActual.correcta.toUpperCase()}</strong>
         </div>
 
         <div class="explicacion">
           <strong>Explicación:</strong><br>
-          ${preguntaActual.explicacion || "Sin explicación disponible"}
+          ${preguntaActual.explicacion ? preguntaActual.explicacion : "⚠️ Sin explicación disponible"}
         </div>
       `;
     }
@@ -105,10 +109,18 @@ function finalizarExamen() {
   let aciertos = 0;
 
   preguntas.forEach(p => {
-    if (respuestas[p.id] === p.correcta) aciertos++;
+    const resp = respuestas[p.id];
+
+    if (
+      resp &&
+      String(resp).toLowerCase().trim() ===
+      String(p.correcta).toLowerCase().trim()
+    ) {
+      aciertos++;
+    }
   });
 
-  const nota = (aciertos / preguntas.length * 10).toFixed(2);
+  const nota = ((aciertos / preguntas.length) * 10).toFixed(2);
 
   document.getElementById("resultado").innerHTML = `
     <h2>Resultado</h2>
